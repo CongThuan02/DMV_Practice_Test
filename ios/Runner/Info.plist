@@ -8,11 +8,12 @@
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleLocalizations</key>
 	<array>
-		<string>vi</string>
 		<string>en</string>
 	</array>
 	<key>CFBundleDisplayName</key>
-	<string>Dmv Practice Test</string>
+	<string>DMV Practice Test</string>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-3940256099942544~1458002511</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>

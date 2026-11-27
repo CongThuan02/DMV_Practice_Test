@@ -1,0 +1,1181 @@
+[
+  {
+    "id": "tx-parking-001",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "In Texas, you may not stand or park a vehicle within ___ feet of a fire hydrant.",
+    "image": null,
+    "options": [
+      "10",
+      "15",
+      "25"
+    ],
+    "answer": 1,
+    "explain": "Texas law keeps parked and standing vehicles at least 15 feet away from a fire hydrant so firefighters can reach it.",
+    "source": "Tex. Transp. Code § 545.302(b)(2)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-002",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "You may not stand or park within ___ feet of a crosswalk at an intersection.",
+    "image": null,
+    "options": [
+      "20",
+      "10",
+      "40"
+    ],
+    "answer": 0,
+    "explain": "Parking must stay at least 20 feet back from a crosswalk at an intersection so drivers and pedestrians can see each other.",
+    "source": "Tex. Transp. Code § 545.302(b)(3)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-003",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "On the approach to a stop sign at the side of the road, you may not stand or park within ___ feet of the sign.",
+    "image": null,
+    "options": [
+      "15",
+      "50",
+      "30"
+    ],
+    "answer": 2,
+    "explain": "Texas bars standing or parking within 30 feet on the approach to a stop sign, yield sign, flashing signal or traffic signal at the roadside, so the sign or signal stays visible.",
+    "source": "Tex. Transp. Code § 545.302(b)(4)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-004",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "You may not park within ___ feet of the nearest rail of a railroad crossing.",
+    "image": null,
+    "options": [
+      "25",
+      "50",
+      "100"
+    ],
+    "answer": 1,
+    "explain": "Parked vehicles must stay at least 50 feet from the nearest rail of a railroad crossing.",
+    "source": "Tex. Transp. Code § 545.302(c)(1)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-005",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "On the same side of the street, you may not stand or park within ___ feet of the driveway entrance to a fire station.",
+    "image": null,
+    "options": [
+      "20",
+      "15",
+      "50"
+    ],
+    "answer": 0,
+    "explain": "Texas keeps the area within 20 feet of a fire station driveway clear so fire trucks can get out quickly.",
+    "source": "Tex. Transp. Code § 545.302(b)(5)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-006",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "If a fire station entrance is marked with a sign, you may not park on the opposite side of the street within ___ feet of the entrance.",
+    "image": null,
+    "options": [
+      "30",
+      "50",
+      "75"
+    ],
+    "answer": 2,
+    "explain": "When the entrance is properly signed, parking across the street within 75 feet of it is not allowed, so fire trucks have room to swing out.",
+    "source": "Tex. Transp. Code § 545.302(b)(5)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-007",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "When parking on a two-way street, your right-hand wheels must be parallel to and within ___ inches of the right curb or edge of the road.",
+    "image": null,
+    "options": [
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": 1,
+    "explain": "Texas law requires parallel parking with the right wheels no more than 18 inches from the right curb or road edge.",
+    "source": "Tex. Transp. Code § 545.303(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.303",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-008",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "If you must stop on the main traveled part of a highway outside a business or residence district, your vehicle must be in clear view for at least ___ feet in each direction.",
+    "image": null,
+    "options": [
+      "100",
+      "500",
+      "200"
+    ],
+    "answer": 2,
+    "explain": "A vehicle stopped on the main part of a rural highway must be clearly visible for at least 200 feet each way, and other traffic must still have room to pass.",
+    "source": "Tex. Transp. Code § 545.301(a)(3)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.301",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-009",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "A first offense for parking illegally in a space reserved for people with disabilities carries a fine of at least $___.",
+    "image": null,
+    "options": [
+      "100",
+      "500",
+      "250"
+    ],
+    "answer": 1,
+    "explain": "A first offense for illegally parking in a disabled space is a misdemeanor with a fine of $500 to $750.",
+    "source": "Tex. Transp. Code § 681.011(g)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.681.htm#681.011",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-010",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "A car is already parked at the curb. Can you stop next to it on the traffic side (double-park) for a short time?",
+    "image": null,
+    "options": [
+      "Yes, if you keep your hazard lights on",
+      "No, stopping on the roadway side of a car parked at the curb is not allowed",
+      "Yes, for up to five minutes"
+    ],
+    "answer": 1,
+    "explain": "Texas law bars stopping, standing or parking on the roadway side of a vehicle that is stopped or parked at the curb, because double parking blocks a traffic lane.",
+    "source": "Tex. Transp. Code § 545.302(a)(1)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-011",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Unless traffic or an officer requires it, in which place may you NOT stop your vehicle at all?",
+    "image": null,
+    "options": [
+      "On the shoulder of a rural road, well clear of traffic",
+      "In a marked parking space on a city street",
+      "On a bridge or in a highway tunnel"
+    ],
+    "answer": 2,
+    "explain": "Stopping, standing and parking are all banned on a bridge or other elevated highway structure and in a highway tunnel.",
+    "source": "Tex. Transp. Code § 545.302(a)(7)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-012",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Which of these places is always off-limits for stopping, standing or parking under Texas law?",
+    "image": null,
+    "options": [
+      "On a railroad track",
+      "Next to an unmarked curb on a residential street",
+      "In a parking lot space"
+    ],
+    "answer": 0,
+    "explain": "You may never stop, stand or park on a railroad track; a train cannot stop quickly to avoid you.",
+    "source": "Tex. Transp. Code § 545.302(a)(8)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-013",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "When may you stand a vehicle in front of someone's private driveway?",
+    "image": null,
+    "options": [
+      "Any time, if you stay in the car",
+      "Only for a moment to pick up or drop off a passenger",
+      "Never, not even to let a passenger out"
+    ],
+    "answer": 1,
+    "explain": "Standing or parking in front of a public or private driveway is banned, except for a brief stop to pick up or let out a passenger.",
+    "source": "Tex. Transp. Code § 545.302(b)(1)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-014",
+    "type": "sign",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "You need to stop within 50 feet of the nearest rail at a crossing marked by this sign. When is that allowed?",
+    "image": "assets/images/signs/railroad_crossbuck.svg",
+    "options": [
+      "Only while temporarily loading or unloading merchandise or passengers",
+      "Whenever no train is in sight",
+      "Never, under any circumstances"
+    ],
+    "answer": 0,
+    "explain": "The 50-foot no-parking rule at railroad crossings has a narrow exception for temporarily loading or unloading goods or passengers.",
+    "source": "Tex. Transp. Code § 545.302(c)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-015",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "On a two-way street, how must you parallel park?",
+    "image": null,
+    "options": [
+      "Facing either direction, as long as you are close to the curb",
+      "With your left wheels next to the left curb",
+      "With your right wheels next to the right curb, facing the direction of traffic"
+    ],
+    "answer": 2,
+    "explain": "On a two-way roadway you park on the right, parallel to the right curb or edge with your right-hand wheels close to it, so you face the same way as traffic in that lane.",
+    "source": "Tex. Transp. Code § 545.303(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.303",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-016",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "On a one-way street with no local rule saying otherwise, where may you parallel park?",
+    "image": null,
+    "options": [
+      "Only along the right curb",
+      "Along the right curb or the left curb, facing the direction of traffic",
+      "Along either curb, facing either direction"
+    ],
+    "answer": 1,
+    "explain": "On a one-way roadway you may park with your right wheels within 18 inches of the right curb or your left wheels within 18 inches of the left curb, pointed the way traffic moves.",
+    "source": "Tex. Transp. Code § 545.303(b)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.303",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-017",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "Outside a business or residence district, when may you stop on the main traveled part of a highway?",
+    "image": null,
+    "options": [
+      "Only if pulling off the road is not practical, other traffic can still pass, and your vehicle can be seen from far enough away",
+      "Any time your hazard lights are on",
+      "Whenever you need to check a map or make a phone call"
+    ],
+    "answer": 0,
+    "explain": "On rural highways you must pull off the main traveled lanes if you can; stopping on them is allowed only when leaving the road is not practical, a lane stays open beside you, and you are clearly visible.",
+    "source": "Tex. Transp. Code § 545.301(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.301",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-018",
+    "type": "sign",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "This sign stands at the side of the road ahead. How close to it may you park on your approach?",
+    "image": "assets/images/signs/yield.svg",
+    "options": [
+      "No closer than 15 feet",
+      "No closer than 30 feet",
+      "Right up to the sign"
+    ],
+    "answer": 1,
+    "explain": "Texas bars standing or parking within 30 feet on the approach to a yield sign, stop sign or roadside signal, so other drivers can see it.",
+    "source": "Tex. Transp. Code § 545.302(b)(4)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-019",
+    "type": "scenario",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "You are leaving your car parked on a downhill street next to a curb. Why are the front wheels turned as shown?",
+    "image": "assets/images/scenarios/downhill_with_curb.svg",
+    "options": [
+      "It makes the car easier to pull out later",
+      "It is only needed for trucks",
+      "Texas law requires turning the front wheels to the curb when an unattended car is on a grade"
+    ],
+    "answer": 2,
+    "explain": "When you leave a vehicle unattended on a grade, Texas law requires turning the front wheels to the curb or side of the road so the car will not roll into traffic.",
+    "source": "Tex. Transp. Code § 545.404(a)(5)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.404",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-020",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Before walking away from your parked car, what does Texas law require you to do?",
+    "image": null,
+    "options": [
+      "Turn on the hazard lights and leave the engine idling",
+      "Stop the engine, lock the ignition, remove the key and set the parking brake",
+      "Leave the key in the car so it can be moved if needed"
+    ],
+    "answer": 1,
+    "explain": "An unattended vehicle must have the engine off, the ignition locked, the key removed and the parking brake set.",
+    "source": "Tex. Transp. Code § 545.404(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.404",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-021",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "May you leave your car unattended with the engine running after starting it with a remote starter?",
+    "image": null,
+    "options": [
+      "Yes, if the car cannot be driven until the key is in the ignition or inside the car",
+      "No, the engine must always be off when the car is unattended",
+      "Yes, but only for up to 30 minutes"
+    ],
+    "answer": 0,
+    "explain": "The engine-off, locked-ignition and key-removal rules do not apply to a remote start when the car cannot be driven unless the key is in the ignition or physically inside the car.",
+    "source": "Tex. Transp. Code § 545.404(b)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.404",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-022",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "You are parked at the curb and ready to leave. When may you pull out?",
+    "image": null,
+    "options": [
+      "As soon as your turn signal has been on for a few seconds",
+      "Only when you can move out safely",
+      "Whenever the car behind you flashes its lights"
+    ],
+    "answer": 1,
+    "explain": "A stopped or parked vehicle may start moving only when the movement can be made safely; signaling alone does not give you the right to pull out.",
+    "source": "Tex. Transp. Code § 545.402",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.402",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-023",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "You are parked on a busy street. What is the rule for opening the door on the traffic side?",
+    "image": null,
+    "options": [
+      "Open it whenever you like; passing drivers must avoid you",
+      "Never open a traffic-side door on a public street",
+      "Open it only when it is reasonably safe and close it as soon as you finish loading or unloading"
+    ],
+    "answer": 2,
+    "explain": "You may open a door on the traffic side only if you can do so safely without interfering with traffic, and you may not leave it open longer than needed to load or unload a passenger.",
+    "source": "Tex. Transp. Code § 545.418",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.418",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-024",
+    "type": "image_options",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "In Texas, a disabled parking placard issued for a TEMPORARY disability shows the access symbol on a shield of which color?",
+    "image": null,
+    "options": [
+      {
+        "label": "Blue",
+        "color": "#1565c0"
+      },
+      {
+        "label": "Green",
+        "color": "#2e7d32"
+      },
+      {
+        "label": "Red",
+        "color": "#c62828"
+      }
+    ],
+    "answer": 2,
+    "explain": "Texas placards show the white access symbol on a red shield for a temporary disability and on a blue shield for a permanent disability.",
+    "source": "Tex. Transp. Code § 681.002(b)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.681.htm#681.002",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-025",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Where should a disabled parking placard be placed when you use a disabled parking space?",
+    "image": null,
+    "options": [
+      "On the rearview mirror",
+      "On the rear bumper",
+      "Kept in the glove compartment, to show if asked"
+    ],
+    "answer": 0,
+    "explain": "Parking privileges apply when the placard is hung on the rearview mirror at the front windshield, or when the vehicle has disabled license plates.",
+    "source": "Tex. Transp. Code § 681.006(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.681.htm#681.006",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-026",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "You park in a regular space but your car sticks into the striped access aisle beside a disabled space. Is this a violation?",
+    "image": null,
+    "options": [
+      "No, only parking inside the disabled space itself is an offense",
+      "Yes, blocking an access aisle or curb ramp is an offense",
+      "Only if a person with a disability complains"
+    ],
+    "answer": 1,
+    "explain": "Texas makes it an offense to leave a vehicle where it blocks an access aisle, curb ramp or other feature built to help people with disabilities.",
+    "source": "Tex. Transp. Code § 681.011(c)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.681.htm#681.011",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-027",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "A driver displaying a valid disabled parking placard wants to park in a fire lane where signs prohibit parking. Is this allowed?",
+    "image": null,
+    "options": [
+      "Yes, a placard allows parking anywhere",
+      "Yes, for up to one hour",
+      "No, a placard does not allow parking where parking is prohibited"
+    ],
+    "answer": 2,
+    "explain": "Disabled parking privileges do not let a vehicle park at a time or place where parking is prohibited.",
+    "source": "Tex. Transp. Code § 681.006(d)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.681.htm#681.006",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-028",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Your relative lends you their disabled parking placard, and you use it to park in a disabled space while running your own errands. Who has broken the law?",
+    "image": null,
+    "options": [
+      "Only the relative, because it is their placard",
+      "Both of you: illegal use of the space is an offense, and so is lending a placard that gets misused",
+      "Nobody, because the placard is valid"
+    ],
+    "answer": 1,
+    "explain": "Using a disabled space without being or transporting the placard holder is an offense, and lending your placard to someone who misuses it is a separate offense.",
+    "source": "Tex. Transp. Code § 681.011(a), (d)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.681.htm#681.011",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-029",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Can you park your car with two wheels on the sidewalk to leave more room in the street?",
+    "image": null,
+    "options": [
+      "No, stopping, standing or parking a motor vehicle on a sidewalk is not allowed",
+      "Yes, if the street is narrow",
+      "Yes, at night only"
+    ],
+    "answer": 0,
+    "explain": "Texas law bars stopping, standing or parking a vehicle on a sidewalk; only bicycles may be parked there, and only if they do not block pedestrians.",
+    "source": "Tex. Transp. Code § 545.302(a)(2), (d)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-parking-030",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Unless traffic or an officer requires it, where is stopping your vehicle prohibited?",
+    "image": null,
+    "options": [
+      "In a marked loading zone while unloading",
+      "In an intersection or on a crosswalk",
+      "In a driveway on your own property"
+    ],
+    "answer": 1,
+    "explain": "You may not stop, stand or park in an intersection or on a crosswalk unless you must do so to avoid traffic or to obey an officer or traffic control device.",
+    "source": "Tex. Transp. Code § 545.302(a)(3)-(4), (f)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.545.htm#545.302",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-001",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "Under Texas law, a person with an alcohol concentration of ___ or more is legally intoxicated.",
+    "image": null,
+    "options": [
+      "0.05",
+      "0.08",
+      "0.10"
+    ],
+    "answer": 1,
+    "explain": "Texas defines intoxicated as including an alcohol concentration of 0.08 or more.",
+    "source": "Tex. Penal Code § 49.01(2)(B)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.01",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-002",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "An adult driver's breath test shows 0.06. Can the driver still be considered intoxicated in Texas?",
+    "image": null,
+    "options": [
+      "No, a result under 0.08 means the driver is legally sober",
+      "Only if the driver is carrying an open container",
+      "Yes, if alcohol has taken away the normal use of the driver's mental or physical faculties"
+    ],
+    "answer": 2,
+    "explain": "Texas has two ways to be intoxicated: a 0.08 or higher alcohol concentration, or losing the normal use of your mental or physical abilities because of alcohol or another substance.",
+    "source": "Tex. Penal Code § 49.01(2)(A)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.01",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-003",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Which of the following can make a driver legally intoxicated in Texas?",
+    "image": null,
+    "options": [
+      "Alcohol, drugs, or any other substance that takes away the normal use of the driver's faculties",
+      "Only alcohol",
+      "Only illegal drugs"
+    ],
+    "answer": 0,
+    "explain": "Texas counts impairment caused by alcohol, controlled substances, drugs, dangerous drugs, combinations of them, or any other substance.",
+    "source": "Tex. Penal Code § 49.01(2)(A)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.01",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-004",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "A driver is impaired by a medicine their doctor prescribed. In a Texas DWI case, does the prescription excuse them?",
+    "image": null,
+    "options": [
+      "Yes, a valid prescription is a complete defense",
+      "No, being entitled to use the drug is not a defense",
+      "Yes, if the driver was below 0.08"
+    ],
+    "answer": 1,
+    "explain": "Texas law says it is not a defense that the driver was legally entitled to use the substance that impaired them.",
+    "source": "Tex. Penal Code § 49.10",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.10",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-005",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "In Texas, the offense of driving while intoxicated (DWI) is committed when a person is intoxicated while:",
+    "image": null,
+    "options": [
+      "Operating a motor vehicle in a public place",
+      "Operating a motor vehicle on an interstate highway only",
+      "Sitting in a parked car with the engine off on private land"
+    ],
+    "answer": 0,
+    "explain": "DWI means being intoxicated while operating a motor vehicle in a public place, not just on highways.",
+    "source": "Tex. Penal Code § 49.04(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.04",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-006",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "A basic first-offense DWI in Texas carries a minimum jail term of ___ hours.",
+    "image": null,
+    "options": [
+      "24",
+      "48",
+      "72"
+    ],
+    "answer": 2,
+    "explain": "A standard DWI is a Class B misdemeanor with at least 72 hours of confinement.",
+    "source": "Tex. Penal Code § 49.04(b)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.04",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-007",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "If a DWI driver had an open container of alcohol within reach, the minimum jail term rises to ___ days.",
+    "image": null,
+    "options": [
+      "6",
+      "3",
+      "10"
+    ],
+    "answer": 0,
+    "explain": "Having an open container in the driver's immediate possession raises the DWI minimum confinement to six days.",
+    "source": "Tex. Penal Code § 49.04(c)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.04",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-008",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A DWI becomes a Class A misdemeanor if a blood, breath or urine test shows an alcohol concentration of ___ or more.",
+    "image": null,
+    "options": [
+      "0.10",
+      "0.20",
+      "0.15"
+    ],
+    "answer": 2,
+    "explain": "A test result of 0.15 or higher raises a DWI from a Class B to a Class A misdemeanor.",
+    "source": "Tex. Penal Code § 49.04(d)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.04",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-009",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "What happens to a DWI charge if the driver was in a school crossing zone while its reduced speed limit was in effect?",
+    "image": null,
+    "options": [
+      "It stays a Class B misdemeanor",
+      "It becomes a state jail felony",
+      "It is handled only as a speeding ticket"
+    ],
+    "answer": 1,
+    "explain": "Driving while intoxicated in an active school crossing zone turns DWI into a state jail felony.",
+    "source": "Tex. Penal Code § 49.04(e)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.04",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-010",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Driving while intoxicated with a passenger younger than ___ years old is a state jail felony in Texas.",
+    "image": null,
+    "options": [
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": 1,
+    "explain": "DWI with a passenger under 15 is a separate offense, DWI with child passenger, and it is a state jail felony.",
+    "source": "Tex. Penal Code § 49.045",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.045",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-011",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A DWI driver with one prior intoxication conviction faces a Class A misdemeanor with at least ___ days in jail.",
+    "image": null,
+    "options": [
+      "10",
+      "90",
+      "30"
+    ],
+    "answer": 2,
+    "explain": "With one prior conviction for an intoxication offense, DWI becomes a Class A misdemeanor with a minimum of 30 days of confinement.",
+    "source": "Tex. Penal Code § 49.09(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.09",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-012",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A driver with two prior DWI convictions is convicted of DWI again. What level of offense is it?",
+    "image": null,
+    "options": [
+      "A felony of the third degree",
+      "A Class B misdemeanor",
+      "A Class C misdemeanor"
+    ],
+    "answer": 0,
+    "explain": "DWI after two prior convictions for intoxication offenses such as DWI is a third-degree felony.",
+    "source": "Tex. Penal Code § 49.09(b)(2)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.09",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-013",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "An intoxicated driver causes a crash that leaves another person with a serious bodily injury. What offense is this?",
+    "image": null,
+    "options": [
+      "Reckless driving, a misdemeanor",
+      "Intoxication assault, a felony",
+      "Open container, a Class C misdemeanor"
+    ],
+    "answer": 1,
+    "explain": "Causing serious bodily injury to someone because of intoxication while driving is intoxication assault, normally a third-degree felony.",
+    "source": "Tex. Penal Code § 49.07",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.07",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-014",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "An intoxicated driver causes a crash in which someone dies. In Texas this is intoxication manslaughter, which is normally a:",
+    "image": null,
+    "options": [
+      "Class A misdemeanor",
+      "State jail felony",
+      "Second-degree felony"
+    ],
+    "answer": 2,
+    "explain": "Causing a death by accident or mistake because of intoxication while driving is intoxication manslaughter, a second-degree felony unless enhanced.",
+    "source": "Tex. Penal Code § 49.08",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.08",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-015",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Under the Texas open container law, which of these counts as an open container?",
+    "image": null,
+    "options": [
+      "Only a container that is more than half full",
+      "Any container of alcohol that has been opened, has a broken seal, or has had some contents removed",
+      "Only a container held in the driver's hand"
+    ],
+    "answer": 1,
+    "explain": "An open container is any bottle, can or other receptacle holding any amount of alcohol that is open, has been opened, has a broken seal, or is partly emptied.",
+    "source": "Tex. Penal Code § 49.031(a)(1)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.031",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-016",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "You are driving home with a partly finished bottle of wine. Where can you legally carry it in a car that has a trunk?",
+    "image": null,
+    "options": [
+      "In the trunk",
+      "On the back seat, if the cork is pushed back in",
+      "In an unlocked center console"
+    ],
+    "answer": 0,
+    "explain": "The open container law covers the passenger area; the trunk and a locked glove compartment are not part of the passenger area.",
+    "source": "Tex. Penal Code § 49.031(a)(2)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.031",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-017",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Your car is parked on the shoulder of a public road and you have an open can of beer in the front seat. Does the open container law apply?",
+    "image": null,
+    "options": [
+      "No, it applies only while the car is moving",
+      "No, it applies only to the driver",
+      "Yes, it applies whether the car is moving, stopped or parked on a public highway"
+    ],
+    "answer": 2,
+    "explain": "Knowingly having an open container in the passenger area of a vehicle on a public highway is an offense even if the vehicle is stopped or parked.",
+    "source": "Tex. Penal Code § 49.031(b)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.031",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-018",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "In which situation is a passenger NOT violating the open container law?",
+    "image": null,
+    "options": [
+      "Riding in the back seat of a friend's car",
+      "Riding as a passenger in a limousine or taxi that carries people for pay",
+      "Riding in the front seat of a pickup truck"
+    ],
+    "answer": 1,
+    "explain": "The law makes an exception for passengers in vehicles used mainly to carry people for pay, such as buses, taxis and limousines, and for the living quarters of motor homes.",
+    "source": "Tex. Penal Code § 49.031(c)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.031",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-019",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "By itself, having an open container of alcohol in the passenger area of a vehicle is what level of offense in Texas?",
+    "image": null,
+    "options": [
+      "Class C misdemeanor",
+      "Class A misdemeanor",
+      "Felony"
+    ],
+    "answer": 0,
+    "explain": "The open container offense is a Class C misdemeanor, and the officer normally issues a citation instead of taking the person to a magistrate.",
+    "source": "Tex. Penal Code § 49.031(d)-(e)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/PE/htm/PE.49.htm#49.031",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-020",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "Under the Texas Alcoholic Beverage Code, a \"minor\" is anyone under ___ years of age.",
+    "image": null,
+    "options": [
+      "18",
+      "21",
+      "19"
+    ],
+    "answer": 1,
+    "explain": "For alcohol laws, Texas defines a minor as a person under 21.",
+    "source": "Tex. Alco. Bev. Code § 106.01",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/AL/htm/AL.106.htm#106.01",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-021",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "How much alcohol may a driver under 21 have in their system while driving in a public place in Texas?",
+    "image": null,
+    "options": [
+      "Up to 0.02",
+      "Up to 0.08, the same as adults",
+      "None; any detectable amount is an offense"
+    ],
+    "answer": 2,
+    "explain": "A minor commits an offense by driving in a public place with any detectable amount of alcohol in their system.",
+    "source": "Tex. Alco. Bev. Code § 106.041(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/AL/htm/AL.106.htm#106.041",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-022",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "A 19-year-old drinks one beer, feels fine, and drives home. A test shows a small but detectable amount of alcohol. What is the result?",
+    "image": null,
+    "options": [
+      "The driver has committed the offense of driving under the influence by a minor",
+      "No offense, because the driver was not impaired",
+      "No offense, because the level was below 0.08"
+    ],
+    "answer": 0,
+    "explain": "For drivers under 21 the law does not require impairment; any detectable alcohol while driving in a public place is an offense.",
+    "source": "Tex. Alco. Bev. Code § 106.041(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/AL/htm/AL.106.htm#106.041",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-023",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A minor convicted of driving under the influence for the first time must perform at least ___ hours of alcohol-related community service.",
+    "image": null,
+    "options": [
+      "10",
+      "20",
+      "50"
+    ],
+    "answer": 1,
+    "explain": "A first conviction requires 20 to 40 hours of community service tied to alcohol education or prevention, in addition to any fine.",
+    "source": "Tex. Alco. Bev. Code § 106.041(d)-(e)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/AL/htm/AL.106.htm#106.041",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-024",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Under Texas law, when may a person under 21 legally have an alcoholic beverage in their possession?",
+    "image": null,
+    "options": [
+      "Whenever they are at a private party",
+      "When they are in the visible presence of their adult parent, guardian or spouse",
+      "Whenever the container is still sealed"
+    ],
+    "answer": 1,
+    "explain": "Possession by a minor is an offense, with limited exceptions such as being in the visible presence of an adult parent, guardian or spouse, or while working for a licensed seller.",
+    "source": "Tex. Alco. Bev. Code § 106.05",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/AL/htm/AL.106.htm#106.05",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-025",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "What does Texas's implied consent law mean for a driver arrested for DWI?",
+    "image": null,
+    "options": [
+      "The driver must take a field sobriety test before any arrest",
+      "The driver may choose to give a urine sample instead of any other test",
+      "By driving, the driver is considered to have agreed to give breath or blood specimens for testing"
+    ],
+    "answer": 2,
+    "explain": "A person arrested for an intoxication offense while driving in a public place is deemed to have consented to give breath or blood specimens for alcohol or drug testing.",
+    "source": "Tex. Transp. Code § 724.011(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.724.htm#724.011",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-026",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "Does Texas's implied consent law apply to a driver under 21 arrested for driving with any detectable alcohol?",
+    "image": null,
+    "options": [
+      "Yes, it covers that offense too",
+      "No, it applies only to drivers 21 and older",
+      "Only if the minor's parent agrees"
+    ],
+    "answer": 0,
+    "explain": "Implied consent covers arrests for the minor driving-under-the-influence offense as well as for driving while intoxicated.",
+    "source": "Tex. Transp. Code § 724.011(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.724.htm#724.011",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-027",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "If you refuse an officer's request for a breath or blood specimen and have no alcohol- or drug-related enforcement contact in the previous 10 years, your license will be suspended for ___ days.",
+    "image": null,
+    "options": [
+      "90",
+      "180",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "Refusing a requested specimen leads to a 180-day license suspension when your record has no alcohol- or drug-related enforcement contact in the previous 10 years.",
+    "source": "Tex. Transp. Code § 724.035(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.724.htm#724.035",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-028",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A driver refuses a breath test, and their record shows an alcohol-related enforcement contact within the last 10 years. How long is the suspension?",
+    "image": null,
+    "options": [
+      "180 days",
+      "90 days",
+      "Two years"
+    ],
+    "answer": 2,
+    "explain": "The refusal suspension grows from 180 days to two years if the driver's record shows an alcohol- or drug-related enforcement contact in the previous 10 years.",
+    "source": "Tex. Transp. Code § 724.035(b)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.724.htm#724.035",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-029",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "An adult with no alcohol- or drug-related enforcement contacts in the past 10 years who takes the test and is at or above the legal limit faces an automatic license suspension of ___ days.",
+    "image": null,
+    "options": [
+      "60",
+      "90",
+      "180"
+    ],
+    "answer": 1,
+    "explain": "For an adult with no alcohol- or drug-related enforcement contact in the past 10 years, failing the test brings a 90-day administrative suspension, whether or not there is a criminal case.",
+    "source": "Tex. Transp. Code § 524.022(a)(1)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.524.htm#524.022",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-030",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A driver under 21 with no prior alcohol-driving convictions who is found driving with any detectable alcohol faces an automatic license suspension of ___ days.",
+    "image": null,
+    "options": [
+      "60",
+      "30",
+      "120"
+    ],
+    "answer": 0,
+    "explain": "The administrative suspension for a minor with no prior alcohol-driving convictions is 60 days; it rises to 120 and then 180 days with prior convictions.",
+    "source": "Tex. Transp. Code § 524.022(b)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.524.htm#524.022",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-031",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "After receiving a notice of suspension for refusing or failing an alcohol test, you have ___ days to request a hearing.",
+    "image": null,
+    "options": [
+      "10",
+      "30",
+      "15"
+    ],
+    "answer": 2,
+    "explain": "You have a right to a hearing if the department receives your written request no later than the 15th day after you receive the notice of suspension.",
+    "source": "Tex. Transp. Code § 724.015(a)(7)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.724.htm#724.015",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-032",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "When does a license suspension for refusing a breath or blood test normally take effect?",
+    "image": null,
+    "options": [
+      "Immediately at the time of arrest",
+      "On the 40th day after the driver receives the notice of suspension",
+      "Only after the driver is convicted of DWI"
+    ],
+    "answer": 1,
+    "explain": "A refusal suspension begins on the 40th day after the driver receives, or is considered to have received, the notice, and it does not depend on a criminal conviction.",
+    "source": "Tex. Transp. Code § 724.035(c)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.724.htm#724.035",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-033",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Before asking for a specimen, a Texas officer must warn you about the consequences of refusing. Which is one of them?",
+    "image": null,
+    "options": [
+      "The refusal may be used as evidence against you, and the officer may seek a warrant to take a specimen",
+      "Refusing ends the investigation and you are free to drive away",
+      "Refusing gives you a lighter penalty if you are later convicted"
+    ],
+    "answer": 0,
+    "explain": "The officer must tell you that a refusal may be admissible in court, your license will be suspended, and the officer may apply for a warrant to take a specimen anyway.",
+    "source": "Tex. Transp. Code § 724.015(a)(1)-(3)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/TN/htm/TN.724.htm#724.015",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-034",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "A court orders an ignition interlock device on a DWI offender's car. What does the device do?",
+    "image": null,
+    "options": [
+      "It limits the car's top speed",
+      "It records the driver's location for the court",
+      "It tests the driver's breath and makes the car impractical to operate if alcohol is detected"
+    ],
+    "answer": 2,
+    "explain": "An ignition interlock uses a deep-lung breath test to keep the vehicle from being operated if alcohol is found in the driver's breath.",
+    "source": "Tex. Code Crim. Proc. art. 42A.408(a)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/CR/htm/CR.42A.htm#42A.408",
+    "verify": true
+  },
+  {
+    "id": "tx-alcohol-035",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A driver convicted of DWI and placed on community supervision had a test result of 0.15 or higher. What must the court require?",
+    "image": null,
+    "options": [
+      "Nothing beyond a fine",
+      "An ignition interlock device on the vehicle the person owns or most often drives",
+      "Only a defensive driving course"
+    ],
+    "answer": 1,
+    "explain": "When a DWI test showed 0.15 or more, the court must order an ignition interlock as a condition of community supervision, and the person may drive only vehicles that have one.",
+    "source": "Tex. Code Crim. Proc. art. 42A.408(c)(1)",
+    "sourceUrl": "https://tcss.legis.texas.gov/resources/CR/htm/CR.42A.htm#42A.408",
+    "verify": true
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "tx-right_of_way-001",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "You reach an intersection with no signs or signals at the same moment as a car on the cross street to your right. Who should go first?",
+    "image": null,
+    "options": [
+      "You, because you are going straight",
+      "The car on your right",
+      "Whichever driver is going faster"
+    ],
+    "answer": 1,
+    "explain": "At an uncontrolled intersection Texas law requires you to yield to a vehicle that is in the intersection or approaching from your right closely enough to be a hazard.",
+    "source": "Tex. Transp. Code § 545.151(d)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.151",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-002",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "You are driving on a street that ends at a T-intersection with no signs or signals. What must you do?",
+    "image": null,
+    "options": [
+      "Yield to traffic on the through street",
+      "Expect through-street traffic to yield to you",
+      "Honk and turn without stopping"
+    ],
+    "answer": 0,
+    "explain": "When your road ends at an uncontrolled intersection, you must yield to vehicles on the other road that are in or close to the intersection.",
+    "source": "Tex. Transp. Code § 545.151(e)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.151",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-003",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "Your unpaved road meets a paved road at an intersection with no traffic control. Who has the right-of-way?",
+    "image": null,
+    "options": [
+      "You, because you arrived first",
+      "Whoever is turning right",
+      "Drivers on the paved road"
+    ],
+    "answer": 2,
+    "explain": "A driver coming from an unpaved road must stop and yield to vehicles on the paved road that are in or near the intersection.",
+    "source": "Tex. Transp. Code § 545.151(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.151",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-004",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "You are on a two-lane road approaching an intersection with a divided highway, and there is no sign or signal. What must you do?",
+    "image": null,
+    "options": [
+      "Slow down but keep the right-of-way",
+      "Stop and yield to vehicles on the divided highway",
+      "Yield only to trucks on the highway"
+    ],
+    "answer": 1,
+    "explain": "Texas law requires a driver on a one- or two-lane road to stop and yield at an uncontrolled intersection with a divided highway or a road with three or more marked lanes.",
+    "source": "Tex. Transp. Code § 545.151(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.151",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-005",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "You come to an intersection where the traffic light is completely dark because of a power failure. What should you do?",
+    "image": null,
+    "options": [
+      "Stop as if there were a stop sign, then go when it is safe",
+      "Drive through at normal speed",
+      "Slow down and go without stopping if no one is coming"
+    ],
+    "answer": 0,
+    "explain": "A traffic signal that shows no light in any signal head must be treated like a stop sign: stop, then proceed when you can do so safely.",
+    "source": "Tex. Transp. Code § 544.007(i)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.544.htm#544.007",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-006",
+    "type": "scenario",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "You want to turn left, and the red car is coming straight toward you through the intersection. What should you do?",
+    "image": "assets/images/scenarios/left_turn_oncoming.svg",
+    "options": [
+      "Turn quickly before it arrives",
+      "Turn because left turns have priority on green",
+      "Wait and let the oncoming car go first"
+    ],
+    "answer": 2,
+    "explain": "A driver turning left must yield to oncoming traffic that is in the intersection or close enough to be an immediate hazard.",
+    "source": "Tex. Transp. Code § 545.152",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.152",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-007",
+    "type": "sign",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "You face this sign and there is no stop line or crosswalk. Where should you stop?",
+    "image": "assets/images/signs/stop.svg",
+    "options": [
+      "Exactly 50 feet before the sign",
+      "At the point nearest the cross road where you can see approaching traffic",
+      "In the middle of the intersection"
+    ],
+    "answer": 1,
+    "explain": "Without a stop line or crosswalk, you stop at the spot closest to the intersecting road from which you can see traffic coming.",
+    "source": "Tex. Transp. Code § 544.010(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.544.htm#544.010",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-008",
+    "type": "marking",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "This intersection is controlled by a stop sign. Where must you stop?",
+    "image": "assets/images/markings/crosswalk.svg",
+    "options": [
+      "At the white stop line",
+      "Past the crosswalk, at the edge of the cross street",
+      "Anywhere you can see traffic, even inside the crosswalk"
+    ],
+    "answer": 0,
+    "explain": "When a clearly marked stop line is present, Texas law requires you to stop at that line.",
+    "source": "Tex. Transp. Code § 544.010(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.544.htm#544.010",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-009",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "At a stop sign there is a marked crosswalk but no stop line. Where do you stop?",
+    "image": null,
+    "options": [
+      "On top of the crosswalk",
+      "Just past the crosswalk",
+      "Before entering the crosswalk"
+    ],
+    "answer": 2,
+    "explain": "If there is no stop line, you must stop before you enter the crosswalk on the near side of the intersection.",
+    "source": "Tex. Transp. Code § 544.010(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.544.htm#544.010",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-010",
+    "type": "sign",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "What does Texas law require when you approach this sign?",
+    "image": "assets/images/signs/yield.svg",
+    "options": [
+      "Stop completely every time, even when no one is near",
+      "Slow down, and stop if needed, to let cross traffic go first",
+      "Speed up to merge ahead of other traffic"
+    ],
+    "answer": 1,
+    "explain": "At a yield sign you must slow to a reasonable speed and give the right-of-way to nearby cross traffic, stopping if safety requires it.",
+    "source": "Tex. Transp. Code §§ 545.153(c), 544.010(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.153",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-011",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "You drive past a yield sign without stopping and collide with a car in the intersection. How does Texas law view the crash?",
+    "image": null,
+    "options": [
+      "As prima facie evidence that you failed to yield",
+      "As the other driver's fault by default",
+      "As no evidence of fault either way"
+    ],
+    "answer": 0,
+    "explain": "If you pass a yield sign without stopping and then hit a vehicle in the intersection, the collision is prima facie evidence that you did not yield.",
+    "source": "Tex. Transp. Code § 545.153(d)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.153",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-012",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "You have stopped at a stop sign. A car on the cross street has already entered the intersection. What do you do?",
+    "image": null,
+    "options": [
+      "Go, because you have already stopped",
+      "Flash your lights so it stops",
+      "Let that car clear the intersection before you go"
+    ],
+    "answer": 2,
+    "explain": "After stopping at a stop sign you must still yield to vehicles already in the intersection or close enough to be an immediate hazard.",
+    "source": "Tex. Transp. Code § 545.153(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.153",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-013",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "You are driving on a freeway frontage (access) road near an exit ramp. A car is coming off the freeway onto the frontage road. Who must yield?",
+    "image": null,
+    "options": [
+      "The car leaving the freeway",
+      "You, the driver on the frontage road",
+      "Neither; the faster car goes first"
+    ],
+    "answer": 1,
+    "explain": "Drivers on an access or feeder road must yield to vehicles entering it from the highway or leaving it to enter the highway.",
+    "source": "Tex. Transp. Code § 545.154",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.154",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-014",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "You are pulling out of a parking lot driveway onto a public street. Who has the right-of-way?",
+    "image": null,
+    "options": [
+      "Vehicles already traveling on the street",
+      "You, once your turn signal is on",
+      "Whoever is larger"
+    ],
+    "answer": 0,
+    "explain": "A driver entering or crossing a road from a driveway, alley, building, or private road must yield to vehicles approaching on that road.",
+    "source": "Tex. Transp. Code § 545.155",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.155",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-015",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "You are driving out of an alley in a business district and a sidewalk crosses the alley exit. What must you do first?",
+    "image": null,
+    "options": [
+      "Honk and drive across the sidewalk",
+      "Stop only after reaching the street",
+      "Stop before you reach the sidewalk area"
+    ],
+    "answer": 2,
+    "explain": "When leaving an alley, driveway, or building in a business or residence district, you must stop before moving onto the sidewalk or sidewalk area.",
+    "source": "Tex. Transp. Code § 545.256",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.256",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-016",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "As you leave a driveway, a pedestrian is walking along the sidewalk that crosses it. What should you do?",
+    "image": null,
+    "options": [
+      "Ease forward so the pedestrian walks behind you",
+      "Stop and let the pedestrian pass",
+      "Keep going because the pedestrian must wait"
+    ],
+    "answer": 1,
+    "explain": "A driver entering or leaving a driveway, alley, or building must stop and yield to a pedestrian on the sidewalk that crosses it.",
+    "source": "Tex. Transp. Code § 552.006(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm#552.006",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-017",
+    "type": "scenario",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "An ambulance with flashing lights and a siren is coming up behind you. What should you do?",
+    "image": "assets/images/scenarios/emergency_vehicle.svg",
+    "options": [
+      "Pull close to the right edge of the road and stop until it passes",
+      "Speed up to stay ahead of it",
+      "Stop immediately in your lane"
+    ],
+    "answer": 0,
+    "explain": "When an emergency vehicle using its signals approaches, you must yield, move as far right as possible, and stop until it has gone by, unless a police officer directs otherwise.",
+    "source": "Tex. Transp. Code § 545.156(a-1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.156",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-018",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "A fire truck with siren and lights approaches while you are about to enter an intersection. Where should you pull over and stop?",
+    "image": null,
+    "options": [
+      "In the middle of the intersection",
+      "Against the left curb, inside the intersection",
+      "Near the right curb, clear of the intersection"
+    ],
+    "answer": 2,
+    "explain": "You must move parallel to and close to the right edge or curb, clear of any intersection, and stop until the emergency vehicle passes.",
+    "source": "Tex. Transp. Code § 545.156(a-1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.156",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-019",
+    "type": "scenario",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "A police car with flashing lights is stopped on the right shoulder. You are in the right lane of a road with two lanes going your way. What does Texas law require?",
+    "image": "assets/images/scenarios/stopped_emergency_shoulder.svg",
+    "options": [
+      "Keep your lane and speed since the car is on the shoulder",
+      "Move out of the lane next to the police car if you can, or slow down",
+      "Stop in your lane until the officer leaves"
+    ],
+    "answer": 1,
+    "explain": "Texas's move-over law requires you to leave the lane closest to the stopped vehicle when there are two or more lanes in your direction, or else slow down.",
+    "source": "Tex. Transp. Code § 545.157(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.157",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-021",
+    "type": "number_fill",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "The posted limit is 20 mph and you pass a stopped tow truck using its flashing lights without changing lanes. You must slow to no more than ___ mph.",
+    "image": null,
+    "options": [
+      "10",
+      "15",
+      "5"
+    ],
+    "answer": 2,
+    "explain": "When the posted limit is below 25 mph, the move-over law requires you to slow to 5 mph or less.",
+    "source": "Tex. Transp. Code § 545.157(b)(2)(B)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.157",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-022",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "Besides police cars and ambulances, which vehicle is covered by Texas's move-over or slow-down law?",
+    "image": null,
+    "options": [
+      "Any car parked on the shoulder",
+      "A stopped tow truck using its warning lights",
+      "A city bus picking up riders"
+    ],
+    "answer": 1,
+    "explain": "The law lists specific vehicles, including a stationary tow truck using authorized lights, TxDOT and utility vehicles with lights, and stationary garbage or recycling trucks.",
+    "source": "Tex. Transp. Code § 545.157(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.157",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-023",
+    "type": "scenario",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "The school bus ahead has stopped with red lights flashing and its stop arm out. What must you do?",
+    "image": "assets/images/scenarios/school_bus_stopped.svg",
+    "options": [
+      "Stop before reaching the bus",
+      "Pass slowly on the left",
+      "Stop only if you see children"
+    ],
+    "answer": 0,
+    "explain": "When a school bus is stopped to load or unload students and is showing its visual signals, you must stop before reaching it.",
+    "source": "Tex. Transp. Code § 545.066(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.066",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-024",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "On an undivided two-lane road, a school bus coming toward you stops with red lights flashing. What must you do?",
+    "image": null,
+    "options": [
+      "Keep going, because the bus is on the other side",
+      "Slow to 20 mph and pass",
+      "Stop, because the rule applies from either direction"
+    ],
+    "answer": 2,
+    "explain": "The school bus law applies to drivers approaching from either direction unless the road has separate roadways.",
+    "source": "Tex. Transp. Code § 545.066(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.066",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-025",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "You are stopped behind a school bus with its red lights flashing. Which of these allows you to move again?",
+    "image": null,
+    "options": [
+      "No children are visible near the bus",
+      "The bus driver signals you to proceed",
+      "You have waited for one minute"
+    ],
+    "answer": 1,
+    "explain": "You may go only when the bus starts moving, the bus driver signals you to proceed, or the flashing signals turn off.",
+    "source": "Tex. Transp. Code § 545.066(a)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.066",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-026",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "You are on a highway whose two directions are separated by a raised concrete median. A school bus stops with flashing red lights on the other roadway. What must you do?",
+    "image": null,
+    "options": [
+      "You are not required to stop, but stay alert",
+      "Stop until the bus moves",
+      "Stop only if it is a weekday"
+    ],
+    "answer": 0,
+    "explain": "On a highway with separate roadways divided by a barrier or similar section, you do not have to stop for a school bus on the other roadway.",
+    "source": "Tex. Transp. Code § 545.066(b)(1), (f)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.066",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-027",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "The two directions of a road are separated only by a center left-turn lane. A school bus stops on the other side with red lights flashing. What must you do?",
+    "image": null,
+    "options": [
+      "Keep going, because the turn lane divides the road",
+      "Move into the turn lane and pass",
+      "Stop, because a turn lane does not create separate roadways"
+    ],
+    "answer": 2,
+    "explain": "Texas law says a road separated only by a left-turn lane does not have separate roadways, so you must stop for the school bus.",
+    "source": "Tex. Transp. Code § 545.066(f)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.066",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-028",
+    "type": "number_fill",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "For a first offense of illegally passing a stopped school bus in Texas, the fine is at least $___.",
+    "image": null,
+    "options": [
+      "200",
+      "500",
+      "1000"
+    ],
+    "answer": 1,
+    "explain": "A first offense is a misdemeanor with a fine of not less than $500 and not more than $1,250.",
+    "source": "Tex. Transp. Code § 545.066(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.066",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-029",
+    "type": "scenario",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "There is no traffic signal, and a pedestrian is crossing in the crosswalk on your half of the road. What must you do?",
+    "image": "assets/images/scenarios/pedestrian_crosswalk.svg",
+    "options": [
+      "Stop and let the pedestrian cross",
+      "Drive around the pedestrian carefully",
+      "Honk so the pedestrian hurries"
+    ],
+    "answer": 0,
+    "explain": "Where no traffic signal is operating, you must stop and yield to a pedestrian in a crosswalk on your half of the road or close enough from the other half to be in danger.",
+    "source": "Tex. Transp. Code § 552.003(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm#552.003",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-030",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "On a multi-lane road, the car in the lane next to you has stopped at a crosswalk. What should you do?",
+    "image": null,
+    "options": [
+      "Pass it carefully at a reduced speed",
+      "Change lanes behind it and pass",
+      "Do not pass it; a pedestrian may be crossing"
+    ],
+    "answer": 2,
+    "explain": "Texas law forbids passing a vehicle that is stopped at a crosswalk to let a pedestrian cross.",
+    "source": "Tex. Transp. Code § 552.003(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm#552.003",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-031",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "A pedestrian signal shows \"Walk\" for people crossing the street you are about to turn onto. What must you do?",
+    "image": null,
+    "options": [
+      "Turn first because you have a green light",
+      "Stop and yield to the pedestrians",
+      "Honk to warn them"
+    ],
+    "answer": 1,
+    "explain": "When a pedestrian faces a \"Walk\" signal, drivers must stop and yield the right-of-way to that pedestrian.",
+    "source": "Tex. Transp. Code § 552.002(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm#552.002",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-032",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "Your light is green and you are turning right, but a pedestrian is lawfully crossing the street you are entering. What should you do?",
+    "image": null,
+    "options": [
+      "Stop and wait for the pedestrian to finish crossing",
+      "Turn because a green light gives you the right-of-way",
+      "Swing wide to go around the pedestrian"
+    ],
+    "answer": 0,
+    "explain": "Even on a green light, you must stop and yield to pedestrians lawfully in the intersection or an adjacent crosswalk.",
+    "source": "Tex. Transp. Code § 544.007(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.544.htm#544.007",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-033",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "A pedestrian crosses mid-block where there is no crosswalk. Which statement is correct?",
+    "image": null,
+    "options": [
+      "You may keep going because the pedestrian is breaking the law",
+      "The pedestrian always has the right-of-way",
+      "The pedestrian should yield, but you must still use due care to avoid hitting them"
+    ],
+    "answer": 2,
+    "explain": "A pedestrian crossing outside a crosswalk must yield to vehicles, yet every driver must still take care to avoid colliding with a pedestrian.",
+    "source": "Tex. Transp. Code §§ 552.005(a), 552.008",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm#552.005",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-034",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "You see a small child standing near the edge of the road ahead. What does Texas law expect from you?",
+    "image": null,
+    "options": [
+      "Keep your speed because the child is not in your lane",
+      "Take extra precaution and sound your horn if needed",
+      "Flash your headlights and continue"
+    ],
+    "answer": 1,
+    "explain": "Drivers must use due care, sound the horn when necessary, and take proper precautions when they see a child or a confused person on the roadway.",
+    "source": "Tex. Transp. Code § 552.008",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm#552.008",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-035",
+    "type": "text",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "A person using a white cane is crossing at an intersection ahead of you. What must you do?",
+    "image": null,
+    "options": [
+      "Take every precaution, including stopping fully if needed",
+      "Honk to let them know you are there",
+      "Go around them if there is room"
+    ],
+    "answer": 0,
+    "explain": "Drivers must take necessary precautions for a pedestrian with a white cane or assistance animal and come to a full stop if that is the only way to avoid danger.",
+    "source": "Tex. Transp. Code § 552.010(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm#552.010",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-036",
+    "type": "scenario",
+    "topic": "right_of_way",
+    "difficulty": 1,
+    "q": "The gates are down and the lights are flashing at this railroad crossing. When may you drive around the gates?",
+    "image": "assets/images/scenarios/railroad_gates.svg",
+    "options": [
+      "When you cannot see a train",
+      "After waiting two minutes",
+      "Never while the gates are down, closing, or opening"
+    ],
+    "answer": 2,
+    "explain": "Driving around, under, or through a railroad crossing gate while it is closed, closing, or opening is an offense in Texas.",
+    "source": "Tex. Transp. Code § 545.251(d)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.251",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-037",
+    "type": "number_fill",
+    "topic": "right_of_way",
+    "difficulty": 2,
+    "q": "When a railroad signal warns of a train, you must stop at least ___ feet from the nearest rail.",
+    "image": null,
+    "options": [
+      "10",
+      "15",
+      "25"
+    ],
+    "answer": 1,
+    "explain": "Texas law requires you to stop no closer than 15 feet and no farther than 50 feet from the nearest rail.",
+    "source": "Tex. Transp. Code § 545.251(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.251",
+    "verify": true
+  },
+  {
+    "id": "tx-right_of_way-039",
+    "type": "number_fill",
+    "topic": "right_of_way",
+    "difficulty": 3,
+    "q": "You must stop at a railroad crossing if an approaching train sounds a signal from about ___ feet away and is an immediate hazard.",
+    "image": null,
+    "options": [
+      "500",
+      "3000",
+      "1500"
+    ],
+    "answer": 2,
+    "explain": "A stop is required when a train within roughly 1,500 feet sounds a signal audible from that distance and is an immediate hazard.",
+    "source": "Tex. Transp. Code § 545.251(a)(3)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.251",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-001",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "On a two-way road that is wide enough, where must you normally drive?",
+    "image": null,
+    "options": [
+      "On the right half of the roadway",
+      "In the center of the roadway",
+      "On whichever half has less traffic"
+    ],
+    "answer": 0,
+    "explain": "Texas law requires drivers on a roadway of sufficient width to stay on the right half, with limited exceptions such as passing.",
+    "source": "Tex. Transp. Code § 545.051(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.051",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-002",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "You are driving slower than the normal flow of traffic on a multi-lane road. Which lane should you use?",
+    "image": null,
+    "options": [
+      "The left-hand lane",
+      "Any lane, as long as you are under the limit",
+      "The right-hand lane"
+    ],
+    "answer": 2,
+    "explain": "A driver moving slower than normal traffic must use the right-hand lane or stay close to the right edge, except when passing or preparing to turn left.",
+    "source": "Tex. Transp. Code § 545.051(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.051",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-003",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "On an undivided two-way road with four or more lanes, when may you cross to the left of the center line?",
+    "image": null,
+    "options": [
+      "To pass a slow car",
+      "To turn left into or out of a driveway or alley",
+      "Whenever the left lanes are empty"
+    ],
+    "answer": 1,
+    "explain": "On a two-way road with four or more lanes, you may not drive left of center except in limited cases such as turning left into or out of an alley, private road, or driveway.",
+    "source": "Tex. Transp. Code § 545.051(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.051",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-004",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "On a narrow two-way road, you meet an oncoming car. How much of the road must you give it?",
+    "image": null,
+    "options": [
+      "At least half of the main traveled part, or as much as possible",
+      "Only the shoulder",
+      "None; the driver going uphill must back up"
+    ],
+    "answer": 0,
+    "explain": "When meeting a vehicle on a road with one lane each way, you must keep right and give it at least half of the main traveled portion, or as much as you can.",
+    "source": "Tex. Transp. Code § 545.052",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.052",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-005",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "After passing a car on the left, when may you move back into the right lane?",
+    "image": null,
+    "options": [
+      "As soon as your front bumper is past its front bumper",
+      "Immediately after you pass its rear bumper",
+      "Once you are safely clear of the car you passed"
+    ],
+    "answer": 2,
+    "explain": "A passing driver must pass at a safe distance and may not return to the right until safely clear of the passed vehicle.",
+    "source": "Tex. Transp. Code § 545.053(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.053",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-006",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "Another vehicle is passing you on the left. What must you do?",
+    "image": null,
+    "options": [
+      "Speed up so it can pass faster",
+      "Stay right and do not speed up until it has passed",
+      "Move left to block it"
+    ],
+    "answer": 1,
+    "explain": "A driver being passed must move or stay to the right when signaled and must not accelerate until the passing vehicle is completely by.",
+    "source": "Tex. Transp. Code § 545.053(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.053",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-007",
+    "type": "number_fill",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "When you pass using a lane meant for oncoming traffic, you must return to your lane before coming within ___ feet of an approaching vehicle.",
+    "image": null,
+    "options": [
+      "200",
+      "100",
+      "500"
+    ],
+    "answer": 0,
+    "explain": "Texas law requires you to get back to an authorized lane before you come within 200 feet of an oncoming vehicle.",
+    "source": "Tex. Transp. Code § 545.054(b)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.054",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-008",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "You see these center lines on a two-lane road. What do they mean for passing?",
+    "image": "assets/images/markings/double_solid_yellow.svg",
+    "options": [
+      "Passing allowed in both directions",
+      "Passing allowed only for you",
+      "No passing for traffic in either direction"
+    ],
+    "answer": 2,
+    "explain": "Two solid yellow center lines mark a two-direction no-passing zone, and Texas law forbids driving left of no-passing striping.",
+    "source": "MUTCD 11th ed. § 3B.01; Tex. Transp. Code § 545.055(b)",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-009",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "The center line has a solid yellow line on your side and a broken yellow line on the other side. May you pass?",
+    "image": "assets/images/markings/solid_yellow_your_side.svg",
+    "options": [
+      "Yes, if the road ahead is clear",
+      "No, passing is prohibited for you",
+      "Yes, but only during daylight"
+    ],
+    "answer": 1,
+    "explain": "With a solid yellow line next to your lane, crossing to pass is prohibited for you, though drivers on the broken-line side may pass with care.",
+    "source": "MUTCD 11th ed. § 3B.01; Tex. Transp. Code § 545.055(b)",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-010",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "The center line has a broken yellow line on your side and a solid yellow line on the other side. What may you do?",
+    "image": "assets/images/markings/broken_yellow_your_side.svg",
+    "options": [
+      "Pass when it is safe to do so",
+      "Never pass here",
+      "Pass only if the other driver signals you"
+    ],
+    "answer": 0,
+    "explain": "A broken yellow line on your side means you may cross it to pass when the way is clear and passing is safe.",
+    "source": "MUTCD 11th ed. § 3B.01",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-011",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "What does a single broken yellow center line mean?",
+    "image": "assets/images/markings/broken_yellow.svg",
+    "options": [
+      "One-way road with two lanes",
+      "No passing in either direction",
+      "Two-way road where passing with care is allowed in both directions"
+    ],
+    "answer": 2,
+    "explain": "A single broken yellow center line separates opposing traffic and allows careful passing for drivers in either direction.",
+    "source": "MUTCD 11th ed. §§ 3A.03, 3B.01",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-012",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 3,
+    "q": "Can you cross these lines to turn left into a driveway?",
+    "image": "assets/images/markings/double_solid_yellow.svg",
+    "options": [
+      "No, never under any circumstances",
+      "Yes, crossing to turn left into a driveway is allowed when safe",
+      "Only if a police officer waves you through"
+    ],
+    "answer": 1,
+    "explain": "The no-passing rule does not stop you from crossing no-passing striping to turn left into or out of an alley, private road, or driveway.",
+    "source": "Tex. Transp. Code § 545.055(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.055",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-013",
+    "type": "number_fill",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "In a city, you may not drive on the left side of the roadway when within ___ feet of an intersection or railroad crossing.",
+    "image": null,
+    "options": [
+      "100",
+      "50",
+      "200"
+    ],
+    "answer": 0,
+    "explain": "Texas law bars driving left of center within 100 feet of an intersection or railroad grade crossing in a municipality, and also within 100 feet of a bridge, viaduct, or tunnel.",
+    "source": "Tex. Transp. Code § 545.056(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.056",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-014",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "When may you pass another vehicle on the right?",
+    "image": null,
+    "options": [
+      "Whenever the right shoulder is paved",
+      "Any time the driver ahead is going under the limit",
+      "When it is turning left and there is room for two lanes going your way"
+    ],
+    "answer": 2,
+    "explain": "Passing on the right is allowed only when safe, the vehicle ahead is turning or about to turn left, and the road has enough clear width for two or more lanes in your direction.",
+    "source": "Tex. Transp. Code § 545.057(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.057",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-015",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "May you leave the main traveled part of the road to pass a car on the right?",
+    "image": null,
+    "options": [
+      "Yes, whenever traffic is slow",
+      "Only in the specific shoulder cases the law allows",
+      "Yes, if you use your turn signal"
+    ],
+    "answer": 1,
+    "explain": "Passing on the right by leaving the main traveled portion is prohibited except as permitted by the improved-shoulder rules.",
+    "source": "Tex. Transp. Code § 545.057(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.057",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-016",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "Which is an allowed reason to drive on the paved right shoulder?",
+    "image": null,
+    "options": [
+      "To slow down before making a right turn",
+      "To get ahead in heavy traffic",
+      "To drive faster than the traffic lanes"
+    ],
+    "answer": 0,
+    "explain": "You may use an improved right shoulder, when necessary and safe, for listed reasons such as slowing before a right turn.",
+    "source": "Tex. Transp. Code § 545.058(a)(3)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.058",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-017",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "A car ahead of you is stopped, waiting to turn left. May you use the paved right shoulder to go around it?",
+    "image": null,
+    "options": [
+      "No, you must always wait behind it",
+      "Yes, at any speed",
+      "Yes, if it is necessary and can be done safely"
+    ],
+    "answer": 2,
+    "explain": "Passing a vehicle that is preparing to turn left is one of the listed reasons you may use an improved right shoulder, if necessary and safe.",
+    "source": "Tex. Transp. Code § 545.058(a)(4)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.058",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-018",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "A faster vehicle wants to pass you on a two-lane highway. What may you do with the paved right shoulder?",
+    "image": null,
+    "options": [
+      "Nothing; using the shoulder is never allowed",
+      "Move onto it briefly to let the faster vehicle pass, if safe",
+      "Stay on it for the rest of your trip"
+    ],
+    "answer": 1,
+    "explain": "Texas law allows driving on an improved right shoulder, when necessary and safe, to let a faster vehicle pass.",
+    "source": "Tex. Transp. Code § 545.058(a)(5)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.058",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-019",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 3,
+    "q": "On a divided highway, when may you use the left (median-side) shoulder?",
+    "image": null,
+    "options": [
+      "When your vehicle is disabled and you cannot safely reach the right shoulder",
+      "Whenever the left lane is backed up",
+      "To pass slow traffic"
+    ],
+    "answer": 0,
+    "explain": "The left shoulder of a divided or controlled-access highway may be used only for a disabled vehicle that cannot safely reach the right shoulder, when a traffic device allows it, or to avoid a collision.",
+    "source": "Tex. Transp. Code § 545.058(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.058",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-020",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "On this divided road, what does the solid yellow line on the left side of your lanes mark?",
+    "image": "assets/images/markings/edge_lines.svg",
+    "options": [
+      "A lane you may cross to pass",
+      "A bicycle lane",
+      "The left edge of the roadway"
+    ],
+    "answer": 2,
+    "explain": "On divided highways and one-way roads, a solid yellow line marks the left-hand edge of the roadway, while white marks the right edge.",
+    "source": "MUTCD 11th ed. §§ 3A.03, 3B.09",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-021",
+    "type": "scenario",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "You are entering this roundabout. Which way do you travel around the central island?",
+    "image": "assets/images/scenarios/roundabout.svg",
+    "options": [
+      "Keep the island on your right",
+      "Keep the island on your left, traveling to the right of it",
+      "Whichever way is shorter to your exit"
+    ],
+    "answer": 1,
+    "explain": "Texas law requires drivers moving around a rotary traffic island to drive only to the right of the island.",
+    "source": "Tex. Transp. Code § 545.059(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.059",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-022",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "On a road with clearly marked lanes, what must you do?",
+    "image": null,
+    "options": [
+      "Stay within a single lane and change lanes only when it is safe",
+      "Straddle lanes so others can see you",
+      "Change lanes freely without checking"
+    ],
+    "answer": 0,
+    "explain": "On a roadway with two or more marked lanes, you must drive as nearly as practical entirely within one lane and leave it only when safe.",
+    "source": "Tex. Transp. Code § 545.060(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.060",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-023",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "What is this center lane, marked with solid and broken yellow lines and opposing arrows, used for?",
+    "image": "assets/images/markings/two_way_left_turn_lane.svg",
+    "options": [
+      "Passing slow vehicles over long distances",
+      "Parking during rush hour",
+      "Making left turns by traffic from either direction"
+    ],
+    "answer": 2,
+    "explain": "A center lane bordered by solid and broken yellow lines is a two-way left-turn lane that drivers in either direction use for left turns.",
+    "source": "MUTCD 11th ed. § 3B.05; Tex. Transp. Code § 545.060(b)",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-024",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "Two lanes going the same direction are separated by a broken white line. What does it mean?",
+    "image": "assets/images/markings/broken_white.svg",
+    "options": [
+      "Lane changes are prohibited",
+      "You may change lanes when it is safe",
+      "Traffic in the other lane goes the opposite way"
+    ],
+    "answer": 1,
+    "explain": "A broken white lane line separates traffic moving the same way and allows lane changes with care.",
+    "source": "MUTCD 11th ed. §§ 3A.03, 3B.06",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-025",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "What does a solid white line between two lanes going the same direction tell you?",
+    "image": "assets/images/markings/solid_white.svg",
+    "options": [
+      "Changing lanes here is discouraged",
+      "The lanes carry opposite traffic",
+      "You must change lanes now"
+    ],
+    "answer": 0,
+    "explain": "A solid white lane line is used where crossing is discouraged, such as near intersections between a through lane and a turn lane.",
+    "source": "MUTCD 11th ed. § 3B.06",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-026",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 3,
+    "q": "On a one-way road with three lanes, you move from the right lane into the center lane while a driver in the left lane moves into the center lane too. Who must yield?",
+    "image": null,
+    "options": [
+      "The driver coming from the left",
+      "Whoever signaled last",
+      "You, the driver coming from the right"
+    ],
+    "answer": 2,
+    "explain": "On a one-way road with three or more lanes, a driver entering a lane from the right must yield to a driver entering the same lane from the left.",
+    "source": "Tex. Transp. Code § 545.061",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.061",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-027",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 3,
+    "q": "A Texas highway restricts trucks to certain lanes. May a restricted truck use another lane?",
+    "image": null,
+    "options": [
+      "No, never",
+      "Yes, to pass another vehicle or to enter and exit the highway",
+      "Only at night"
+    ],
+    "answer": 1,
+    "explain": "A lane restriction by vehicle class must still let a restricted vehicle use any lane to pass and to enter or leave the highway.",
+    "source": "Tex. Transp. Code § 545.0651(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.0651",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-028",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "How should you make a right turn at an intersection?",
+    "image": null,
+    "options": [
+      "Approach and turn as close as practical to the right curb or edge",
+      "Swing wide into the left lane first",
+      "Turn from the center of the road"
+    ],
+    "answer": 0,
+    "explain": "Both the approach and the right turn itself must be made as close as practicable to the right-hand curb or edge of the roadway.",
+    "source": "Tex. Transp. Code § 545.101(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.101",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-029",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "Which lane should you be in before turning left at an intersection?",
+    "image": null,
+    "options": [
+      "The right lane",
+      "Any lane, if you signal",
+      "The far-left lane lawfully available for your direction"
+    ],
+    "answer": 2,
+    "explain": "To turn left you must approach in the extreme left lane lawfully available and finish in a lane lawfully available for traffic on the new road.",
+    "source": "Tex. Transp. Code § 545.101(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.101",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-030",
+    "type": "number_fill",
+    "topic": "lanes",
+    "difficulty": 3,
+    "q": "You may not turn around (U-turn) near a curve or hilltop if other drivers cannot see your vehicle from within ___ feet.",
+    "image": null,
+    "options": [
+      "200",
+      "500",
+      "1000"
+    ],
+    "answer": 1,
+    "explain": "Turning to go the opposite direction near a curve or crest of a grade is prohibited if your vehicle is not visible to approaching drivers within 500 feet.",
+    "source": "Tex. Transp. Code § 545.102",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.102",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-031",
+    "type": "number_fill",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "Before turning, you must signal continuously for at least the last ___ feet.",
+    "image": null,
+    "options": [
+      "100",
+      "50",
+      "200"
+    ],
+    "answer": 0,
+    "explain": "Texas law requires a continuous turn signal for not less than the last 100 feet before you turn.",
+    "source": "Tex. Transp. Code § 545.104(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.104",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-032",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "When does Texas law require you to use your signal?",
+    "image": null,
+    "options": [
+      "Only when other cars are nearby",
+      "Only for turns at intersections",
+      "To turn, change lanes, or pull away from a parked position"
+    ],
+    "answer": 2,
+    "explain": "You must signal your intent to turn, change lanes, or start from a parked position.",
+    "source": "Tex. Transp. Code § 545.104(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.104",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-033",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "A driver behind you wants to pass. May you flash your turn signal to tell them it is safe to pass?",
+    "image": null,
+    "options": [
+      "Yes, it is the right way to help",
+      "No, turn signals may not be used as a courtesy \"go ahead\" signal",
+      "Yes, but only on the right side"
+    ],
+    "answer": 1,
+    "explain": "Texas law forbids using turn signals as a courtesy or \"do pass\" signal to a driver approaching from behind.",
+    "source": "Tex. Transp. Code § 545.104(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.104",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-034",
+    "type": "text",
+    "topic": "lanes",
+    "difficulty": 2,
+    "q": "A driver extends the left hand and arm upward out the window. What does this signal mean?",
+    "image": null,
+    "options": [
+      "Right turn",
+      "Left turn",
+      "Slowing or stopping"
+    ],
+    "answer": 0,
+    "explain": "In Texas, a hand and arm extended upward means a right turn; straight out means left, and downward means stop or slow.",
+    "source": "Tex. Transp. Code § 545.107",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.107",
+    "verify": true
+  },
+  {
+    "id": "tx-lanes-035",
+    "type": "marking",
+    "topic": "lanes",
+    "difficulty": 1,
+    "q": "What does the white diamond symbol in this left lane mean?",
+    "image": "assets/images/markings/hov_diamond_lane.svg",
+    "options": [
+      "The lane is ending ahead",
+      "It marks a bicycle lane",
+      "It is a high-occupancy vehicle (HOV) or other preferential lane"
+    ],
+    "answer": 2,
+    "explain": "A white diamond symbol marks an HOV lane, a preferential lane limited to qualifying vehicles shown on the posted signs.",
+    "source": "MUTCD 11th ed. § 3E.03",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf",
+    "verify": true
+  }
+]

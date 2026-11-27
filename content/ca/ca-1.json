@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "ca-signs-001",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What must you do when you reach this sign?",
+    "image": "assets/images/signs/stop.svg",
+    "options": [
+      "Slow down and keep going if no cars are coming",
+      "Stop only if another vehicle is already in the intersection",
+      "Come to a full stop, then go only when it is safe"
+    ],
+    "answer": 2,
+    "explain": "A STOP sign always requires a complete stop at the limit line, the crosswalk, or the edge of the cross street, and you may go only after yielding to traffic that is close enough to be a hazard.",
+    "source": "Cal. Veh. Code §§ 22450, 21802",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22450",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-002",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign require you to do?",
+    "image": "assets/images/signs/yield.svg",
+    "options": [
+      "Stop completely every time, even when the road is clear",
+      "Speed up to merge ahead of cross traffic",
+      "Slow down, stop if needed, and let nearby traffic go first"
+    ],
+    "answer": 2,
+    "explain": "At a YIELD sign you must give the right-of-way to vehicles already in the intersection or close enough to be a hazard, stopping only when necessary.",
+    "source": "Cal. Veh. Code § 21803; MUTCD 11th ed. § 2B.05",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21803",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-003",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign mean?",
+    "image": "assets/images/signs/do_not_enter.svg",
+    "options": [
+      "You may not drive into this road from your direction",
+      "The road ahead is closed to trucks only",
+      "You must stop and then enter carefully"
+    ],
+    "answer": 0,
+    "explain": "The DO NOT ENTER sign is placed where traffic from your direction is not allowed, such as the wrong end of a one-way road or a freeway exit ramp.",
+    "source": "MUTCD 11th ed. § 2B.46; Cal. Veh. Code § 21461",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2b.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-004",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign tell you about the street?",
+    "image": "assets/images/signs/one_way.svg",
+    "options": [
+      "Only one lane is open ahead",
+      "Turning is allowed only in the arrow's direction during rush hour",
+      "All traffic on this street moves only in the direction of the arrow"
+    ],
+    "answer": 2,
+    "explain": "A ONE WAY sign marks a roadway where vehicles may travel in just one direction, and California law requires you to drive only in that direction.",
+    "source": "Cal. Veh. Code § 21657; MUTCD 11th ed. § 2B.49",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21657",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-005",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "At an intersection posted with this sign, which move is not allowed?",
+    "image": "assets/images/signs/no_u_turn.svg",
+    "options": [
+      "Turning left",
+      "Going straight",
+      "Making a U-turn"
+    ],
+    "answer": 2,
+    "explain": "The red circle and slash over a U-shaped arrow is a movement prohibition sign that bans U-turns at that location.",
+    "source": "MUTCD 11th ed. § 2B.26; Cal. Veh. Code § 21461",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2b.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-006",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign prohibit?",
+    "image": "assets/images/signs/no_left_turn.svg",
+    "options": [
+      "Left turns",
+      "Right turns",
+      "Changing lanes to the left"
+    ],
+    "answer": 0,
+    "explain": "A black left-turn arrow inside a red circle with a slash means left turns are not permitted at that intersection.",
+    "source": "MUTCD 11th ed. § 2B.26; Cal. Veh. Code § 21461",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2b.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-007",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "You are stopped at a red light and see this sign. What does it mean?",
+    "image": "assets/images/signs/no_turn_on_red.svg",
+    "options": [
+      "You may turn right on red without stopping first",
+      "You may turn on red only if no pedestrians are present",
+      "You must wait for a green light before turning"
+    ],
+    "answer": 2,
+    "explain": "California normally allows a turn on red after a full stop, but this sign takes that option away, so you must wait for a signal that allows the turn.",
+    "source": "Cal. Veh. Code § 21453(b); MUTCD 11th ed. § 2B.60",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21453",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-008",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this five-sided sign warn you about?",
+    "image": "assets/images/signs/school_zone.svg",
+    "options": [
+      "A school area where children may be present",
+      "A playground inside a park",
+      "A pedestrian bridge overhead"
+    ],
+    "answer": 0,
+    "explain": "The upward-pointing pentagon shape is reserved for the School sign, which warns that you are approaching a school area or school zone.",
+    "source": "MUTCD 11th ed. §§ 2A.05, 7B.02",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part7.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-009",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign mark?",
+    "image": "assets/images/signs/railroad_crossbuck.svg",
+    "options": [
+      "A four-way stop",
+      "A railroad crossing where you must yield to trains",
+      "A detour around a closed road"
+    ],
+    "answer": 1,
+    "explain": "The X-shaped Crossbuck marks a highway-rail crossing; you must yield to trains and stop at least 15 feet from the nearest rail when a train is coming.",
+    "source": "MUTCD 11th ed. § 8B.03; Cal. Veh. Code § 22451",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part8.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-010",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this round yellow sign warn you about?",
+    "image": "assets/images/signs/railroad_advance.svg",
+    "options": [
+      "A traffic circle ahead",
+      "A road that is closed ahead",
+      "A railroad crossing ahead"
+    ],
+    "answer": 2,
+    "explain": "The circular yellow sign with an X and two R letters is the advance warning sign for a railroad crossing; the circle shape is used only for this sign.",
+    "source": "MUTCD 11th ed. §§ 2A.05, 8B.06",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part8.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-011",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign warn you about?",
+    "image": "assets/images/signs/curve_right.svg",
+    "options": [
+      "The road ahead curves to the right",
+      "You must turn right at the next street",
+      "Right lane ends ahead"
+    ],
+    "answer": 0,
+    "explain": "A curved arrow on a yellow diamond is a horizontal alignment warning that the road bends in the direction shown, so adjust your speed before the curve.",
+    "source": "MUTCD 11th ed. § 2C.07",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-012",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "What should you expect after passing this sign?",
+    "image": "assets/images/signs/merge.svg",
+    "options": [
+      "A divided highway begins",
+      "The road becomes one-way",
+      "Vehicles from another roadway may move into your lane"
+    ],
+    "answer": 2,
+    "explain": "The Merge sign warns that traffic from a joining roadway will be entering the same lane ahead, so watch for merging vehicles and adjust your speed or position.",
+    "source": "MUTCD 11th ed. § 2C.45",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-013",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "You are driving in the right lane and see this sign. What does it mean?",
+    "image": "assets/images/signs/lane_ends.svg",
+    "options": [
+      "The number of lanes is reduced ahead, so prepare to merge left",
+      "A bike lane begins on the right",
+      "Traffic from the right does not stop"
+    ],
+    "answer": 0,
+    "explain": "The Lane Ends sign warns that one lane is ending and the number of lanes in your direction will drop, so drivers in the ending lane must merge.",
+    "source": "MUTCD 11th ed. § 2C.47",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-014",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign warn you about?",
+    "image": "assets/images/signs/signal_ahead.svg",
+    "options": [
+      "A railroad crossing with lights ahead",
+      "A traffic signal ahead that may be hard to see",
+      "A police checkpoint ahead"
+    ],
+    "answer": 1,
+    "explain": "The Signal Ahead sign is posted before a traffic signal that you cannot see from far enough away, giving you time to prepare to stop.",
+    "source": "MUTCD 11th ed. § 2C.35",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-015",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "What does this sign tell you?",
+    "image": "assets/images/signs/two_way_traffic.svg",
+    "options": [
+      "Two lanes in your direction ahead",
+      "Divided highway begins",
+      "Oncoming traffic will share the road ahead"
+    ],
+    "answer": 2,
+    "explain": "The Two-Way Traffic sign warns that the road changes to a section where traffic travels in both directions, so expect oncoming vehicles.",
+    "source": "MUTCD 11th ed. § 2C.51",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-016",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "What does this sign warn you about?",
+    "image": "assets/images/signs/divided_highway.svg",
+    "options": [
+      "A divided highway begins, with a median separating opposing traffic",
+      "The road narrows to one lane",
+      "A fork in the road where you must choose left or right"
+    ],
+    "answer": 0,
+    "explain": "The Divided Highway sign warns that a median will separate the two directions; in California you must stay to the right of the median and may not drive across it.",
+    "source": "MUTCD 11th ed. § 2C.20; Cal. Veh. Code § 21651",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-017",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What should you do when you see this sign?",
+    "image": "assets/images/signs/pedestrian_crossing.svg",
+    "options": [
+      "Honk to warn people walking nearby",
+      "Watch for people crossing and be ready to yield",
+      "Speed up to clear the area quickly"
+    ],
+    "answer": 1,
+    "explain": "This warning sign alerts you to a place where pedestrians may cross the road, so slow down and be prepared to let them cross.",
+    "source": "MUTCD 11th ed. § 2C.55",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-018",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this sign require?",
+    "image": "assets/images/signs/keep_right.svg",
+    "options": [
+      "Pass to the right of the island or obstruction ahead",
+      "Use only the left lane ahead",
+      "Turn right at the next intersection"
+    ],
+    "answer": 0,
+    "explain": "The Keep Right sign is used where traffic must pass only on the right side of a median, island, or other obstruction.",
+    "source": "MUTCD 11th ed. § 2B.39",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2b.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-019",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this white rectangular sign mean?",
+    "image": "assets/images/signs/do_not_pass.svg",
+    "options": [
+      "Passing is allowed with care",
+      "Slower traffic must keep right",
+      "You may not pass other vehicles in this area"
+    ],
+    "answer": 2,
+    "explain": "DO NOT PASS is a regulatory sign used where passing is unsafe, such as where sight distance is limited, and it must be obeyed.",
+    "source": "MUTCD 11th ed. § 2B.36; Cal. Veh. Code § 21461",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2b.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-020",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "This pennant-shaped sign is placed on the left side of the road. What does it tell you?",
+    "image": "assets/images/signs/no_passing_zone.svg",
+    "options": [
+      "Passing lane begins",
+      "Road narrows ahead",
+      "A no-passing zone begins here"
+    ],
+    "answer": 2,
+    "explain": "The pennant shape is reserved for the NO PASSING ZONE sign, which is mounted on the left side of the road at the start of a no-passing zone.",
+    "source": "MUTCD 11th ed. §§ 2A.05, 2C.53",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-021",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does the orange color of this sign tell you?",
+    "image": "assets/images/signs/road_work_ahead.svg",
+    "options": [
+      "A recreation area is ahead",
+      "There is a hospital nearby",
+      "There is a temporary work zone ahead"
+    ],
+    "answer": 2,
+    "explain": "Orange is the color for temporary traffic control, so this sign warns of road work ahead where you should slow down and watch for workers and equipment.",
+    "source": "MUTCD 11th ed. §§ 1D.05, 6H.01",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part6.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-022",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "You see this sign while driving on a California highway. What does it mean?",
+    "image": "assets/images/signs/left_turn_yield_on_green.svg",
+    "options": [
+      "On a green ball you may turn left, but you must yield to oncoming traffic and pedestrians",
+      "You may turn left only on a green arrow",
+      "Oncoming traffic must stop to let you turn left"
+    ],
+    "answer": 0,
+    "explain": "This sign means left turns are allowed on a circular green light, but turning drivers must first yield to oncoming vehicles and pedestrians.",
+    "source": "MUTCD 11th ed. § 2B.59; Cal. Veh. Code § 21451(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21451",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-023",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "What does this sign over or beside a freeway lane mean?",
+    "image": "assets/images/signs/hov_lane.svg",
+    "options": [
+      "The lane is for trucks only",
+      "The lane is reserved for vehicles carrying at least two people during its posted hours",
+      "The lane is a toll lane for all vehicles"
+    ],
+    "answer": 1,
+    "explain": "The white diamond marks a high-occupancy vehicle lane; the 2+ means a vehicle needs at least two occupants, and drivers must follow the posted rules for that lane.",
+    "source": "MUTCD 11th ed. § 2G.03; Cal. Veh. Code § 21655.5",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2g.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-024",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "In California, a vehicle displaying this emblem on its rear is one that:",
+    "image": "assets/images/signs/slow_moving_vehicle.svg",
+    "options": [
+      "Is carrying hazardous materials",
+      "Is an emergency vehicle",
+      "Is designed to travel at 25 mph or less"
+    ],
+    "answer": 2,
+    "explain": "California requires the orange triangle with a red reflective border on vehicles designed to be operated at 25 mph or less, so expect it to be moving much slower than traffic.",
+    "source": "Cal. Veh. Code § 24615",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=24615",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-025",
+    "type": "sign",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does this blue sign tell you?",
+    "image": "assets/images/signs/hospital.svg",
+    "options": [
+      "A hospital is nearby",
+      "Helicopters land here",
+      "Hazardous road ahead"
+    ],
+    "answer": 0,
+    "explain": "Blue signs give road-user service information; the white H means a hospital is available nearby.",
+    "source": "MUTCD 11th ed. §§ 1D.05, 2I.02",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2hthu2n.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-026",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "Which sign warns that you will reach a STOP sign ahead?",
+    "image": null,
+    "options": [
+      {
+        "label": "Signal Ahead",
+        "image": "assets/images/signs/signal_ahead.svg"
+      },
+      {
+        "label": "Stop Ahead",
+        "image": "assets/images/signs/stop_ahead.svg"
+      },
+      {
+        "label": "Merge",
+        "image": "assets/images/signs/merge.svg"
+      }
+    ],
+    "answer": 1,
+    "explain": "The Stop Ahead sign shows a small stop sign with an arrow and is used when the STOP sign itself cannot be seen early enough.",
+    "source": "MUTCD 11th ed. § 2C.35",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-027",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "Which sign warns that the road may be slippery when it is wet?",
+    "image": null,
+    "options": [
+      {
+        "label": "Curve Right",
+        "image": "assets/images/signs/curve_right.svg"
+      },
+      {
+        "label": "Divided Highway",
+        "image": "assets/images/signs/divided_highway.svg"
+      },
+      {
+        "label": "Slippery When Wet",
+        "image": "assets/images/signs/slippery_when_wet.svg"
+      }
+    ],
+    "answer": 2,
+    "explain": "The car with skid marks is the Slippery When Wet sign, which warns of surfaces that can lose traction, especially in rain.",
+    "source": "MUTCD 11th ed. § 2C.30",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-028",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "Which sign tells you that you are driving against the flow of traffic and must not continue?",
+    "image": null,
+    "options": [
+      {
+        "label": "Wrong Way",
+        "image": "assets/images/signs/wrong_way.svg"
+      },
+      {
+        "label": "One Way",
+        "image": "assets/images/signs/one_way.svg"
+      },
+      {
+        "label": "Keep Right",
+        "image": "assets/images/signs/keep_right.svg"
+      }
+    ],
+    "answer": 0,
+    "explain": "The red WRONG WAY sign faces drivers who have entered a one-way road or ramp in the wrong direction, so stop going forward and leave safely.",
+    "source": "MUTCD 11th ed. § 2B.47",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2b.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-029",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What background color is used on signs for temporary road work zones?",
+    "image": null,
+    "options": [
+      {
+        "label": "Brown",
+        "color": "#6d4c41"
+      },
+      {
+        "label": "Orange",
+        "color": "#ef6c00"
+      },
+      {
+        "label": "Blue",
+        "color": "#1565c0"
+      }
+    ],
+    "answer": 1,
+    "explain": "Work zone (temporary traffic control) warning signs have black legends on an orange background.",
+    "source": "MUTCD 11th ed. § 6H.01",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part6.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-030",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What background color do standard warning signs, such as a curve warning, use?",
+    "image": null,
+    "options": [
+      {
+        "label": "Yellow",
+        "color": "#f9a825"
+      },
+      {
+        "label": "Green",
+        "color": "#2e7d32"
+      },
+      {
+        "label": "White",
+        "color": "#ffffff"
+      }
+    ],
+    "answer": 0,
+    "explain": "Most warning signs are diamond-shaped with a black symbol or message on a yellow background.",
+    "source": "MUTCD 11th ed. § 2C.02",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-031",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "Warning signs for schools and school buses use which background color?",
+    "image": null,
+    "options": [
+      {
+        "label": "Orange",
+        "color": "#ef6c00"
+      },
+      {
+        "label": "Red",
+        "color": "#c62828"
+      },
+      {
+        "label": "Fluorescent yellow-green",
+        "color": "#c6ff00"
+      }
+    ],
+    "answer": 2,
+    "explain": "School and school bus warning signs must have a black legend on a fluorescent yellow-green background so they stand out.",
+    "source": "MUTCD 11th ed. § 2C.02",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-032",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "On traffic signs, which color generally means stop or that something is prohibited?",
+    "image": null,
+    "options": [
+      {
+        "label": "Green",
+        "color": "#2e7d32"
+      },
+      {
+        "label": "Red",
+        "color": "#c62828"
+      },
+      {
+        "label": "Brown",
+        "color": "#6d4c41"
+      }
+    ],
+    "answer": 1,
+    "explain": "Under the national color code, red is used for stop and for prohibitions, such as the slash on a no-turn sign.",
+    "source": "MUTCD 11th ed. § 1D.05",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part1.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-033",
+    "type": "image_options",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "Signs that guide you to parks and other recreational or cultural areas use which background color?",
+    "image": null,
+    "options": [
+      {
+        "label": "Brown",
+        "color": "#6d4c41"
+      },
+      {
+        "label": "Blue",
+        "color": "#1565c0"
+      },
+      {
+        "label": "Yellow",
+        "color": "#f9a825"
+      }
+    ],
+    "answer": 0,
+    "explain": "Brown is reserved for recreational and cultural interest area guidance, while blue is used for road-user services.",
+    "source": "MUTCD 11th ed. § 1D.05",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part1.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-034",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "An eight-sided (octagon) sign is used for which sign only?",
+    "image": null,
+    "options": [
+      "YIELD",
+      "Railroad crossing ahead",
+      "STOP"
+    ],
+    "answer": 2,
+    "explain": "The octagon shape is reserved exclusively for the STOP sign so drivers can recognize it even from behind or when it is covered with snow or dirt.",
+    "source": "MUTCD 11th ed. § 2A.05",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2a.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-035",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "A sign shaped like a triangle pointing downward always means:",
+    "image": null,
+    "options": [
+      "Yield",
+      "Warning of a hill",
+      "No passing"
+    ],
+    "answer": 0,
+    "explain": "The downward-pointing equilateral triangle is used only for the YIELD sign.",
+    "source": "MUTCD 11th ed. § 2A.05",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2a.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-036",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "A round (circular) warning sign is used only to warn of:",
+    "image": null,
+    "options": [
+      "A roundabout ahead",
+      "A school crossing",
+      "A railroad crossing ahead"
+    ],
+    "answer": 2,
+    "explain": "The circle shape is limited to the Grade Crossing Advance Warning sign, which tells you a railroad crossing is ahead.",
+    "source": "MUTCD 11th ed. § 2A.05",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2a.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-037",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does a diamond-shaped sign usually tell you?",
+    "image": null,
+    "options": [
+      "It gives directions to a city",
+      "It warns of a possible hazard or change in the road ahead",
+      "It shows a legal speed limit"
+    ],
+    "answer": 1,
+    "explain": "Warning signs are normally diamond-shaped and alert you to conditions such as curves, merges, or crossings ahead.",
+    "source": "MUTCD 11th ed. § 2C.02",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-038",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "Signs that tell you a traffic law, such as a speed limit or turn restriction, are usually:",
+    "image": null,
+    "options": [
+      "Rectangles with black or red on a white background",
+      "Diamonds with black on yellow",
+      "Pentagons with black on green"
+    ],
+    "answer": 0,
+    "explain": "Regulatory signs are rectangular unless another shape is specified, and white is the color code for regulation.",
+    "source": "MUTCD 11th ed. §§ 2B.02, 1D.05",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2b.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-039",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What must you do at a flashing red traffic light?",
+    "image": null,
+    "options": [
+      "Slow down and go through without stopping",
+      "Stop only if cross traffic is present",
+      "Stop completely, then go when it is safe, just as at a STOP sign"
+    ],
+    "answer": 2,
+    "explain": "California treats a flashing red light like a STOP sign: stop at the limit line or crosswalk, then proceed under the usual stop-sign rules.",
+    "source": "Cal. Veh. Code § 21457(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21457",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-040",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "What does a flashing yellow traffic light mean?",
+    "image": null,
+    "options": [
+      "Stop and wait for green",
+      "Continue through carefully, watching for hazards",
+      "The signal is about to turn green"
+    ],
+    "answer": 1,
+    "explain": "A flashing yellow light lets you proceed through the intersection, but only with caution.",
+    "source": "Cal. Veh. Code § 21457(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21457",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-041",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 1,
+    "q": "A steady yellow traffic light means:",
+    "image": null,
+    "options": [
+      "The green signal is ending and a red light is coming next",
+      "You must speed up to beat the red",
+      "You may turn but not go straight"
+    ],
+    "answer": 0,
+    "explain": "A steady yellow warns drivers that the green movement is ending and the signal will turn red right after.",
+    "source": "Cal. Veh. Code § 21452(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21452",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-042",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "At a steady red light with no sign prohibiting it, may you turn right?",
+    "image": null,
+    "options": [
+      "No, never on a red light",
+      "Yes, without stopping if the way is clear",
+      "Yes, after a full stop and yielding to pedestrians and nearby traffic"
+    ],
+    "answer": 2,
+    "explain": "California allows a right turn on a steady red after stopping, unless a sign forbids it, and you must yield to pedestrians and close traffic.",
+    "source": "Cal. Veh. Code § 21453(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21453",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-043",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "You are in a left-turn lane facing a green left arrow and no sign prohibits U-turns. Which move is allowed?",
+    "image": null,
+    "options": [
+      "Only going straight",
+      "A left turn or a U-turn, while yielding to pedestrians in the crosswalk",
+      "Only a right turn"
+    ],
+    "answer": 1,
+    "explain": "A green arrow allows the movement it shows, and in California a left green arrow also permits a U-turn unless a sign prohibits it; you still yield to pedestrians and other lawful traffic.",
+    "source": "Cal. Veh. Code § 21451(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21451",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-044",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 3,
+    "q": "Lane-use control lights hang over each lane of a road. What does a steady red signal over a lane mean?",
+    "image": null,
+    "options": [
+      "You may use that lane only to pass",
+      "You may not drive in that lane",
+      "You may use that lane only to turn left"
+    ],
+    "answer": 1,
+    "explain": "A steady red lane-control signal means you must not enter or travel in that lane; a flashing yellow one allows the lane only for left turns.",
+    "source": "Cal. Veh. Code § 21454",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21454",
+    "verify": true
+  },
+  {
+    "id": "ca-signs-045",
+    "type": "text",
+    "topic": "signs",
+    "difficulty": 2,
+    "q": "A yellow curve warning sign has a small plaque below it showing \"25 MPH.\" What does the plaque mean?",
+    "image": null,
+    "options": [
+      "It is the recommended safe speed for the curve",
+      "It is the minimum speed allowed on the curve",
+      "It is the speed limit for trucks only"
+    ],
+    "answer": 0,
+    "explain": "An Advisory Speed plaque under a warning sign shows the recommended speed for the condition ahead, such as a sharp curve.",
+    "source": "MUTCD 11th ed. § 2C.59",
+    "sourceUrl": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-001",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "Unless a higher limit is posted under state law, the maximum speed on California highways is ___ mph.",
+    "image": null,
+    "options": [
+      "55",
+      "65",
+      "70"
+    ],
+    "answer": 1,
+    "explain": "California sets a general maximum of 65 mph; 70 mph applies only on highways posted for it.",
+    "source": "Cal. Veh. Code § 22349(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22349",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-002",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "On a two-lane, undivided California highway, the maximum speed is ___ mph unless a higher speed is posted.",
+    "image": null,
+    "options": [
+      "50",
+      "55",
+      "65"
+    ],
+    "answer": 1,
+    "explain": "A highway with only one through lane each way and no divider has a 55 mph maximum unless signs allow more.",
+    "source": "Cal. Veh. Code § 22349(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22349",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-003",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "On California highways where it is posted, the highest legal speed limit is ___ mph.",
+    "image": null,
+    "options": [
+      "70",
+      "75",
+      "80"
+    ],
+    "answer": 0,
+    "explain": "Caltrans, with CHP approval, may raise the limit to 70 mph on certain highways, and no one may exceed 70 mph there.",
+    "source": "Cal. Veh. Code § 22356",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22356",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-004",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "When you drive a passenger vehicle that is pulling a trailer in California, you may not drive faster than ___ mph.",
+    "image": null,
+    "options": [
+      "45",
+      "55",
+      "65"
+    ],
+    "answer": 1,
+    "explain": "California limits passenger vehicles towing another vehicle to 55 mph, even where the posted limit is higher.",
+    "source": "Cal. Veh. Code § 22406(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22406",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-005",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "In a business or residence district, unless signs show a different limit, the speed limit is ___ mph.",
+    "image": null,
+    "options": [
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": 1,
+    "explain": "The prima facie limit in business and residence districts is 25 mph unless a different limit is set and posted.",
+    "source": "Cal. Veh. Code § 22352",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-006",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "The speed limit in an alley in California is ___ mph.",
+    "image": null,
+    "options": [
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": 0,
+    "explain": "California law sets a 15 mph prima facie limit on any alley.",
+    "source": "Cal. Veh. Code § 22352(a)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-007",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "When you pass a school posted with a SCHOOL warning sign while children are going to or leaving school, the speed limit is ___ mph unless a different limit is posted.",
+    "image": null,
+    "options": [
+      "15",
+      "25",
+      "35"
+    ],
+    "answer": 1,
+    "explain": "The standard school limit is 25 mph near schools with a SCHOOL sign while children are arriving, leaving, or at noon recess, unless a local limit is posted.",
+    "source": "Cal. Veh. Code § 22352(b)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-008",
+    "type": "number_fill",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "In California, driving faster than ___ mph is a separate offense that can lead to a fine and a license suspension.",
+    "image": null,
+    "options": [
+      "85",
+      "100",
+      "120"
+    ],
+    "answer": 1,
+    "explain": "Driving over 100 mph carries its own penalties, including fines and possible suspension of your driving privilege.",
+    "source": "Cal. Veh. Code § 22348(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22348",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-009",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "What does California's basic speed law require?",
+    "image": null,
+    "options": [
+      "Always driving exactly at the posted limit",
+      "Never driving faster than is safe for current conditions",
+      "Keeping up with the fastest traffic"
+    ],
+    "answer": 1,
+    "explain": "The basic speed law forbids driving faster than is reasonable and prudent for the conditions, and never at a speed that endangers people or property.",
+    "source": "Cal. Veh. Code § 22350",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22350",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-010",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "Under the basic speed law, which conditions must you consider when choosing your speed?",
+    "image": null,
+    "options": [
+      "Only the posted speed limit",
+      "Only the time of day and your car's top speed",
+      "Weather, visibility, traffic, and the road's surface and width"
+    ],
+    "answer": 2,
+    "explain": "The law lists weather, visibility, traffic, and the surface and width of the road as factors in deciding what speed is safe.",
+    "source": "Cal. Veh. Code § 22350",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22350",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-011",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "Thick fog cuts your view to a short distance on a freeway posted at 65 mph. If you drive 65 mph, you:",
+    "image": null,
+    "options": [
+      "Could be cited because your speed is unsafe for the conditions",
+      "Are always legal because you are at the posted limit",
+      "Are legal as long as your headlights are on"
+    ],
+    "answer": 0,
+    "explain": "Even at or below the posted limit, you violate the basic speed law if your speed is too fast for poor visibility.",
+    "source": "Cal. Veh. Code § 22350",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22350",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-012",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "California calls many of its speed limits \"prima facie\" limits. What does driving faster than a prima facie limit mean?",
+    "image": null,
+    "options": [
+      "It is always legal if no crash occurs",
+      "It applies only at night",
+      "It is presumed unlawful unless you can show the speed was safe for the conditions"
+    ],
+    "answer": 2,
+    "explain": "Exceeding a prima facie limit is presumed to violate the basic speed law, but the driver may try to prove the speed was safe at that time and place.",
+    "source": "Cal. Veh. Code § 22351(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22351",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-013",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "You drove 72 mph on a highway with a 65 mph maximum limit, in clear weather and light traffic. Can you avoid a violation by showing your speed was safe?",
+    "image": null,
+    "options": [
+      "No, exceeding a maximum speed limit is a violation regardless",
+      "Yes, if traffic was light",
+      "Yes, if the road was dry"
+    ],
+    "answer": 0,
+    "explain": "The 65 and 70 mph limits are absolute maximums; the safe-speed defense that applies to prima facie limits does not apply to them.",
+    "source": "Cal. Veh. Code § 22348(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22348",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-014",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "Which of these vehicles is limited to 55 mph on California highways, even where the posted limit is 65 mph?",
+    "image": null,
+    "options": [
+      "A motorcycle with a passenger",
+      "A pickup truck without a trailer",
+      "A school bus carrying students"
+    ],
+    "answer": 2,
+    "explain": "State law caps school buses transporting pupils at 55 mph, along with towing vehicles, larger trucks, and some other vehicle types.",
+    "source": "Cal. Veh. Code § 22406(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22406",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-015",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "You are pulling a trailer on a multi-lane highway with no lane designated for slower vehicles. Which lane should you normally use?",
+    "image": null,
+    "options": [
+      "The far left lane",
+      "The right-hand lane, or as close to the right edge as practical",
+      "Any lane you like"
+    ],
+    "answer": 1,
+    "explain": "Vehicles under the 55 mph rule, including those towing, must use a designated lane or, if none, the right-hand lane, moving left only to pass as the law allows.",
+    "source": "Cal. Veh. Code § 22348(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22348",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-016",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "While towing a trailer on a divided highway with four or more marked lanes in your direction and no designated truck lane, which lanes may you use?",
+    "image": null,
+    "options": [
+      "The right-hand lane or the lane immediately to its left",
+      "Only the far left lane",
+      "Only the shoulder"
+    ],
+    "answer": 0,
+    "explain": "On divided highways with four or more lanes in one direction and no designated lane, towing vehicles may also use the lane just left of the right-hand lane.",
+    "source": "Cal. Veh. Code § 22348(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22348",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-017",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "Is it legal to drive so slowly that you block the normal flow of traffic?",
+    "image": null,
+    "options": [
+      "Yes, slow driving is always allowed",
+      "No, unless the slow speed is needed for safety, because of a grade, or to obey the law",
+      "Only on freeways"
+    ],
+    "answer": 1,
+    "explain": "California prohibits driving so slowly that you impede normal and reasonable traffic, unless the slower speed is needed for safety, a grade, or legal compliance.",
+    "source": "Cal. Veh. Code § 22400(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22400",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-018",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "A heavily loaded truck slows down while climbing a steep grade. Is the driver breaking the slow-driving law?",
+    "image": null,
+    "options": [
+      "Yes, all vehicles must keep up with traffic",
+      "Yes, unless a police officer allows it",
+      "No, a reduced speed because of a grade is allowed"
+    ],
+    "answer": 2,
+    "explain": "The law against impeding traffic makes an exception when the slower speed is caused by a grade or is necessary for safe operation.",
+    "source": "Cal. Veh. Code § 22400(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22400",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-019",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "A speed limit sign has a plaque below it reading \"MINIMUM 40.\" What does it mean?",
+    "image": null,
+    "options": [
+      "You must not drive below 40 mph unless needed for safety",
+      "40 mph is the limit for trucks",
+      "You should drive 40 mph in bad weather"
+    ],
+    "answer": 0,
+    "explain": "A minimum speed plaque shows the lowest legal speed on that road; California allows minimum limits where slow traffic blocks the normal flow, except when going slower is necessary for safety.",
+    "source": "Cal. Veh. Code § 22400(b); MUTCD 11th ed. § 2B.24",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22400",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-020",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 1,
+    "q": "Is it legal to stop your vehicle in a traffic lane and block normal traffic just to look at something?",
+    "image": null,
+    "options": [
+      "Yes, if your hazard lights are on",
+      "No, stopping that blocks traffic is allowed only when needed for safety or required by law",
+      "Yes, for up to one minute"
+    ],
+    "answer": 1,
+    "explain": "California forbids bringing a vehicle to a complete stop that blocks normal traffic unless the stop is necessary for safe operation or to obey the law.",
+    "source": "Cal. Veh. Code § 22400(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22400",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-021",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "You approach an intersection with no stop signs, yield signs, or signals. In the last 100 feet you cannot see 100 feet down the cross streets. What is the speed limit?",
+    "image": null,
+    "options": [
+      "15 mph",
+      "25 mph",
+      "35 mph"
+    ],
+    "answer": 0,
+    "explain": "At an uncontrolled intersection where your view of cross traffic is blocked, California sets a 15 mph prima facie limit.",
+    "source": "Cal. Veh. Code § 22352(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-022",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "You are approaching a railroad crossing that has no gates, warning lights, or flagger. During the last 100 feet you cannot see 400 feet down the tracks in both directions. What is the speed limit?",
+    "image": null,
+    "options": [
+      "25 mph",
+      "20 mph",
+      "15 mph"
+    ],
+    "answer": 2,
+    "explain": "When your view of the tracks is limited like this at a crossing without a flagger or signal device, the prima facie limit is 15 mph.",
+    "source": "Cal. Veh. Code § 22352(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-023",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "What is the speed limit when passing a senior center posted with a \"SENIOR\" warning sign?",
+    "image": null,
+    "options": [
+      "15 mph",
+      "25 mph",
+      "35 mph"
+    ],
+    "answer": 1,
+    "explain": "California sets a 25 mph prima facie limit when passing a senior center or similar facility posted with a SENIOR warning sign.",
+    "source": "Cal. Veh. Code § 22352(b)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-024",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "When does the 25 mph school limit apply near a school posted with a SCHOOL sign?",
+    "image": null,
+    "options": [
+      "Only during the first week of school",
+      "Any time of day, all year",
+      "While children are going to or leaving school during school hours or noon recess"
+    ],
+    "answer": 2,
+    "explain": "The 25 mph school limit applies while children are arriving, leaving, or at noon recess, and when unfenced school grounds are being used by children.",
+    "source": "Cal. Veh. Code § 22352(b)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-025",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "On a Saturday, children are playing on school grounds that have no fence next to the road, and the road is posted with a SCHOOL sign. What speed limit applies unless another limit is posted?",
+    "image": null,
+    "options": [
+      "25 mph",
+      "The normal limit, because it is not a school day",
+      "15 mph"
+    ],
+    "answer": 0,
+    "explain": "The 25 mph school limit also applies when school grounds not separated from the road by a fence or barrier are in use by children and a SCHOOL sign is posted.",
+    "source": "Cal. Veh. Code § 22352(b)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-026",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "Under California law, a standard SCHOOL warning sign may be placed up to how far from the school grounds?",
+    "image": null,
+    "options": [
+      "100 feet",
+      "500 feet",
+      "1,000 feet"
+    ],
+    "answer": 1,
+    "explain": "The law allows standard SCHOOL warning signs to be placed at any distance up to 500 feet from school grounds.",
+    "source": "Cal. Veh. Code § 22352(b)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.&nodeTreePath=15.7.1&lawCode=VEH",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-027",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "Near a school you see a posted school-zone speed limit of 20 mph or 15 mph. What should you do?",
+    "image": null,
+    "options": [
+      "Ignore it, because the state school limit is always 25 mph",
+      "Obey only if a police officer is present",
+      "Obey the posted lower limit, since cities can lower school-zone limits"
+    ],
+    "answer": 2,
+    "explain": "California lets local authorities set lower school-zone limits, such as 20 mph or, on some residential roads, 15 mph, once signs are posted.",
+    "source": "Cal. Veh. Code §§ 22352.5, 22358.4",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22358.4",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-028",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "Highway workers are working next to the road in a zone posted with a reduced speed limit. Driving faster than the posted limit there is:",
+    "image": null,
+    "options": [
+      "Presumed to violate the basic speed law",
+      "Legal if no workers are in your lane",
+      "Legal if you stay under the normal highway limit"
+    ],
+    "answer": 0,
+    "explain": "Exceeding a properly posted work-zone limit where workers are endangered by traffic is prima facie a violation of the basic speed law.",
+    "source": "Cal. Veh. Code § 22362",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22362",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-029",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "A sign on a bridge or in a tunnel posts a maximum speed for that structure. What must you do?",
+    "image": null,
+    "options": [
+      "Ignore it if the general limit is higher",
+      "Drive no faster than the speed the structure can safely handle",
+      "Drive at least that speed to clear the bridge quickly"
+    ],
+    "answer": 1,
+    "explain": "California prohibits driving on a bridge, elevated structure, tube, or tunnel faster than the speed it can safely handle, and posted signs are evidence of that maximum.",
+    "source": "Cal. Veh. Code § 22405",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22405",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-030",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "If you are convicted for the first time of driving over 100 mph, the court may suspend your driving privilege for up to:",
+    "image": null,
+    "options": [
+      "30 days",
+      "6 months",
+      "1 year"
+    ],
+    "answer": 0,
+    "explain": "A first conviction for exceeding 100 mph can bring a fine of up to $500 and a court-ordered suspension of up to 30 days.",
+    "source": "Cal. Veh. Code § 22348(b)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22348",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-031",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "What happens if you are convicted of driving over 100 mph again within three years of an earlier conviction for the same offense?",
+    "image": null,
+    "options": [
+      "Only a warning letter is sent",
+      "Your license is suspended by the DMV and a higher fine applies",
+      "Nothing more than the first time"
+    ],
+    "answer": 1,
+    "explain": "A repeat over-100 mph conviction within three years raises the maximum fine and requires the DMV to suspend your driving privilege.",
+    "source": "Cal. Veh. Code § 22348(b)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22348",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-032",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 3,
+    "q": "A rural highway has one through lane in each direction, no median, and a few short passing lanes. If no higher limit is posted, what is the maximum speed?",
+    "image": null,
+    "options": [
+      "65 mph, because the passing lanes make it a four-lane road",
+      "70 mph",
+      "55 mph"
+    ],
+    "answer": 2,
+    "explain": "Passing lanes do not count as through lanes, so the road is still a two-lane undivided highway with a 55 mph maximum unless posted higher.",
+    "source": "Cal. Veh. Code § 22349(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22349",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-033",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "Some California freeways use electronic signs that show different speed limits at different times. Which limit must you follow?",
+    "image": null,
+    "options": [
+      "The speed limit currently displayed on the sign",
+      "The lowest limit the sign has ever shown",
+      "The normal 65 mph limit, because electronic signs are only advice"
+    ],
+    "answer": 0,
+    "explain": "Caltrans may install variable speed limit signs on freeways, and the limit displayed at the time applies to drivers.",
+    "source": "Cal. Veh. Code § 22355",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22355",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-034",
+    "type": "text",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "A winding road has sharp curves but no lowered speed limit sign. What does California law expect you to do?",
+    "image": null,
+    "options": [
+      "Drive at the posted limit, since no lower limit is posted",
+      "Slow down as needed, because the basic speed law covers curves and other visible conditions",
+      "Drive at least 10 mph under the limit at all times"
+    ],
+    "answer": 1,
+    "explain": "California relies on the basic speed law to handle obvious conditions like curves and grades, so you must choose a safe speed even without a special sign.",
+    "source": "Cal. Veh. Code §§ 22350, 22358.5",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22358.5",
+    "verify": true
+  },
+  {
+    "id": "ca-speed-035",
+    "type": "sign",
+    "topic": "speed",
+    "difficulty": 2,
+    "q": "You see this sign on a freeway while pulling a camping trailer behind your car. What is the fastest you may legally drive?",
+    "image": "assets/images/signs/speed_limit_65.svg",
+    "options": [
+      "65 mph",
+      "55 mph",
+      "60 mph"
+    ],
+    "answer": 1,
+    "explain": "A passenger vehicle towing another vehicle is limited to 55 mph in California, even where the posted limit for other traffic is 65 mph.",
+    "source": "Cal. Veh. Code § 22406(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22406",
+    "verify": true
+  }
+]

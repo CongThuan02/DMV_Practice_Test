@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "ca-parking-001",
+    "type": "image_options",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Which curb color means no stopping, standing, or parking at any time?",
+    "image": null,
+    "options": [
+      {
+        "label": "Green",
+        "color": "#2e7d32"
+      },
+      {
+        "label": "Red",
+        "color": "#c62828"
+      },
+      {
+        "label": "Yellow",
+        "color": "#f9a825"
+      }
+    ],
+    "answer": 1,
+    "explain": "A red curb bans stopping, standing, and parking, whether or not someone stays with the car. The only exception is a bus stopping in a red zone marked as a bus loading zone.",
+    "source": "Cal. Veh. Code § 21458(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21458",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-002",
+    "type": "image_options",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Which curb color marks parking reserved for vehicles of disabled persons and disabled veterans?",
+    "image": null,
+    "options": [
+      {
+        "label": "Blue",
+        "color": "#1565c0"
+      },
+      {
+        "label": "White",
+        "color": "#ffffff"
+      },
+      {
+        "label": "Green",
+        "color": "#2e7d32"
+      }
+    ],
+    "answer": 0,
+    "explain": "Blue paint limits the space to vehicles of disabled persons and disabled veterans, which must show a disabled placard or special plate.",
+    "source": "Cal. Veh. Code § 21458(a)(5)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21458",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-003",
+    "type": "image_options",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Which curb color means you may park, but only for a limited time set by local rules?",
+    "image": null,
+    "options": [
+      {
+        "label": "Red",
+        "color": "#c62828"
+      },
+      {
+        "label": "Blue",
+        "color": "#1565c0"
+      },
+      {
+        "label": "Green",
+        "color": "#2e7d32"
+      }
+    ],
+    "answer": 2,
+    "explain": "A green curb allows time-limited parking. The time limit comes from the local ordinance and is usually posted.",
+    "source": "Cal. Veh. Code § 21458(a)(4)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21458",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-004",
+    "type": "image_options",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Which curb color allows you to stop only to load or unload passengers or freight?",
+    "image": null,
+    "options": [
+      {
+        "label": "Blue",
+        "color": "#1565c0"
+      },
+      {
+        "label": "Yellow",
+        "color": "#f9a825"
+      },
+      {
+        "label": "Green",
+        "color": "#2e7d32"
+      }
+    ],
+    "answer": 1,
+    "explain": "Yellow means stop only long enough to load or unload people or goods, within any time limit set by local ordinance.",
+    "source": "Cal. Veh. Code § 21458(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21458",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-005",
+    "type": "image_options",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Which curb color lets you stop just long enough to pick up or drop off passengers or drop a letter in a mailbox next to the curb?",
+    "image": null,
+    "options": [
+      {
+        "label": "White",
+        "color": "#ffffff"
+      },
+      {
+        "label": "Yellow",
+        "color": "#f9a825"
+      },
+      {
+        "label": "Red",
+        "color": "#c62828"
+      }
+    ],
+    "answer": 0,
+    "explain": "A white curb is for brief passenger stops and for depositing mail in an adjacent mailbox.",
+    "source": "Cal. Veh. Code § 21458(a)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21458",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-006",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Which vehicle is allowed to stop at a red curb that is marked as a bus loading zone?",
+    "image": null,
+    "options": [
+      "A taxi waiting for a fare",
+      "Any car whose driver stays behind the wheel",
+      "A bus"
+    ],
+    "answer": 2,
+    "explain": "Red zones are off-limits to everyone, attended or not, except that a bus may stop where the red zone is marked or signed as a bus loading zone.",
+    "source": "Cal. Veh. Code § 21458(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21458",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-007",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "When you park parallel to a curb, your right-hand wheels must be parallel to the curb and within ___ inches of it.",
+    "image": null,
+    "options": [
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": 1,
+    "explain": "California law requires the right wheels to be parallel to the curb and no more than 18 inches away from it.",
+    "source": "Cal. Veh. Code § 22502(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22502",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-008",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "How must a motorcycle be parked next to a curb?",
+    "image": null,
+    "options": [
+      "With at least one wheel or fender touching the curb",
+      "Within 18 inches of the curb, like a car",
+      "At a 45-degree angle with the rear wheel toward the curb"
+    ],
+    "answer": 0,
+    "explain": "Cars may be up to 18 inches from the curb, but a motorcycle must have at least one wheel or fender actually touching it.",
+    "source": "Cal. Veh. Code § 22502(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22502",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-009",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "On a one-way street (not a divided highway), where may you park parallel to the curb?",
+    "image": null,
+    "options": [
+      "Only on the right side",
+      "Only on the left side, so you face oncoming traffic",
+      "On either side, with the curbside wheels within 18 inches of that curb"
+    ],
+    "answer": 2,
+    "explain": "On a one-way roadway you may park along the right curb or along the left curb, as long as the wheels next to the curb are parallel to it and within 18 inches.",
+    "source": "Cal. Veh. Code § 22502(e)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22502",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-010",
+    "type": "scenario",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "The car shown is parked facing uphill next to a curb. Is its front-wheel position correct?",
+    "image": "assets/images/scenarios/uphill_with_curb.svg",
+    "options": [
+      "No: the wheels should be pointed straight ahead",
+      "Yes: wheels turned away from the curb, with the car rolled back so a tire rests against the curb",
+      "No: the wheels should be turned toward the curb"
+    ],
+    "answer": 1,
+    "explain": "Facing uphill, angle the front wheels away from the curb and let the car settle back so the rear of the front tire touches the curb; if the brakes slip, the curb stops the car. State law lets cities require wheels to be blocked against the curb on steep streets.",
+    "source": "CA DMV Driver Handbook § 6 (hill parking); Cal. Veh. Code § 22509",
+    "sourceUrl": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-011",
+    "type": "scenario",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "The car shown is parked facing downhill next to a curb. Is its front-wheel position correct?",
+    "image": "assets/images/scenarios/downhill_with_curb.svg",
+    "options": [
+      "Yes: turning the wheels toward the curb lets the curb stop the car if it rolls",
+      "No: the wheels should be turned away from the curb",
+      "No: the wheels should be pointed straight ahead"
+    ],
+    "answer": 0,
+    "explain": "Facing downhill, the front wheels should be turned into the curb so the curb catches the car if it starts to roll.",
+    "source": "CA DMV Driver Handbook § 6 (hill parking); Cal. Veh. Code § 22509",
+    "sourceUrl": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-012",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "You park on a hill where there is no curb. Which way should you turn your front wheels?",
+    "image": null,
+    "options": [
+      "To the left, toward the center of the road",
+      "Keep them straight",
+      "To the right, toward the edge of the road"
+    ],
+    "answer": 2,
+    "explain": "With no curb to stop the car, turn the wheels right so that a rolling car heads off the road instead of into traffic.",
+    "source": "CA DMV Driver Handbook § 6 (hill parking)",
+    "sourceUrl": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-013",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "What must you do before leaving your car unattended on a street?",
+    "image": null,
+    "options": [
+      "Lock the doors; nothing else is required",
+      "Set the parking brake and turn off the engine",
+      "Turn on the hazard lights and leave the engine running"
+    ],
+    "answer": 1,
+    "explain": "The law forbids leaving a motor vehicle unattended on a highway unless its brakes are set and its engine is stopped.",
+    "source": "Cal. Veh. Code § 22515(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22515",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-014",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "Cities may require drivers to block their wheels, such as by turning them against the curb, when leaving a car on a street with a grade steeper than ___ percent.",
+    "image": null,
+    "options": [
+      "1",
+      "3",
+      "10"
+    ],
+    "answer": 1,
+    "explain": "State law allows local authorities to require wheel blocking for unattended vehicles on grades over 3 percent in business and residence districts.",
+    "source": "Cal. Veh. Code § 22509",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22509",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-015",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "You unhitch a trailer and leave it standing on a street. What does the law require?",
+    "image": null,
+    "options": [
+      "Nothing, because a trailer has no engine",
+      "Leave it only next to a green curb",
+      "Set its brakes or block its wheels so it cannot move"
+    ],
+    "answer": 2,
+    "explain": "A vehicle that is not a motor vehicle, such as a trailer, may not be left standing on a highway unless its brakes are set or its wheels are blocked to keep it from moving.",
+    "source": "Cal. Veh. Code § 22515(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22515",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-016",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Unless a local rule says otherwise, you may not park within ___ feet of a fire hydrant.",
+    "image": null,
+    "options": [
+      "10",
+      "15",
+      "25"
+    ],
+    "answer": 1,
+    "explain": "State law bans stopping or parking within 15 feet of a fire hydrant unless a local ordinance sets a shorter distance or another exception applies.",
+    "source": "Cal. Veh. Code § 22514",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22514",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-017",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "When may you stop for a moment within 15 feet of a fire hydrant?",
+    "image": null,
+    "options": [
+      "When a licensed driver stays in the front seat and can move the car right away",
+      "When your hazard lights are on",
+      "When you will be gone less than 5 minutes"
+    ],
+    "answer": 0,
+    "explain": "One exception to the hydrant rule is a car attended by a licensed driver sitting in the front seat who can move it immediately if needed.",
+    "source": "Cal. Veh. Code § 22514(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22514",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-018",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Do not stop or park within ___ feet of the driveway entrance to a fire station.",
+    "image": null,
+    "options": [
+      "5",
+      "15",
+      "50"
+    ],
+    "answer": 1,
+    "explain": "The law keeps the area within 15 feet of a fire station driveway clear, except for marked fire department vehicles.",
+    "source": "Cal. Veh. Code § 22500(d)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22500",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-019",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Unless a different distance is marked, you may not park within ___ feet of the approach side of a crosswalk.",
+    "image": null,
+    "options": [
+      "10",
+      "20",
+      "30"
+    ],
+    "answer": 1,
+    "explain": "Parking is banned within 20 feet of the side of a marked or unmarked crosswalk that traffic approaches from (15 feet where there is a curb extension), so drivers can see people crossing.",
+    "source": "Cal. Veh. Code § 22500(n)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22500",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-020",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Is it legal to double park (stop on the traffic side of a car already parked at the curb)?",
+    "image": null,
+    "options": [
+      "No, except in narrow cases such as a school bus loading pupils in certain zones",
+      "Yes, if you stay in the car",
+      "Yes, for up to 5 minutes"
+    ],
+    "answer": 0,
+    "explain": "Stopping or parking on the roadway side of a vehicle that is already at the curb is prohibited; the only exception is a school bus loading or unloading pupils on certain low-speed streets.",
+    "source": "Cal. Veh. Code § 22500(h)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22500",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-021",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Where is it illegal to stop or park unless traffic or an officer requires it?",
+    "image": null,
+    "options": [
+      "At a green curb within the posted time",
+      "On the right side of a two-way street, 12 inches from the curb",
+      "Inside a tunnel"
+    ],
+    "answer": 2,
+    "explain": "Stopping, standing, or parking in a tube or tunnel is prohibited for everyone except the crews maintaining it.",
+    "source": "Cal. Veh. Code § 22500(j)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22500",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-022",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "Can you park across the front of a private driveway if you will be gone only a few minutes?",
+    "image": null,
+    "options": [
+      "Yes, if your hazard lights are flashing",
+      "No, parking in front of a driveway is not allowed",
+      "Yes, if the driveway is not in use"
+    ],
+    "answer": 1,
+    "explain": "Parking in front of a public or private driveway is prohibited no matter how short the stop; only authorized buses and taxis loading passengers are excepted.",
+    "source": "Cal. Veh. Code § 22500(e)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22500",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-023",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "You park in a driveway, but the back of your car hangs over the sidewalk. Is this legal?",
+    "image": null,
+    "options": [
+      "No, the car's body may not extend over any part of a sidewalk",
+      "Yes, because the tires are off the sidewalk",
+      "Yes, if pedestrians can still squeeze by"
+    ],
+    "answer": 0,
+    "explain": "The law bans parking on a sidewalk or with the vehicle body extending over any part of it.",
+    "source": "Cal. Veh. Code § 22500(f)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22500",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-024",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "A section of curb has been lowered so wheelchair users can reach the sidewalk. What does that mean for parking?",
+    "image": null,
+    "options": [
+      "Small cars may park there",
+      "You may stop there to load for up to 3 minutes",
+      "You may not park in front of it or on it"
+    ],
+    "answer": 2,
+    "explain": "No one may stop or park in front of or on a curb that has been lowered or cut down to give wheelchair users access to the sidewalk.",
+    "source": "Cal. Veh. Code § 22500(l)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22500",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-025",
+    "type": "number_fill",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "Where the area next to a sidewalk access ramp is marked by a sign or red paint, you may not park within ___ feet of the ramp.",
+    "image": null,
+    "options": [
+      "1",
+      "3",
+      "10"
+    ],
+    "answer": 1,
+    "explain": "Keeping 3 feet clear around a marked sidewalk ramp lets wheelchair users reach it.",
+    "source": "Cal. Veh. Code § 22522",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22522",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-026",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "A disabled parking space has a crosshatched (diagonal-striped) area beside it. Who may park in that striped area?",
+    "image": null,
+    "options": [
+      "No one, not even a vehicle with a disabled placard",
+      "Only vehicles with a disabled placard or plate",
+      "Anyone, for up to 15 minutes"
+    ],
+    "answer": 0,
+    "explain": "The striped space is kept open for loading wheelchairs and other access, so parking there is illegal for every vehicle, including placard holders.",
+    "source": "Cal. Veh. Code § 22507.8(c)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22507.8",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-027",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 1,
+    "q": "What must a vehicle show to park legally in a space designated for disabled persons?",
+    "image": null,
+    "options": [
+      "A note on the dashboard explaining the stop",
+      "Hazard lights flashing",
+      "A disabled person placard or special disabled license plate"
+    ],
+    "answer": 2,
+    "explain": "Only vehicles displaying a disabled person placard or the special identification plate may use these spaces; blocking access to them is also illegal.",
+    "source": "Cal. Veh. Code § 22507.8(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22507.8",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-028",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "A driver with a valid disabled placard parks at a metered space on the street. Must they pay the meter?",
+    "image": null,
+    "options": [
+      "Only half the meter fee is required",
+      "No, placard holders may park at meters without paying",
+      "Yes, the full meter fee always applies"
+    ],
+    "answer": 1,
+    "explain": "California lets a disabled person or disabled veteran with a placard or special plate park at a metered space without paying the meter.",
+    "source": "Cal. Veh. Code § 22511.5(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22511.5",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-029",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 3,
+    "q": "A driver with a valid disabled placard parks at a green curb with a 1-hour limit. How long may they stay?",
+    "image": null,
+    "options": [
+      "As long as they want; the posted time limit does not apply to them",
+      "Only 1 hour, like everyone else",
+      "Only 2 hours"
+    ],
+    "answer": 0,
+    "explain": "Placard and special-plate holders may park for unlimited periods in zones with posted time limits, such as green zones, unless all parking there is banned.",
+    "source": "Cal. Veh. Code § 22511.5(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22511.5",
+    "verify": true
+  },
+  {
+    "id": "ca-parking-030",
+    "type": "text",
+    "topic": "parking",
+    "difficulty": 2,
+    "q": "Your relative has a disabled person placard. May you use it to park in a disabled space while running errands alone?",
+    "image": null,
+    "options": [
+      "Yes, if your relative gives permission",
+      "Yes, if the space is empty",
+      "No, it may be used only when you are transporting the disabled person"
+    ],
+    "answer": 2,
+    "explain": "Lending a disabled placard is illegal; someone else may use it only while transporting the disabled person, and misuse carries a civil penalty of at least $250.",
+    "source": "Cal. Veh. Code § 4461(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=4461",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-001",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "In California, it is illegal for a driver age 21 or older to drive with a blood alcohol concentration (BAC) of ___ percent or more.",
+    "image": null,
+    "options": [
+      "0.05",
+      "0.08",
+      "0.10"
+    ],
+    "answer": 1,
+    "explain": "Driving with a BAC of 0.08% or higher is a crime by itself, even if the driver does not feel impaired.",
+    "source": "Cal. Veh. Code § 23152(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-002",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "It is illegal to drive a commercial motor vehicle with a BAC of ___ percent or more.",
+    "image": null,
+    "options": [
+      "0.02",
+      "0.04",
+      "0.08"
+    ],
+    "answer": 1,
+    "explain": "Commercial drivers face a lower limit: 0.04% instead of the 0.08% that applies to ordinary drivers.",
+    "source": "Cal. Veh. Code § 23152(d)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-003",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "A driver under 21 years old may not drive with a BAC of ___ percent or higher.",
+    "image": null,
+    "options": [
+      "0.01",
+      "0.04",
+      "0.08"
+    ],
+    "answer": 0,
+    "explain": "California has a near-zero limit for drivers under 21: a BAC of 0.01% or more, measured by a screening or chemical test, is a violation.",
+    "source": "Cal. Veh. Code § 23136(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23136",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-004",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Besides the 0.01 percent rule, it is a separate crime for a driver under 21 to drive with a BAC of ___ percent or more.",
+    "image": null,
+    "options": [
+      "0.03",
+      "0.05",
+      "0.10"
+    ],
+    "answer": 1,
+    "explain": "For drivers under 21, a BAC of 0.05% or more is a separate offense that is reported to the DMV as a conviction.",
+    "source": "Cal. Veh. Code § 23140(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23140",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-005",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "What is the BAC limit for a driver who is carrying a paying passenger (for example, a ride-hire trip)?",
+    "image": null,
+    "options": [
+      "0.04 percent",
+      "0.08 percent",
+      "0.10 percent"
+    ],
+    "answer": 0,
+    "explain": "When a passenger for hire is on board, driving with a BAC of 0.04% or more is illegal.",
+    "source": "Cal. Veh. Code § 23152(e)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-006",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "Your BAC is 0.06 percent, but alcohol has clearly slowed your reactions. Can you be arrested for DUI?",
+    "image": null,
+    "options": [
+      "No, only a BAC of 0.08% or more counts",
+      "No, unless you cause a crash",
+      "Yes, driving while under the influence of alcohol is illegal at any BAC"
+    ],
+    "answer": 2,
+    "explain": "The law has two separate rules: one for a BAC of 0.08% or more and one for being under the influence of alcohol at all. You can break the second one below 0.08%.",
+    "source": "Cal. Veh. Code § 23152(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-007",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "If a chemical test taken within ___ hours after driving shows 0.08 percent or more, the law presumes the driver was at that level while driving.",
+    "image": null,
+    "options": [
+      "1",
+      "3",
+      "6"
+    ],
+    "answer": 1,
+    "explain": "A test result of 0.08% or more within 3 hours after driving creates a presumption (which can be challenged) that the BAC was that high while driving.",
+    "source": "Cal. Veh. Code § 23152(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-008",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "Your doctor prescribed a medicine that makes you drowsy. Which statement is true?",
+    "image": null,
+    "options": [
+      "It is illegal to drive while under the influence of any drug, including a prescribed one",
+      "Prescribed medicine is always legal to take before driving",
+      "Only illegal drugs can lead to a DUI"
+    ],
+    "answer": 0,
+    "explain": "The DUI law covers being under the influence of any drug, not just illegal ones.",
+    "source": "Cal. Veh. Code § 23152(f)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-009",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "A driver charged with drug-impaired driving says the drug was legally prescribed to them. Is that a defense?",
+    "image": null,
+    "options": [
+      "Yes, a valid prescription is a complete defense",
+      "Yes, if the driver shows the pill bottle",
+      "No, being legally allowed to use the drug is not a defense"
+    ],
+    "answer": 2,
+    "explain": "California law states that being entitled to use a drug does not excuse driving under its influence.",
+    "source": "Cal. Veh. Code § 23630",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23630",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-010",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "You had one beer and also took cold medicine. Neither alone would impair you, but together they do. Is it legal to drive?",
+    "image": null,
+    "options": [
+      "Yes, if your BAC is under 0.08%",
+      "No, driving under the combined influence of alcohol and a drug is illegal",
+      "Yes, because each one alone is within limits"
+    ],
+    "answer": 1,
+    "explain": "The law separately bans driving under the combined influence of alcohol and any drug.",
+    "source": "Cal. Veh. Code § 23152(g)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-011",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "Under California law, may a person who is addicted to a drug drive a vehicle?",
+    "image": null,
+    "options": [
+      "No, except while taking part in an approved narcotic treatment program",
+      "Yes, if they have not used the drug that day",
+      "Yes, if they are not carrying the drug"
+    ],
+    "answer": 0,
+    "explain": "Driving while addicted to any drug is illegal; there is an exception for people in an approved narcotic treatment program.",
+    "source": "Cal. Veh. Code § 23152(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23152",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-012",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "What does California's implied consent law mean?",
+    "image": null,
+    "options": [
+      "You must agree to a vehicle search at any traffic stop",
+      "An officer needs your written permission before any test",
+      "By driving, you have agreed to a blood or breath test if lawfully arrested for DUI"
+    ],
+    "answer": 2,
+    "explain": "Anyone who drives in California is treated as having already consented to chemical testing of blood or breath for alcohol after a lawful DUI arrest.",
+    "source": "Cal. Veh. Code § 23612(a)(1)(A)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23612",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-013",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "You are lawfully arrested for driving under the influence of alcohol. Who chooses whether the test is of your blood or your breath?",
+    "image": null,
+    "options": [
+      "A judge decides later",
+      "You do, and the officer must tell you that you have the choice",
+      "The officer always decides"
+    ],
+    "answer": 1,
+    "explain": "For an alcohol DUI arrest, the driver chooses between a blood test and a breath test, and the officer must explain that choice.",
+    "source": "Cal. Veh. Code § 23612(a)(2)(A)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23612",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-014",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "After a DUI arrest, do you have the right to talk to a lawyer before deciding whether to take a chemical test?",
+    "image": null,
+    "options": [
+      "No, you have no right to a lawyer before deciding or during the test",
+      "Yes, the test must wait until your lawyer arrives",
+      "Yes, but only for a blood test"
+    ],
+    "answer": 0,
+    "explain": "The officer must tell you there is no right to have a lawyer present before choosing or taking the test, and that a refusal can be used against you in court.",
+    "source": "Cal. Veh. Code § 23612(a)(4)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23612",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-015",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "An adult driver refuses a chemical test after a lawful DUI arrest, with no prior DUI offenses. What happens to the driving privilege?",
+    "image": null,
+    "options": [
+      "It is suspended for 30 days",
+      "Nothing, because refusing is your right",
+      "It is suspended for one year"
+    ],
+    "answer": 2,
+    "explain": "Refusing or failing to complete the required test leads to a one-year suspension by the DMV for a first refusal.",
+    "source": "Cal. Veh. Code § 13353(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=13353",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-016",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "If a driver refuses a chemical test within 10 years of a prior DUI conviction, the DMV revokes the driving privilege for ___ years.",
+    "image": null,
+    "options": [
+      "1",
+      "2",
+      "5"
+    ],
+    "answer": 1,
+    "explain": "If a refusal happens within 10 years of a prior DUI conviction or DUI-related DMV suspension, the DMV revokes the privilege for two years; with two or more priors, three years.",
+    "source": "Cal. Veh. Code § 13353(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=13353",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-017",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Can your refusal to take a chemical test after a DUI arrest be used against you in court?",
+    "image": null,
+    "options": [
+      "Yes, the refusal may be used as evidence",
+      "No, it can never be mentioned",
+      "Only if you also failed a field sobriety test"
+    ],
+    "answer": 0,
+    "explain": "Part of the required warning is that a refusal may be used against the driver in a court of law.",
+    "source": "Cal. Veh. Code § 23612(a)(4)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23612",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-018",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "An adult driver takes a roadside preliminary alcohol screening (PAS) breath test. Does that replace the chemical test required after a DUI arrest?",
+    "image": null,
+    "options": [
+      "Yes, it counts as the chemical test",
+      "Yes, if the PAS result is under 0.08%",
+      "No, the PAS test does not satisfy the chemical test requirement"
+    ],
+    "answer": 2,
+    "explain": "The PAS is an investigative field test. The officer must explain that taking it does not meet the obligation to take a blood, breath, or urine test after arrest, and that an adult may refuse the PAS itself.",
+    "source": "Cal. Veh. Code § 23612(i)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23612",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-019",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "When an officer takes your license after a DUI arrest, the notice of suspension acts as a temporary license that is valid for ___ days from the arrest.",
+    "image": null,
+    "options": [
+      "10",
+      "30",
+      "90"
+    ],
+    "answer": 1,
+    "explain": "The officer keeps your California license and gives you a notice that also serves as a temporary license for 30 days from the date of arrest.",
+    "source": "Cal. Veh. Code § 23612(f)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23612",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-020",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "To get a DMV hearing before your DUI-related suspension takes effect, you must request it within ___ days of receiving the notice.",
+    "image": null,
+    "options": [
+      "5",
+      "10",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "A hearing request made within 10 days of receiving the notice entitles you to a hearing before the suspension starts.",
+    "source": "Cal. Veh. Code § 13558(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=13558",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-021",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "After a DUI arrest with a BAC of 0.08% or more, the DMV suspends your license. How does this relate to the criminal court case?",
+    "image": null,
+    "options": [
+      "It happens only after you are convicted in court",
+      "It replaces the criminal case",
+      "It is a separate civil action that happens regardless of the court case"
+    ],
+    "answer": 2,
+    "explain": "The DMV's administrative suspension is a civil matter, independent of whether the driver is found guilty in criminal court.",
+    "source": "Cal. Veh. Code § 13353.2(a),(e)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=13353.2",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-022",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "An adult driver with no prior DUI record is caught driving with a BAC of 0.08% or more. How long is the DMV's administrative suspension?",
+    "image": null,
+    "options": [
+      "Three years",
+      "Four months",
+      "Ten days"
+    ],
+    "answer": 1,
+    "explain": "With no prior offenses in the past 10 years, the DMV's administrative suspension for driving at 0.08% or more lasts four months.",
+    "source": "Cal. Veh. Code § 13353.3(b)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=13353.3",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-023",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "A 19-year-old driver is found driving with a BAC of 0.02 percent. What is the shortest DMV suspension that can apply?",
+    "image": null,
+    "options": [
+      "One year",
+      "30 days",
+      "No suspension, because the BAC is under 0.05%"
+    ],
+    "answer": 0,
+    "explain": "A driver under 21 who violates the 0.01% rule faces a DMV suspension of at least one year.",
+    "source": "Cal. Veh. Code § 13353.3(b)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=13353.3",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-024",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A driver under 21 who is lawfully stopped refuses a preliminary alcohol screening test. What is the result?",
+    "image": null,
+    "options": [
+      "A warning only",
+      "A fine, with no effect on the license",
+      "The driving privilege is suspended or revoked for one to three years"
+    ],
+    "answer": 2,
+    "explain": "Drivers under 21 are treated as having consented to a screening test. Refusing leads to a suspension or revocation of one to three years, depending on prior offenses.",
+    "source": "Cal. Veh. Code § 23136(c)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23136",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-025",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A 16-year-old without a license yet is convicted of a DUI-type offense. What does the court order?",
+    "image": null,
+    "options": [
+      "A fine only",
+      "A delay of one year, counted from when they become eligible to drive",
+      "No penalty, because they have no license"
+    ],
+    "answer": 1,
+    "explain": "When an unlicensed person under 21 is convicted, the court orders the DMV to delay issuing a license for one year after the person becomes eligible.",
+    "source": "Cal. Veh. Code § 13202.5(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=13202.5",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-026",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "A person on probation for DUI may not drive with a BAC of what level or higher?",
+    "image": null,
+    "options": [
+      "0.01 percent",
+      "0.05 percent",
+      "0.08 percent"
+    ],
+    "answer": 0,
+    "explain": "Drivers on probation for DUI face the same near-zero 0.01% limit that applies to drivers under 21.",
+    "source": "Cal. Veh. Code § 23154(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23154",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-027",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "You are driving on a highway. May your adult passenger drink a beer?",
+    "image": null,
+    "options": [
+      "Yes, if the passenger is 21 or older",
+      "Yes, if the driver is not drinking",
+      "No, passengers may not drink alcohol in a moving vehicle on a highway"
+    ],
+    "answer": 2,
+    "explain": "The law bans drinking alcohol by the driver while driving and by any passenger in a vehicle being driven on a highway.",
+    "source": "Cal. Veh. Code § 23221(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23221",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-028",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "Is it legal for a driver to carry an opened can of beer on their person while driving?",
+    "image": null,
+    "options": [
+      "Yes, if the can is less than half full",
+      "No, a driver may not possess an opened alcohol container while driving",
+      "Yes, if the driver does not drink from it"
+    ],
+    "answer": 1,
+    "explain": "A driver may not have an opened container of alcohol, or one with a broken seal or some contents removed, in their possession while driving.",
+    "source": "Cal. Veh. Code § 23222(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23222",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-029",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "May a passenger hold an opened bottle of wine in a car traveling on a highway?",
+    "image": null,
+    "options": [
+      "No, passengers may not possess opened alcohol containers either",
+      "Yes, only the driver is restricted",
+      "Yes, if the bottle has been recorked"
+    ],
+    "answer": 0,
+    "explain": "The open container rule applies to passengers too, not just the driver.",
+    "source": "Cal. Veh. Code § 23223(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23223",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-030",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 1,
+    "q": "You are bringing home a partly finished bottle of wine from a restaurant. Where should you keep it while driving?",
+    "image": null,
+    "options": [
+      "Behind the driver's seat",
+      "In the glove compartment",
+      "In the trunk"
+    ],
+    "answer": 2,
+    "explain": "An opened alcohol container must be kept in the trunk. If the vehicle has no trunk, it must go in an area not normally occupied by the driver or passengers.",
+    "source": "Cal. Veh. Code § 23225(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23225",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-031",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "Your vehicle has no trunk. Where may you keep an opened container of alcohol while driving?",
+    "image": null,
+    "options": [
+      "Under the passenger seat",
+      "In an area that the driver and passengers do not normally occupy",
+      "In the glove compartment"
+    ],
+    "answer": 1,
+    "explain": "Without a trunk, the container must go in an area not normally occupied by people, and the law says the glove compartment and utility compartments do not count.",
+    "source": "Cal. Veh. Code § 23225(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23225",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-032",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "Where in a vehicle do the open container rules NOT apply?",
+    "image": null,
+    "options": [
+      "The living quarters of a motorhome or camper",
+      "The back seat of a sedan",
+      "The bed of a pickup truck"
+    ],
+    "answer": 0,
+    "explain": "The ban on keeping opened alcohol in the passenger area does not apply to the living quarters of a housecar or camper.",
+    "source": "Cal. Veh. Code § 23226(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23226",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-033",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "An 18-year-old is driving alone with a sealed case of beer in the car. Which is true?",
+    "image": null,
+    "options": [
+      "It is legal because the beer is sealed",
+      "It is legal if the beer is in the trunk",
+      "It is illegal unless they are with a parent or other allowed adult, or carrying it for work"
+    ],
+    "answer": 2,
+    "explain": "Drivers under 21 may not knowingly carry alcohol, even sealed, unless accompanied by a parent, guardian, responsible adult relative, or adult designated by the parent, or carrying it as part of a job with a licensed alcohol business.",
+    "source": "Cal. Veh. Code § 23224(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23224",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-034",
+    "type": "number_fill",
+    "topic": "alcohol",
+    "difficulty": 3,
+    "q": "If a driver under 21 illegally carries alcohol in a car registered to them, the car may be impounded for up to ___ days for each violation.",
+    "image": null,
+    "options": [
+      "7",
+      "30",
+      "90"
+    ],
+    "answer": 1,
+    "explain": "The vehicle may be impounded at the owner's expense for 1 to 30 days per violation.",
+    "source": "Cal. Veh. Code § 23224(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23224",
+    "verify": true
+  },
+  {
+    "id": "ca-alcohol-035",
+    "type": "text",
+    "topic": "alcohol",
+    "difficulty": 2,
+    "q": "While driving, where may you keep an opened package of cannabis?",
+    "image": null,
+    "options": [
+      "In the trunk",
+      "In the center console",
+      "On the passenger seat"
+    ],
+    "answer": 0,
+    "explain": "Having an opened cannabis container or loose cannabis flower while driving is an infraction unless it is in the trunk.",
+    "source": "Cal. Veh. Code § 23222(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23222",
+    "verify": true
+  }
+]

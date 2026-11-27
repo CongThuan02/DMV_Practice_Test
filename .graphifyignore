@@ -11,4 +11,10 @@ build/
 README.md
 analysis_options.yaml
 pubspec.yaml
-assets/translations/
+assets/
+.vscode/
+.claude/
+content/
+research/
+*.html
+dmv-app-plan.md

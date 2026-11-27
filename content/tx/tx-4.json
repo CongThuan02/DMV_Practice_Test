@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "tx-safe_driving-001",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "How much space does Texas law require you to keep behind the vehicle you are following?",
+    "image": null,
+    "options": [
+      "Enough to stop safely without hitting it or swerving into something else, given your speed and conditions",
+      "At least 100 feet at all times",
+      "Exactly one car length for every 10 mph, no matter the conditions"
+    ],
+    "answer": 0,
+    "explain": "Texas uses an 'assured clear distance' rule: the gap must let you stop safely for the speed, traffic and road conditions, rather than a fixed number.",
+    "source": "Tex. Transp. Code § 545.062(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.062",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-002",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Outside a business or residential district, a truck following another truck should, when conditions allow, leave a gap large enough for what?",
+    "image": null,
+    "options": [
+      "A passing vehicle to safely move into the space",
+      "The trucks to be linked by a tow chain",
+      "A pedestrian to cross between them"
+    ],
+    "answer": 0,
+    "explain": "Texas asks trucks traveling behind each other on open roads to leave enough room for a passing vehicle to pull into the gap.",
+    "source": "Tex. Transp. Code § 545.062(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.062",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-003",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Besides nighttime, when must you turn on your headlights in Texas?",
+    "image": null,
+    "options": [
+      "Only on highways with a speed limit above 55 mph",
+      "Only when it is actually raining",
+      "Whenever people or vehicles on the highway cannot be clearly seen 1,000 feet ahead"
+    ],
+    "answer": 2,
+    "explain": "Lights are required at night and any time poor light or weather keeps you from clearly seeing persons or vehicles 1,000 feet ahead.",
+    "source": "Tex. Transp. Code § 547.302(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.547.htm#547.302",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-004",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Texas law requires your lights to be on when a person or vehicle on the highway is not clearly visible at a distance of ___ feet ahead.",
+    "image": null,
+    "options": [
+      "300",
+      "500",
+      "1000"
+    ],
+    "answer": 2,
+    "explain": "The visibility trigger for using lights is 1,000 feet.",
+    "source": "Tex. Transp. Code § 547.302(a)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.547.htm#547.302",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-005",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Under Texas law, 'nighttime' (when headlights are required) begins when?",
+    "image": null,
+    "options": [
+      "One hour after sunset",
+      "At sunset exactly",
+      "One-half hour after sunset"
+    ],
+    "answer": 2,
+    "explain": "Texas defines nighttime as the period from a half hour after sunset until a half hour before sunrise.",
+    "source": "Tex. Transp. Code § 541.401",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.541.htm#541.401",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-006",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "When an oncoming vehicle comes within ___ feet, you must switch from high beams to low beams.",
+    "image": null,
+    "options": [
+      "300",
+      "500",
+      "1000"
+    ],
+    "answer": 1,
+    "explain": "Within 500 feet of an oncoming vehicle you must use your lower beam or a beam aimed so it does not shine into the other driver's eyes.",
+    "source": "Tex. Transp. Code § 547.333(c)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.547.htm#547.333",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-007",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "When you are coming up behind another vehicle, you may not use your high beams within ___ feet of it.",
+    "image": null,
+    "options": [
+      "150",
+      "300",
+      "500"
+    ],
+    "answer": 1,
+    "explain": "Texas bars the upper beam when you are within 300 feet of a vehicle you are approaching from behind.",
+    "source": "Tex. Transp. Code § 547.333(c)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.547.htm#547.333",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-008",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You are driving at night with high beams on and a car appears ahead going the same direction, about 200 feet away. What should you do?",
+    "image": null,
+    "options": [
+      "Switch to low beams",
+      "Flash your high beams to warn the driver",
+      "Keep high beams on so the other driver sees you"
+    ],
+    "answer": 0,
+    "explain": "High beams are not allowed within 300 feet of a vehicle you are following, so you must dim them.",
+    "source": "Tex. Transp. Code § 547.333(c)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.547.htm#547.333",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-009",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Who is legally responsible for buckling up a 16-year-old passenger in Texas?",
+    "image": null,
+    "options": [
+      "The driver, because the passenger is under 17",
+      "Only the passenger",
+      "Nobody, seat belts are optional for passengers"
+    ],
+    "answer": 0,
+    "explain": "A driver commits an offense by letting a child younger than 17 ride without a seat belt (unless a child safety seat is required instead).",
+    "source": "Tex. Transp. Code § 545.413(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.413",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-010",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "A 30-year-old passenger in your car is not wearing a seat belt. Under Texas law, who commits the offense?",
+    "image": null,
+    "options": [
+      "Neither person, since passengers are exempt",
+      "Only the driver",
+      "The passenger, because riders 15 and older are responsible for their own belt"
+    ],
+    "answer": 2,
+    "explain": "Anyone at least 15 years old riding in a seat that has a belt must wear it, and that person is the one who violates the law.",
+    "source": "Tex. Transp. Code § 545.413(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.413",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-011",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Texas requires a child to ride in a child safety seat system if the child is younger than ___ years old, unless the child is taller than 4 feet 9 inches.",
+    "image": null,
+    "options": [
+      "5",
+      "8",
+      "10"
+    ],
+    "answer": 1,
+    "explain": "Children under 8 must be in a child passenger safety seat system unless they are taller than 4 feet 9 inches.",
+    "source": "Tex. Transp. Code § 545.412(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.412",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-012",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "A 7-year-old who is shorter than 4 feet 9 inches rides in your car. What does Texas law require?",
+    "image": null,
+    "options": [
+      "Secure the child in a child safety seat system following the manufacturer's instructions",
+      "The child may ride unbelted in the back seat",
+      "An adult lap belt is enough"
+    ],
+    "answer": 0,
+    "explain": "A child under 8 who is not taller than 4 feet 9 inches must be kept in a child safety seat system used the way the maker instructs.",
+    "source": "Tex. Transp. Code § 545.412(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.412",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-013",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 3,
+    "q": "A 6-year-old child is 4 feet 10 inches tall. Does Texas law require a child safety seat?",
+    "image": null,
+    "options": [
+      "No, and the child does not need any restraint",
+      "Yes, every child under 8 needs a safety seat regardless of height",
+      "No, because the child is taller than 4 feet 9 inches; the child still must wear a seat belt"
+    ],
+    "answer": 2,
+    "explain": "The safety-seat rule does not apply to a child taller than 4 feet 9 inches, but the driver must still make sure a child under 17 is belted.",
+    "source": "Tex. Transp. Code § 545.412(a); § 545.413(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.412",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-014",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Under Texas law, when may a driver read, write or send a text message on a handheld phone?",
+    "image": null,
+    "options": [
+      "Only when the vehicle is stopped",
+      "Whenever the phone is held at eye level",
+      "Whenever traffic is moving under 30 mph"
+    ],
+    "answer": 0,
+    "explain": "Texas bans using a portable device to read, write or send electronic messages while driving unless the vehicle is stopped.",
+    "source": "Tex. Transp. Code § 545.4251(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.4251",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-015",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Which phone use is a defense under the Texas texting-while-driving law?",
+    "image": null,
+    "options": [
+      "Replying to a friend's text at a red light while rolling forward",
+      "Reading a social media post",
+      "Using the phone to navigate with GPS"
+    ],
+    "answer": 2,
+    "explain": "Navigation with a GPS or navigation system is one of the listed defenses; reading or sending non-emergency messages while moving is not.",
+    "source": "Tex. Transp. Code § 545.4251(c)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.4251",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-016",
+    "type": "sign",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You are driving through a marked school crossing zone. When may you use your cell phone?",
+    "image": "assets/images/signs/school_zone.svg",
+    "options": [
+      "Only to send short text messages",
+      "Any time, if you hold the phone below the window",
+      "Only if the vehicle is stopped or you use a hands-free device"
+    ],
+    "answer": 2,
+    "explain": "In a school crossing zone a driver may not use a wireless device unless stopped or using it hands-free (emergency calls are a defense).",
+    "source": "Tex. Transp. Code § 545.425(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.425",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-017",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "On public school property where a school crossing zone has its reduced speed limit in effect, how may a driver use a cell phone?",
+    "image": null,
+    "options": [
+      "Only while stopped or with a hands-free device",
+      "Freely, because the ban applies only on public streets",
+      "Only to send text messages"
+    ],
+    "answer": 0,
+    "explain": "Texas extends the school-zone phone limits to school property while the reduced school-zone speed is in effect.",
+    "source": "Tex. Transp. Code § 545.4252(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.4252",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-018",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You are in a collision that injures someone, and you have already driven a short distance away. What must you do?",
+    "image": null,
+    "options": [
+      "Wait until the next day and file a report by mail",
+      "Call your insurer and keep driving",
+      "Return to the scene immediately"
+    ],
+    "answer": 2,
+    "explain": "A driver in an injury or death crash must stop at the scene, or return to it right away if not already stopped there.",
+    "source": "Tex. Transp. Code § 550.021(a)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.021",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-019",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "After a crash that may have hurt someone, what must the driver find out right away?",
+    "image": null,
+    "options": [
+      "Whether anyone was involved and needs help",
+      "Whether the damage is over $1,000",
+      "Who was at fault"
+    ],
+    "answer": 0,
+    "explain": "Drivers must immediately determine whether a person is involved and, if so, whether that person needs aid.",
+    "source": "Tex. Transp. Code § 550.021(a)(3)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.021",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-020",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "When you stop after a collision, how should you position your vehicle?",
+    "image": null,
+    "options": [
+      "At or as close as possible to the scene, without blocking traffic more than necessary",
+      "At the nearest gas station, wherever it is",
+      "In the exact spot of impact even if it blocks every lane"
+    ],
+    "answer": 0,
+    "explain": "Texas requires stopping at or near the scene while avoiding more traffic obstruction than needed.",
+    "source": "Tex. Transp. Code § 550.022(a)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.022",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-021",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You have a minor crash on a freeway in a metropolitan area and both cars can be driven normally. What should you do?",
+    "image": null,
+    "options": [
+      "Drive home and exchange information later by phone",
+      "Leave the cars in the lane until police arrive",
+      "Move the cars off the main lanes to a safe nearby spot, such as the frontage road, to exchange information"
+    ],
+    "answer": 2,
+    "explain": "If every vehicle can be driven safely, drivers must move to a designated site, frontage road, cross street or other suitable place to finish their duties.",
+    "source": "Tex. Transp. Code § 550.022(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.022",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-022",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Which information must you give the other driver after a crash in Texas?",
+    "image": null,
+    "options": [
+      "Your date of birth and employer",
+      "Your name, address, vehicle registration number and liability insurer",
+      "Only your phone number"
+    ],
+    "answer": 1,
+    "explain": "Drivers must share their name, address, the vehicle's registration number and the name of their liability insurance company.",
+    "source": "Tex. Transp. Code § 550.023(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.023",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-023",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "After a collision, another involved driver asks to see your driver license. What does Texas law require?",
+    "image": null,
+    "options": [
+      "Refuse, since only police may ask",
+      "Hand it over for them to keep",
+      "Show it if you have it with you"
+    ],
+    "answer": 2,
+    "explain": "If requested and available, a driver involved in a crash must show their license to the other people involved.",
+    "source": "Tex. Transp. Code § 550.023(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.023",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-024",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "A person hurt in a crash with you clearly needs medical treatment. What must you do?",
+    "image": null,
+    "options": [
+      "Move the person into your car only if police tell you to",
+      "Give reasonable help, including taking or arranging transport to a doctor or hospital",
+      "Leave, because only emergency workers may help"
+    ],
+    "answer": 1,
+    "explain": "Drivers must provide reasonable assistance to injured people, including arranging transportation for medical care when it is clearly needed or requested.",
+    "source": "Tex. Transp. Code § 550.023(3)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.023",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-025",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You back into a parked car and nobody is around. What does Texas law require?",
+    "image": null,
+    "options": [
+      "Stop, then find the owner or leave a written note with your name, address and what happened",
+      "Wait 10 minutes, then leave if no one returns",
+      "Drive away if the damage looks minor"
+    ],
+    "answer": 0,
+    "explain": "When you damage an unattended vehicle, you must stop and either locate the owner or securely leave a visible written notice with your information and the circumstances.",
+    "source": "Tex. Transp. Code § 550.024(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.024",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-026",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You hit a fence next to the highway, and only the fence is damaged. What must you do?",
+    "image": null,
+    "options": [
+      "Nothing, because no vehicle was damaged",
+      "Repair the fence yourself before telling anyone",
+      "Take reasonable steps to find and notify the property owner"
+    ],
+    "answer": 2,
+    "explain": "Damaging a structure, fixture or landscaping next to a highway requires reasonable steps to locate the owner and give your name, address and registration number.",
+    "source": "Tex. Transp. Code § 550.025(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.025",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-027",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "A crash inside city limits leaves a car unable to be driven safely. Whom must you notify right away?",
+    "image": null,
+    "options": [
+      "The local police department",
+      "The Texas Department of Insurance",
+      "Your vehicle's manufacturer"
+    ],
+    "answer": 0,
+    "explain": "Crashes causing injury, death or a vehicle that cannot be driven normally must be reported immediately; inside a city, that means the local police.",
+    "source": "Tex. Transp. Code § 550.026(a)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.026",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-028",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Which collision must be reported immediately to police or the sheriff by the quickest means?",
+    "image": null,
+    "options": [
+      "Only collisions involving commercial trucks",
+      "One that injures a person or leaves a vehicle unable to be driven safely",
+      "Any collision, even a light scrape in a parking lot"
+    ],
+    "answer": 1,
+    "explain": "Immediate notice is required when a crash causes injury or death or damages a vehicle so it cannot be driven normally and safely.",
+    "source": "Tex. Transp. Code § 550.026(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.026",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-029",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Under Texas law, may a 12-year-old ride in the open bed of your pickup on a city street?",
+    "image": null,
+    "options": [
+      "Yes, if the tailgate is closed",
+      "No, it is an offense to drive with a child under 18 in an open truck bed, except in limited situations",
+      "Yes, as long as you drive under 35 mph"
+    ],
+    "answer": 1,
+    "explain": "Texas makes it an offense to drive an open-bed pickup with a child younger than 18 in the bed, apart from narrow exceptions such as parades or emergencies.",
+    "source": "Tex. Transp. Code § 545.414(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.414",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-030",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "When may you drive a car across a sidewalk in Texas?",
+    "image": null,
+    "options": [
+      "Only at a permanent or authorized temporary driveway",
+      "Whenever no pedestrians are present",
+      "To get around traffic that is stopped"
+    ],
+    "answer": 0,
+    "explain": "Driving on a sidewalk or sidewalk area is prohibited except where a permanent or authorized temporary driveway crosses it.",
+    "source": "Tex. Transp. Code § 545.422(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.422",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-031",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You are parked on a busy street. Before opening your door on the traffic side, what must you do?",
+    "image": null,
+    "options": [
+      "Open it quickly so traffic notices you",
+      "Turn on your hazard lights and open it",
+      "Make sure it can be opened safely without interfering with moving traffic"
+    ],
+    "answer": 2,
+    "explain": "Texas law allows opening a door on the traffic side only when it is reasonably safe and does not interfere with traffic, and it may not be left open longer than needed.",
+    "source": "Tex. Transp. Code § 545.418",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.418",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-032",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You missed your exit on a controlled-access freeway. What may you do?",
+    "image": null,
+    "options": [
+      "Back up in the right lane with hazard lights on",
+      "Back up slowly on the shoulder",
+      "Continue to the next exit; backing on the shoulder or roadway is not allowed"
+    ],
+    "answer": 2,
+    "explain": "Texas prohibits backing on the shoulder or roadway of a limited-access or controlled-access highway.",
+    "source": "Tex. Transp. Code § 545.415(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.415",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-033",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "On a Texas roadway, what rights and duties does a person riding a bicycle have?",
+    "image": null,
+    "options": [
+      "The same as a pedestrian",
+      "Generally the same as a driver of a vehicle",
+      "None; bicycles must stay on sidewalks"
+    ],
+    "answer": 1,
+    "explain": "A bicyclist has the rights and duties of a vehicle driver unless a specific rule says otherwise or the rule cannot apply to bicycles.",
+    "source": "Tex. Transp. Code § 551.101(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.551.htm#551.101",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-034",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Two bicyclists are riding side by side in a single lane ahead of you and not blocking normal traffic flow. Is this legal in Texas?",
+    "image": null,
+    "options": [
+      "Yes, bicyclists may ride two abreast in a single lane if they do not impede normal traffic",
+      "No, bicyclists must always ride single file",
+      "Yes, and they may ride three or more abreast"
+    ],
+    "answer": 0,
+    "explain": "Texas allows riding two abreast within one lane as long as the riders do not impede the normal flow of traffic.",
+    "source": "Tex. Transp. Code § 551.103(c)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.551.htm#551.103",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-035",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 3,
+    "q": "A cyclist is riding near the middle of a narrow outside lane that is under 14 feet wide and has no bike lane. Is that allowed?",
+    "image": null,
+    "options": [
+      "No, cyclists must always hug the right curb",
+      "No, cyclists may not use lanes without a bike lane",
+      "Yes, a cyclist may move away from the right edge when the lane is too narrow to share safely"
+    ],
+    "answer": 2,
+    "explain": "The keep-right rule for slower bicycles has exceptions, including an outside lane less than 14 feet wide without a bike lane or too narrow to share side by side.",
+    "source": "Tex. Transp. Code § 551.103(a)(4)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.551.htm#551.103",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-036",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "At night in Texas, a bicycle's front lamp must emit white light visible from at least ___ feet ahead.",
+    "image": null,
+    "options": [
+      "100",
+      "500",
+      "1000"
+    ],
+    "answer": 1,
+    "explain": "A bicycle used at night needs a front white lamp visible from at least 500 feet, plus a red rear reflector or lamp.",
+    "source": "Tex. Transp. Code § 551.104(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.551.htm#551.104",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-037",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Under Texas law, a motorcycle may not carry a passenger younger than ___ years old, unless the child rides in a sidecar.",
+    "image": null,
+    "options": [
+      "3",
+      "5",
+      "8"
+    ],
+    "answer": 1,
+    "explain": "A motorcycle or moped operator may not carry a passenger under 5 years old, except a child seated in an attached sidecar.",
+    "source": "Tex. Transp. Code § 545.416(d)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.416",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-038",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "According to NHTSA, sending or reading a text takes your eyes off the road for about 5 seconds. At 55 mph, how far do you travel in that time?",
+    "image": null,
+    "options": [
+      "About the length of a football field",
+      "About a quarter mile",
+      "About one car length"
+    ],
+    "answer": 0,
+    "explain": "NHTSA notes that 5 seconds at 55 mph covers roughly the length of a football field driven blind.",
+    "source": "NHTSA, Distracted Driving",
+    "sourceUrl": "https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-039",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "NHTSA advises that children of what age should ride in the back seat?",
+    "image": null,
+    "options": [
+      "Under 18",
+      "Under 13",
+      "Under 5"
+    ],
+    "answer": 1,
+    "explain": "Because frontal air bags deploy with great force, NHTSA recommends that children under 13 sit in the back seat.",
+    "source": "NHTSA, Air Bags",
+    "sourceUrl": "https://www.nhtsa.gov/vehicle-safety/air-bags",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-040",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "How should a lap-and-shoulder seat belt be worn, according to NHTSA?",
+    "image": null,
+    "options": [
+      "Lap belt across the stomach and shoulder belt behind the back",
+      "Lap belt across the hips and shoulder belt across the middle of the chest",
+      "Shoulder belt under the arm for comfort"
+    ],
+    "answer": 1,
+    "explain": "NHTSA says the lap belt goes across the hips, the shoulder belt across the mid-chest away from the neck, and never behind the back or under an arm.",
+    "source": "NHTSA, Seat Belts",
+    "sourceUrl": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-041",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Why do you still need a seat belt in a car with air bags?",
+    "image": null,
+    "options": [
+      "Air bags only work if you are unbelted",
+      "Seat belts are only needed in older cars",
+      "Air bags are designed to work with seat belts, not replace them"
+    ],
+    "answer": 2,
+    "explain": "NHTSA explains that air bags supplement seat belts, and an unbelted occupant can be thrown into a deploying air bag and badly hurt.",
+    "source": "NHTSA, Seat Belts",
+    "sourceUrl": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-042",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "According to NHTSA, when do drowsy-driving crashes most often happen?",
+    "image": null,
+    "options": [
+      "Between midnight and 6 a.m., or in the late afternoon",
+      "Between 8 a.m. and noon",
+      "Right after eating breakfast"
+    ],
+    "answer": 0,
+    "explain": "NHTSA reports that drowsy-driving crashes peak from midnight to 6 a.m. and in the late afternoon, when the body's internal clock dips.",
+    "source": "NHTSA, Drowsy Driving",
+    "sourceUrl": "https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-043",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You start to feel sleepy while driving. What does NHTSA suggest?",
+    "image": null,
+    "options": [
+      "Pull over in a safe place, such as a lighted rest stop, for a short nap",
+      "Speed up to reach your destination sooner",
+      "Open the window and turn up the radio"
+    ],
+    "answer": 0,
+    "explain": "NHTSA says coffee alone is not enough; pulling over somewhere safe for a short nap helps, though only for a limited time.",
+    "source": "NHTSA, Drowsy Driving",
+    "sourceUrl": "https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-044",
+    "type": "scenario",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You are about to turn right across a bike lane while a cyclist rides in it beside you. What should you do?",
+    "image": "assets/images/scenarios/bike_lane.svg",
+    "options": [
+      "Honk so the cyclist stops",
+      "Speed up to turn ahead of the cyclist",
+      "Yield and let the cyclist pass before turning"
+    ],
+    "answer": 2,
+    "explain": "NHTSA advises drivers to yield to bicyclists as they would to other vehicles and to avoid turning in front of them.",
+    "source": "NHTSA, Bicycle Safety",
+    "sourceUrl": "https://www.nhtsa.gov/road-safety/bicycle-safety",
+    "verify": true
+  },
+  {
+    "id": "tx-safe_driving-045",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "According to NHTSA, what usually causes multi-vehicle crashes involving motorcycles?",
+    "image": null,
+    "options": [
+      "The motorcyclist was riding too slowly",
+      "The other driver simply did not see the motorcyclist",
+      "The motorcycle's brakes failed"
+    ],
+    "answer": 1,
+    "explain": "NHTSA notes most multi-vehicle motorcycle crashes happen because other drivers did not see the rider, so check carefully for motorcycles.",
+    "source": "NHTSA, Motorcycle Safety",
+    "sourceUrl": "https://www.nhtsa.gov/road-safety/motorcycle-safety",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-001",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What is the minimum age to get a Texas learner license?",
+    "image": null,
+    "options": [
+      "14",
+      "16",
+      "15"
+    ],
+    "answer": 2,
+    "explain": "A learner license may be issued to someone who is at least 15 and under 18 and meets the education and testing requirements.",
+    "source": "Tex. Transp. Code § 521.222(a)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.222",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-002",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "A learner license holder must be accompanied by a licensed driver who is at least ___ years old, seated beside the driver.",
+    "image": null,
+    "options": [
+      "18",
+      "21",
+      "25"
+    ],
+    "answer": 1,
+    "explain": "The supervising driver must sit in the seat next to the learner, be at least 21, hold the right license, and have at least one year of driving experience.",
+    "source": "Tex. Transp. Code § 521.222(d)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.222",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-003",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "Besides age and holding the right license, what driving experience must a learner's supervising driver have?",
+    "image": null,
+    "options": [
+      "None, any license holder qualifies",
+      "At least one year",
+      "At least five years"
+    ],
+    "answer": 1,
+    "explain": "Texas requires the adult beside a learner to have at least one year of driving experience.",
+    "source": "Tex. Transp. Code § 521.222(d)(2)(C)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.222",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-004",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "Where must the supervising adult sit when a learner license holder is driving?",
+    "image": null,
+    "options": [
+      "In the seat next to the driver",
+      "In any back seat",
+      "Anywhere in the vehicle"
+    ],
+    "answer": 0,
+    "explain": "A learner may drive only while accompanied by a qualified licensed adult occupying the seat beside the operator.",
+    "source": "Tex. Transp. Code § 521.222(d)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.222",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-005",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "Which supervising adult is breaking Texas law while a learner drives?",
+    "image": null,
+    "options": [
+      "One who is asleep in the front passenger seat",
+      "One who is watching the road and giving directions",
+      "One who is 45 years old with 20 years of driving experience"
+    ],
+    "answer": 0,
+    "explain": "The person beside a learner commits an offense if they sleep, are intoxicated, or are doing something that keeps them from watching and responding to the driver.",
+    "source": "Tex. Transp. Code § 521.222(g)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.222",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-006",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "When may a learner license holder drive?",
+    "image": null,
+    "options": [
+      "Alone during daylight hours",
+      "Only with the learner license in their possession and a qualified adult beside them",
+      "Alone, if a parent gave written permission"
+    ],
+    "answer": 1,
+    "explain": "A learner license allows driving only while the license is carried and a qualified supervising driver occupies the seat beside the learner.",
+    "source": "Tex. Transp. Code § 521.222(d)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.222",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-007",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "How long must a driver under 18 hold a learner (or hardship) license before getting a provisional Class C license?",
+    "image": null,
+    "options": [
+      "At least 30 days",
+      "At least one year",
+      "At least six months"
+    ],
+    "answer": 2,
+    "explain": "Texas will not issue a regular Class C license to an applicant under 18 who has not held a learner or hardship license for at least six months.",
+    "source": "Tex. Transp. Code § 521.204(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.204",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-008",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What is the minimum age to get a Texas provisional Class C license?",
+    "image": null,
+    "options": [
+      "16",
+      "15",
+      "17"
+    ],
+    "answer": 0,
+    "explain": "An applicant under 18 must be at least 16, among other requirements, to receive a Class C license.",
+    "source": "Tex. Transp. Code § 521.204(a)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.204",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-009",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "A Texas driver under 18 may not drive with more than ___ passenger(s) under 21 who are not family members.",
+    "image": null,
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "explain": "Drivers under 18 may carry no more than one non-family passenger under 21 (this does not apply while supervised as a learner requires).",
+    "source": "Tex. Transp. Code § 545.424(a-1)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.424",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-010",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A 17-year-old provisional driver wants to drive at 1 a.m. to see friends. Is this allowed?",
+    "image": null,
+    "options": [
+      "Yes, on weekends only",
+      "Yes, if the friends are over 21",
+      "No; drivers under 18 may not drive from midnight to 5 a.m. except for work, school activities or a medical emergency"
+    ],
+    "answer": 2,
+    "explain": "Texas restricts drivers under 18 from driving between midnight and 5 a.m. unless it is needed for a job, a school-related activity or a medical emergency.",
+    "source": "Tex. Transp. Code § 545.424(a-1)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.424",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-011",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "Which reason allows a 16-year-old to drive between midnight and 5 a.m. in Texas?",
+    "image": null,
+    "options": [
+      "Picking up friends from a party",
+      "Driving home from a job",
+      "Driving to a late movie"
+    ],
+    "answer": 1,
+    "explain": "The late-night restriction has exceptions only for employment, school-related activities and medical emergencies.",
+    "source": "Tex. Transp. Code § 545.424(a-1)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.424",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-012",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "May a driver under 18 talk on a phone using a hands-free device while driving in Texas?",
+    "image": null,
+    "options": [
+      "Yes, hands-free calls are allowed",
+      "No, all wireless device use is banned except in an emergency",
+      "Yes, but only on highways"
+    ],
+    "answer": 1,
+    "explain": "Drivers under 18 may not drive while using a wireless communication device, which includes hands-free devices, except in an emergency.",
+    "source": "Tex. Transp. Code § 545.424(a), (f)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.545.htm#545.424",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-013",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "When does a Texas provisional license expire?",
+    "image": null,
+    "options": [
+      "On the holder's 18th birthday",
+      "One year after it is issued",
+      "On the holder's 21st birthday"
+    ],
+    "answer": 0,
+    "explain": "Both provisional and learner licenses expire on the holder's 18th birthday.",
+    "source": "Tex. Transp. Code § 521.271(a)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.271",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-014",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "When does a Texas learner license expire?",
+    "image": null,
+    "options": [
+      "On the holder's 16th birthday",
+      "Six months after it is issued",
+      "On the holder's 18th birthday"
+    ],
+    "answer": 2,
+    "explain": "A learner license expires on the 18th birthday of the holder.",
+    "source": "Tex. Transp. Code § 521.271(a)(3)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.271",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-015",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "After moving to a new home address, you must notify the Texas Department of Public Safety within ___ days.",
+    "image": null,
+    "options": [
+      "10",
+      "30",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "Texas requires you to report an address change no later than the 30th day after the move and apply for a duplicate license.",
+    "source": "Tex. Transp. Code § 521.054(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.054",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-016",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "You get married and change your last name. What must you do about your Texas driver license?",
+    "image": null,
+    "options": [
+      "Nothing until the license expires",
+      "Notify your insurance company only",
+      "Notify DPS within 30 days and apply for a duplicate license"
+    ],
+    "answer": 2,
+    "explain": "A name change must be reported within 30 days, along with an application for a duplicate license.",
+    "source": "Tex. Transp. Code § 521.054(a)(3), (b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.054",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-017",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What does Texas law require you to do with your driver license while you drive?",
+    "image": null,
+    "options": [
+      "Carry it with you and show it when a peace officer asks",
+      "Keep a photo of it on your phone instead",
+      "Leave it at home to prevent loss"
+    ],
+    "answer": 0,
+    "explain": "Drivers must have the proper class of license in their possession and display it on demand of a peace officer, magistrate or court officer.",
+    "source": "Tex. Transp. Code § 521.025(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.025",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-018",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What is the minimum Texas liability insurance coverage for bodily injury to one person in one crash?",
+    "image": null,
+    "options": [
+      "$50,000",
+      "$30,000",
+      "$15,000"
+    ],
+    "answer": 1,
+    "explain": "Texas minimum coverage is $30,000 per injured person, $60,000 per crash, and $25,000 for property damage (30/60/25).",
+    "source": "Tex. Transp. Code § 601.072(a-1)(1)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.601.htm#601.072",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-019",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "Texas minimum liability insurance must cover at least $___ for injuries to two or more people in one crash.",
+    "image": null,
+    "options": [
+      "30000",
+      "60000",
+      "100000"
+    ],
+    "answer": 1,
+    "explain": "The minimum for bodily injury or death of two or more people in one collision is $60,000.",
+    "source": "Tex. Transp. Code § 601.072(a-1)(2)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.601.htm#601.072",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-020",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "What is the minimum Texas liability coverage for damage to other people's property in one crash?",
+    "image": null,
+    "options": [
+      "$10,000",
+      "$60,000",
+      "$25,000"
+    ],
+    "answer": 2,
+    "explain": "Texas requires at least $25,000 of coverage for damage to or destruction of others' property per collision.",
+    "source": "Tex. Transp. Code § 601.072(a-1)(3)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.601.htm#601.072",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-021",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A police officer asks for proof of insurance. Which of these is acceptable in Texas?",
+    "image": null,
+    "options": [
+      "Your vehicle registration sticker",
+      "An insurer-provided image of your insurance card on your phone",
+      "A verbal statement of your insurer's name"
+    ],
+    "answer": 1,
+    "explain": "Texas accepts several forms of proof, including the standard insurance card or an image of it from your insurer displayed on a wireless device.",
+    "source": "Tex. Transp. Code § 601.053(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.601.htm#601.053",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-022",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What must you have before driving a motor vehicle in Texas, in addition to a license?",
+    "image": null,
+    "options": [
+      "Financial responsibility, usually a liability insurance policy",
+      "A membership in a roadside assistance club",
+      "A certificate from a mechanic"
+    ],
+    "answer": 0,
+    "explain": "A person may not operate a vehicle in Texas unless financial responsibility is established, most commonly through liability insurance.",
+    "source": "Tex. Transp. Code § 601.051",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.601.htm#601.051",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-023",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "An officer who investigates a crash must write a report if someone is injured or killed, or if one person's property damage appears to be at least ___ dollars.",
+    "image": null,
+    "options": [
+      "500",
+      "1000",
+      "2500"
+    ],
+    "answer": 1,
+    "explain": "Texas officers must file a written crash report for injury or death crashes or apparent property damage of $1,000 or more to any one person.",
+    "source": "Tex. Transp. Code § 550.062(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.550.htm#550.062",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-024",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "Which Texas license class is needed for a single vehicle with a gross vehicle weight rating of 26,001 pounds or more?",
+    "image": null,
+    "options": [
+      "Class M",
+      "Class C",
+      "Class A or Class B, depending on what it tows"
+    ],
+    "answer": 2,
+    "explain": "Vehicles rated over 26,000 pounds fall under Class A or Class B, not Class C; Class A also covers heavy combinations towing more than 10,000 pounds.",
+    "source": "Tex. Transp. Code §§ 521.081-521.082",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.081",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-025",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "Which license class lets you drive a combination of vehicles rated 26,001 pounds or more when the towed vehicle is rated over 10,000 pounds?",
+    "image": null,
+    "options": [
+      "Class A",
+      "Class C",
+      "Class B"
+    ],
+    "answer": 0,
+    "explain": "Class A covers combinations of 26,001 pounds or more when any towed vehicle is rated over 10,000 pounds.",
+    "source": "Tex. Transp. Code § 521.081",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.081",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-026",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "Which Texas license class is required to drive a bus that seats 24 or more passengers, including the driver?",
+    "image": null,
+    "options": [
+      "Class M",
+      "Class B",
+      "Class C"
+    ],
+    "answer": 1,
+    "explain": "A Class B license covers buses with a seating capacity of 24 or more, counting the driver's seat.",
+    "source": "Tex. Transp. Code § 521.082",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.082",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-027",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "Which Texas license class covers an ordinary passenger car or pickup?",
+    "image": null,
+    "options": [
+      "Class M",
+      "Class A",
+      "Class C"
+    ],
+    "answer": 2,
+    "explain": "Class C covers vehicles and combinations not included in Class A or B, which includes ordinary cars and light trucks.",
+    "source": "Tex. Transp. Code § 521.083",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.083",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-028",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "Which Texas license class is required to operate a motorcycle?",
+    "image": null,
+    "options": [
+      "Class M",
+      "Class B",
+      "Class C"
+    ],
+    "answer": 0,
+    "explain": "A Class M license authorizes the holder to operate a motorcycle.",
+    "source": "Tex. Transp. Code § 521.084",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.084",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-029",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A teen driver must complete the Impact Texas Teen Drivers (ITTD) program within how many days before taking the driving test?",
+    "image": null,
+    "options": [
+      "1 year",
+      "90 days",
+      "30 days"
+    ],
+    "answer": 1,
+    "explain": "DPS requires teens to finish the ITTD program within 90 days of their driving skills test.",
+    "source": "Texas DPS, Texas Provisional License as a Teen",
+    "sourceUrl": "https://www.dps.texas.gov/section/driver-license/texas-provisional-license-teen",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-030",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "Who must complete the Impact Texas Adult Drivers (ITAD) program before the driving test?",
+    "image": null,
+    "options": [
+      "Drivers aged 18 to 24 who must take an adult driver education course",
+      "Every driver over 65 renewing a license",
+      "Only commercial truck drivers"
+    ],
+    "answer": 0,
+    "explain": "DPS requires the one-hour ITAD video for 18- to 24-year-olds who are required to complete adult driver education.",
+    "source": "Texas DPS, Impact Texas Drivers (ITD) Program",
+    "sourceUrl": "https://www.dps.texas.gov/section/driver-license/impact-texas-drivers-itd-program",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-031",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What is the main focus of the Impact Texas Drivers program?",
+    "image": null,
+    "options": [
+      "How to change a flat tire",
+      "How to register a vehicle",
+      "The dangers of distracted driving"
+    ],
+    "answer": 2,
+    "explain": "DPS describes the ITD program as education about the risks and consequences of distracted driving.",
+    "source": "Texas DPS, Impact Texas Drivers (ITD) Program",
+    "sourceUrl": "https://www.dps.texas.gov/section/driver-license/impact-texas-drivers-itd-program",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-032",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "Texas generally will not issue a first driver license to a person younger than ___ years old without a driver education certificate.",
+    "image": null,
+    "options": [
+      "18",
+      "21",
+      "25"
+    ],
+    "answer": 2,
+    "explain": "Applicants under 25 must submit a driver education certificate, unless they hold a valid license from another state.",
+    "source": "Tex. Transp. Code § 521.1601(a)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.1601",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-033",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "A 20-year-old moving to Texas has a valid driver license from another state. Must they take a Texas driver education course?",
+    "image": null,
+    "options": [
+      "Yes, but only the classroom portion",
+      "No, the driver education requirement does not apply to holders of a valid out-of-state license",
+      "Yes, everyone under 25 must take it"
+    ],
+    "answer": 1,
+    "explain": "The under-25 driver education rule does not apply to someone who holds a valid driver license issued by another state.",
+    "source": "Tex. Transp. Code § 521.1601(b)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.1601",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-034",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "Before getting a provisional license, how many hours of behind-the-wheel practice must a teen complete, and how many at night?",
+    "image": null,
+    "options": [
+      "30 hours, with at least 10 at night",
+      "20 hours, with at least 5 at night",
+      "50 hours, with none required at night"
+    ],
+    "answer": 0,
+    "explain": "DPS lists 30 hours of behind-the-wheel practice, including at least 10 at night, with a licensed driver 21 or older in the car.",
+    "source": "Texas DPS, Texas Provisional License as a Teen",
+    "sourceUrl": "https://www.dps.texas.gov/section/driver-license/texas-provisional-license-teen",
+    "verify": true
+  },
+  {
+    "id": "tx-licenses-035",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "For one license application and fee, how many tries does a Texas applicant get to pass each part of the exam?",
+    "image": null,
+    "options": [
+      "Five",
+      "One",
+      "Three"
+    ],
+    "answer": 2,
+    "explain": "An applicant is entitled to three attempts at each examination element per application; after that, a new application and fee are needed.",
+    "source": "Tex. Transp. Code § 521.161(d)",
+    "sourceUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm#521.161",
+    "verify": true
+  }
+]

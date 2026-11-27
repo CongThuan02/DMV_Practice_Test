@@ -1,4 +1,141 @@
 {
-  "app_title": "DMV Practice Test",
-  "home_welcome": "Welcome to DMV Practice Test"
+  "app": {
+    "title": "DMV Practice Test"
+  },
+  "common": {
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "error_generic": "Something went wrong. Please try again.",
+    "not_affiliated": "Independent study app. Not affiliated with any government agency.",
+    "reference_only": "For study only; always check your state's official driver materials."
+  },
+  "states": {
+    "title": "Choose your state",
+    "subtitle": "You can change this later",
+    "search_hint": "Search state…",
+    "popular": "Popular",
+    "all": "All states",
+    "coming_soon": "Coming soon"
+  },
+  "home": {
+    "subtitle": "DMV written test prep",
+    "change_state": "Change state",
+    "progress": "Your progress",
+    "seen": "{} of {} questions seen",
+    "mock_exam": "Mock exam",
+    "mock_exam_subtitle": "{} questions · timed",
+    "practice_topic": "Practice by topic",
+    "road_signs": "Road signs",
+    "road_signs_subtitle": "{} flashcards with images",
+    "review_mistakes": "Review mistakes",
+    "practice_all": "Practice all questions",
+    "practice_all_subtitle": {
+      "one": "{} question, explanations as you go",
+      "other": "{} questions, explanations as you go"
+    }
+  },
+  "topics": {
+    "title": "Practice by topic",
+    "subtitle": "Pick a topic to focus on"
+  },
+  "quiz": {
+    "progress": "Question {} of {}",
+    "mode_mock": "Mock exam",
+    "mode_mistakes": "Review mistakes",
+    "mode_practice": "Practice",
+    "next": "Next",
+    "finish": "Finish",
+    "correct": "Correct!",
+    "incorrect": "Not quite",
+    "source": "Source: {}",
+    "watch_ad": "Watch an ad to see the explanation",
+    "go_pro": "Or go PRO to unlock all explanations",
+    "pause": "Pause",
+    "resume": "Resume",
+    "paused": "Exam paused",
+    "empty": "No questions available here yet.",
+    "exit_title": "Leave this quiz?",
+    "exit_message": "Your answers so far are saved to your progress, but this quiz will end.",
+    "exit_confirm": "Leave"
+  },
+  "result": {
+    "title_mock": "Mock exam result",
+    "title_practice": "Practice result",
+    "title_mistakes": "Review result",
+    "passed": "Passed ✔",
+    "failed": "Not passed yet · {} needed",
+    "score": "score",
+    "mistakes": "mistakes",
+    "time": "time",
+    "try_again": "Try again",
+    "back_home": "Back to home",
+    "review": "Review mistakes"
+  },
+  "signs": {
+    "card_of": "Card {} of {}",
+    "tap_to_flip": "Tap to flip",
+    "tap_hint": "Meaning, color, shape and what to do",
+    "still_learning": "Still learning",
+    "got_it": "Got it",
+    "done": "You went through every sign card!",
+    "restart": "Start over"
+  },
+  "mock": {
+    "title": "Mock exam",
+    "subtitle": "Just like the real test",
+    "questions": {
+      "one": "{} question",
+      "other": "{} questions"
+    },
+    "same_length": "Modeled on the {} knowledge test",
+    "shortened": "Shortened: the full test format has {} questions",
+    "pass_mark": "Pass mark",
+    "pass_mark_value": "{} of {} correct",
+    "no_hints": "No hints during the test",
+    "no_hints_subtitle": "Explanations show at the end",
+    "timer": "Timer on",
+    "timer_subtitle": "You can pause and resume",
+    "start": "Start exam",
+    "recent": "Recent attempts",
+    "passed_short": "Passed",
+    "failed_short": "Failed"
+  },
+  "mistakes": {
+    "count": {
+      "zero": "No questions to revisit",
+      "one": "{} question to revisit",
+      "other": "{} questions to revisit"
+    },
+    "missed": "Missed {}×",
+    "practice": "Practice these {}",
+    "empty": "No mistakes yet. Questions you miss will show up here."
+  },
+  "pro": {
+    "title": "Go PRO",
+    "remove_ads": "Remove ads",
+    "one_time": "One-time purchase, no subscription",
+    "no_ads": "No ads",
+    "no_ads_subtitle": "Practice without interruptions",
+    "explanations": "All explanations unlocked",
+    "explanations_subtitle": "No need to watch an ad",
+    "offline": "Works offline",
+    "offline_subtitle": "Study anywhere",
+    "price": "{} one-time",
+    "buy": "Buy PRO",
+    "restore": "Restore purchase",
+    "store_unavailable": "The store is unavailable right now.",
+    "unlocked": "PRO is unlocked. Thank you!",
+    "pending": "Purchase pending…",
+    "thanks": "Thanks! PRO is now unlocked.",
+    "canceled": "Purchase canceled.",
+    "failed": "Purchase failed. Please try again."
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Appearance",
+    "theme_system": "System",
+    "theme_light": "Light",
+    "theme_dark": "Dark",
+    "privacy": "Privacy choices"
+  }
 }

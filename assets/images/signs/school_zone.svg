@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="200" viewBox="0 0 200 200">
+<polygon points="100,6 188,80 188,192 12,192 12,80" fill="#c6ff00"/>
+<polygon points="100,15 180,82 180,184 20,184 20,82" fill="none" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+<g transform="translate(80 128) scale(1.05)" stroke="#111" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="0" cy="-42" r="10" fill="#111" stroke="none"/><path d="M 0 -28 L -3 8" stroke-width="13"/><path d="M -3 8 L -15 40 M -3 8 L 12 22 L 10 42" stroke-width="9"/><path d="M -1 -22 L -16 -2 M -1 -22 L 16 -6" stroke-width="7"/></g>
+<g transform="translate(126 138) scale(0.8)" stroke="#111" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="0" cy="-42" r="10" fill="#111" stroke="none"/><path d="M 0 -28 L -3 8" stroke-width="13"/><path d="M -3 8 L -15 40 M -3 8 L 12 22 L 10 42" stroke-width="9"/><path d="M -1 -22 L -16 -2 M -1 -22 L 16 -6" stroke-width="7"/></g>
+</svg>

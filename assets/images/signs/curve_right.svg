@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="200" viewBox="0 0 200 200">
+<polygon points="100,4 196,100 100,196 4,100" fill="#ffc107"/>
+<polygon points="100,13 187,100 100,187 13,100" fill="none" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 80 158 V 100 C 80 78 94 68 116 68" fill="none" stroke="#111" stroke-width="16"/>
+<polygon points="112,46 146,68 112,90" fill="#111"/>
+</svg>

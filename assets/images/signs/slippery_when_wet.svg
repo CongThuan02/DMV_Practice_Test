@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="200" viewBox="0 0 200 200">
+<polygon points="100,4 196,100 100,196 4,100" fill="#ffc107"/>
+<polygon points="100,13 187,100 100,187 13,100" fill="none" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+<rect x="70" y="80" width="12" height="14" rx="2" fill="#111"/><rect x="118" y="80" width="12" height="14" rx="2" fill="#111"/>
+<path d="M 72 84 V 64 L 82 46 H 118 L 128 64 V 84 Z" fill="#111"/>
+<polygon points="86,52 114,52 120,64 80,64" fill="#ffc107"/>
+<g fill="none" stroke="#111" stroke-width="7" stroke-linecap="round">
+<path d="M 80 102 C 62 118 98 128 80 145 C 66 158 90 166 78 178"/>
+<path d="M 120 102 C 102 118 138 128 120 145 C 106 158 130 166 118 178"/></g>
+</svg>

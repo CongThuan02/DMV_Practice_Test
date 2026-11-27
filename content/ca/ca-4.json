@@ -1,0 +1,1424 @@
+[
+  {
+    "id": "ca-safe_driving-001",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "It is a cloudy afternoon and rain is heavy enough that your wipers must run nonstop. What does California law require?",
+    "image": null,
+    "options": [
+      "Turn on your headlights",
+      "Turn on only your parking lights",
+      "Turn on your hazard flashers"
+    ],
+    "answer": 0,
+    "explain": "California treats weather that keeps your wipers in continuous use as inclement weather, and in inclement weather you must drive with your headlights on.",
+    "source": "Cal. Veh. Code § 24400(b)-(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=24400.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-002",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Under California law, darkness (when headlights are required) begins ___ minutes after sunset.",
+    "image": null,
+    "options": [
+      "15",
+      "30",
+      "60"
+    ],
+    "answer": 1,
+    "explain": "The Vehicle Code defines darkness as starting one-half hour after sunset and lasting until one-half hour before sunrise.",
+    "source": "Cal. Veh. Code § 280",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=280.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-003",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 3,
+    "q": "Weather counts as inclement (headlights required) when it keeps you from clearly seeing a person or vehicle on the road ___ feet away.",
+    "image": null,
+    "options": [
+      "300",
+      "500",
+      "1000"
+    ],
+    "answer": 2,
+    "explain": "If fog, smoke or similar conditions keep you from clearly seeing people or vehicles 1,000 feet ahead, you must use your headlights.",
+    "source": "Cal. Veh. Code § 24400(c)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=24400.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-004",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "At night you must switch from high beams to low beams when an oncoming vehicle is within ___ feet.",
+    "image": null,
+    "options": [
+      "200",
+      "500",
+      "1000"
+    ],
+    "answer": 1,
+    "explain": "Within 500 feet of an oncoming vehicle you must aim your lights so the glare does not hit the other driver's eyes; low beams do that.",
+    "source": "Cal. Veh. Code § 24409(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=24409.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-005",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "At night you must use low beams when you are following another vehicle within ___ feet.",
+    "image": null,
+    "options": [
+      "100",
+      "300",
+      "500"
+    ],
+    "answer": 1,
+    "explain": "When you are within 300 feet behind another vehicle, the law requires your lowest beam so you do not blind the driver through the mirrors.",
+    "source": "Cal. Veh. Code § 24409(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=24409.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-006",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "When may you drive with only your parking lights on?",
+    "image": null,
+    "options": [
+      "At dusk, before full darkness",
+      "In light fog during the day",
+      "Never; parking lights may be on while driving only if the headlights are also on"
+    ],
+    "answer": 2,
+    "explain": "California does not allow driving with parking lamps alone; they may be lit while moving only together with headlights (or when working as turn signals).",
+    "source": "Cal. Veh. Code § 24800",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=24800.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-007",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "An adult driver wants to use a phone while driving. Which is legal in California?",
+    "image": null,
+    "options": [
+      "Talking on the phone in hands-free, voice-operated mode",
+      "Holding the phone to your ear at a red light",
+      "Typing a text message while driving slowly"
+    ],
+    "answer": 0,
+    "explain": "Drivers may not hold and operate a phone while driving; adults may use one only if it is set up for voice-operated, hands-free use.",
+    "source": "Cal. Veh. Code § 23123.5(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23123.5.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-008",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Your phone is mounted on the dashboard where it does not block your view. How may you touch it while driving?",
+    "image": null,
+    "options": [
+      "To type a short address into the map",
+      "Any way you like, as long as it stays in the mount",
+      "With a single swipe or tap of one finger to turn a feature on or off"
+    ],
+    "answer": 2,
+    "explain": "A mounted phone may be touched only for a single swipe or tap to activate or deactivate a function; longer handling is not allowed.",
+    "source": "Cal. Veh. Code § 23123.5(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23123.5.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-009",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You are driving and see a serious crash. May you use your handheld phone to call 911?",
+    "image": null,
+    "options": [
+      "No, you must first pull over and turn off the engine",
+      "Yes, calls for emergency purposes are allowed",
+      "Only if a passenger cannot make the call"
+    ],
+    "answer": 1,
+    "explain": "California's hands-free rule does not apply to calls made for emergency purposes, such as calling police, fire or medical help.",
+    "source": "Cal. Veh. Code § 23123(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23123.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-010",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Who must wear a seat belt in a passenger car in California?",
+    "image": null,
+    "options": [
+      "The driver and every passenger 16 or older (younger children need a child seat or belt under the child-passenger laws)",
+      "Only the driver and front-seat passenger",
+      "Only people riding on freeways"
+    ],
+    "answer": 0,
+    "explain": "The driver may not operate the car unless the driver and all passengers 16 and older are properly belted; younger riders are covered by the child restraint laws.",
+    "source": "Cal. Veh. Code § 27315(d)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=27315.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-011",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "A 17-year-old passenger refuses to buckle up. Who can be cited?",
+    "image": null,
+    "options": [
+      "Only the driver",
+      "Only the vehicle's registered owner",
+      "Both the driver and the passenger"
+    ],
+    "answer": 2,
+    "explain": "The driver must not drive with unbelted passengers 16 or older, and a passenger 16 or older is also personally required to be belted.",
+    "source": "Cal. Veh. Code § 27315(d)-(e)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=27315.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-012",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "In general, a child under ___ years old must ride in the rear seat in an approved child passenger restraint.",
+    "image": null,
+    "options": [
+      "5",
+      "8",
+      "10"
+    ],
+    "answer": 1,
+    "explain": "California requires children under 8 to be secured in a rear seat in a child restraint that meets federal safety standards, with limited exceptions.",
+    "source": "Cal. Veh. Code § 27360(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27360.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-013",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "A child under 2 years old must ride in a rear-facing child seat unless the child:",
+    "image": null,
+    "options": [
+      "Weighs at least 40 pounds or is at least 40 inches tall",
+      "Is riding on a short trip",
+      "Is sitting next to a parent in the back seat"
+    ],
+    "answer": 0,
+    "explain": "Children under 2 must be rear-facing unless they already weigh 40 pounds or more or are 40 inches or taller.",
+    "source": "Cal. Veh. Code § 27360(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27360.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-014",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 3,
+    "q": "A 7-year-old is 4 feet 10 inches tall. What does California law allow?",
+    "image": null,
+    "options": [
+      "The child must still use a booster seat until age 8",
+      "The child may ride unbelted in the back seat",
+      "The child may use a properly fitted safety belt instead of a child seat"
+    ],
+    "answer": 2,
+    "explain": "A child under 8 who is at least 4 feet 9 inches tall may be properly restrained by a safety belt rather than a child restraint system.",
+    "source": "Cal. Veh. Code § 27363(d)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=27363.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-015",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Where must you never place a rear-facing child seat?",
+    "image": null,
+    "options": [
+      "Behind the driver's seat",
+      "In a front seat that has an active passenger air bag",
+      "In the middle of the back seat"
+    ],
+    "answer": 1,
+    "explain": "The law forbids putting a rear-facing child seat in a front seat with an active frontal passenger air bag, because a deploying air bag can strike the seat.",
+    "source": "Cal. Veh. Code § 27363(f)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=27363.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-016",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You are driving a 12-year-old to school. What must the child use?",
+    "image": null,
+    "options": [
+      "A safety belt or an appropriate child restraint",
+      "Nothing, if riding in the back seat",
+      "A safety belt only on freeways"
+    ],
+    "answer": 0,
+    "explain": "Children who are 8 or older but under 16 must be secured in a child restraint or by a safety belt.",
+    "source": "Cal. Veh. Code § 27360.5(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=27360.5.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-017",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "A child ___ years old or younger may not be left alone in a car when there is a significant risk to the child's health or safety, or when the engine is running or the keys are in the ignition.",
+    "image": null,
+    "options": [
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "explain": "California forbids leaving a child 6 or younger in a vehicle without supervision under those conditions.",
+    "source": "Cal. Veh. Code § 15620(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=15620.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-018",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 3,
+    "q": "To avoid violating California's unattended-child law, a young child left in a car must be supervised by someone at least ___ years old.",
+    "image": null,
+    "options": [
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": 1,
+    "explain": "The law requires supervision by a person who is 12 or older when a child 6 or younger is in the vehicle.",
+    "source": "Cal. Veh. Code § 15620(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=15620.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-019",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Why should you never leave a child alone in a parked car, even for a minute?",
+    "image": null,
+    "options": [
+      "Children cool down faster than adults in parked cars",
+      "Cracking a window keeps the car cool enough",
+      "A child's body heats up three to five times faster than an adult's"
+    ],
+    "answer": 2,
+    "explain": "NHTSA warns that a child's temperature rises much faster than an adult's, and opening windows or parking in shade does little to cool the car.",
+    "source": "NHTSA, Child Heatstroke Prevention",
+    "sourceUrl": "https://www.nhtsa.gov/campaign/heatstroke",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-020",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "How close may you follow another vehicle?",
+    "image": null,
+    "options": [
+      "No closer than is reasonable and prudent for the speed, traffic and road conditions",
+      "As close as you like if your brakes are good",
+      "Exactly one car length at any speed"
+    ],
+    "answer": 0,
+    "explain": "California bans following more closely than is reasonable and prudent, considering speed, traffic and the road surface.",
+    "source": "Cal. Veh. Code § 21703",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21703.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-021",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Is it legal to toss a cigarette butt out of your car window?",
+    "image": null,
+    "options": [
+      "Yes, if the cigarette is put out",
+      "Yes, on private roads",
+      "No, throwing any lit or unlit cigarette onto a road or nearby area is illegal"
+    ],
+    "answer": 2,
+    "explain": "California bans throwing lighted or unlighted cigarettes, cigars, matches or anything burning from a vehicle onto a road or the area next to it.",
+    "source": "Cal. Veh. Code § 23111",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23111.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-022",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "A passenger throws an empty bottle onto the highway. What is true?",
+    "image": null,
+    "options": [
+      "It is legal if the bottle is plastic",
+      "Throwing bottles, cans or trash onto a highway is illegal",
+      "It is legal on rural roads"
+    ],
+    "answer": 1,
+    "explain": "The Vehicle Code forbids throwing or depositing bottles, cans, garbage, glass or anything likely to damage traffic onto a highway.",
+    "source": "Cal. Veh. Code § 23112(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23112.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-023",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Which is legal while driving a car in California?",
+    "image": null,
+    "options": [
+      "Wearing an earbud in one ear only",
+      "Wearing earbuds in both ears",
+      "Wearing a headset that covers both ears"
+    ],
+    "answer": 0,
+    "explain": "Drivers and bicyclists may not wear earphones, earplugs or a headset in or over both ears; one ear must stay uncovered.",
+    "source": "Cal. Veh. Code § 27400",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27400.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-024",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "When may you move from one lane to another?",
+    "image": null,
+    "options": [
+      "Any time there is a gap of one car length",
+      "Right after signaling, even if a car is beside you",
+      "Only when the move can be made with reasonable safety, after signaling if others may be affected"
+    ],
+    "answer": 2,
+    "explain": "Turning or moving left or right is allowed only when it is reasonably safe, and you must signal if any other vehicle could be affected.",
+    "source": "Cal. Veh. Code § 22107",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22107.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-025",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You are involved in a crash in which someone is injured. What must you do?",
+    "image": null,
+    "options": [
+      "Stop immediately, exchange information and give reasonable help to the injured",
+      "Leave if it was not your fault",
+      "Drive to the nearest police station before stopping"
+    ],
+    "answer": 0,
+    "explain": "Drivers in an injury or fatal crash must stop at the scene at once, share identifying information and give reasonable aid, such as arranging transport to medical care.",
+    "source": "Cal. Veh. Code § 20001(a); § 20003",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=20001.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-026",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You back into a parked, empty car and dent it. You cannot find the owner. What must you do?",
+    "image": null,
+    "options": [
+      "Drive away since nobody saw it",
+      "Wait 10 minutes and then leave",
+      "Leave a note with your name and address on the car and notify police or CHP"
+    ],
+    "answer": 2,
+    "explain": "For property-only damage when the owner cannot be found, leave a written notice in an obvious place on the vehicle and promptly notify the local police or CHP.",
+    "source": "Cal. Veh. Code § 20002(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=20002.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-027",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 3,
+    "q": "If a crash injures or kills someone, the driver must file a written report with CHP or the city police within ___ hours.",
+    "image": null,
+    "options": [
+      "12",
+      "24",
+      "72"
+    ],
+    "answer": 1,
+    "explain": "California requires a written report to the Highway Patrol or the city police department within 24 hours of an injury or fatal crash.",
+    "source": "Cal. Veh. Code § 20008(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=20008.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-028",
+    "type": "number_fill",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "When passing a bicycle going the same direction, you must leave at least ___ feet between your vehicle and the bicycle or rider.",
+    "image": null,
+    "options": [
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 1,
+    "explain": "California's Three Feet for Safety Act forbids passing a bicycle with less than three feet between any part of your vehicle and the bicycle or its rider.",
+    "source": "Cal. Veh. Code § 21760(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21760.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-029",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Traffic and a narrow road make it impossible to give a bicyclist 3 feet. What should you do?",
+    "image": null,
+    "options": [
+      "Pass quickly to reduce the time beside the rider",
+      "Slow down and pass only when it will not endanger the bicyclist",
+      "Honk so the rider moves off the road"
+    ],
+    "answer": 1,
+    "explain": "If you cannot leave three feet, you must slow to a reasonable speed and pass only when doing so would not put the rider at risk.",
+    "source": "Cal. Veh. Code § 21760(d)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21760.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-030",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You are on a road with two lanes in your direction and a bicyclist is in your lane. Before passing, what must you do if it is safe and legal?",
+    "image": null,
+    "options": [
+      "Change into the other lane",
+      "Pass within your own lane",
+      "Follow the bicyclist until the road ends"
+    ],
+    "answer": 0,
+    "explain": "When another lane going your way is available, California requires you to move into it, if practicable and legal, before passing a bicyclist in your lane.",
+    "source": "Cal. Veh. Code § 21760(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21760.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-031",
+    "type": "scenario",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "You plan to turn right and a bike lane is next to your lane. How should you make the turn?",
+    "image": "assets/images/scenarios/bike_lane.svg",
+    "options": [
+      "Turn from your lane, crossing the bike lane at the corner",
+      "Speed up to turn before the bicyclist arrives",
+      "Check for bicyclists, merge into the bike lane close to the corner, then turn"
+    ],
+    "answer": 2,
+    "explain": "To turn across an adjacent bike lane, you must first move into the bike lane (no more than 200 feet before the intersection) and then turn from there.",
+    "source": "Cal. Veh. Code § 21717; § 21209(a)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21717.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-032",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "What rights does a bicyclist riding on a California road have?",
+    "image": null,
+    "options": [
+      "The same rights and duties as a driver, except rules that cannot apply to bikes",
+      "No right to use a traffic lane",
+      "Only the rights of a pedestrian"
+    ],
+    "answer": 0,
+    "explain": "People riding bicycles on a highway have all the rights and are subject to the same rules as vehicle drivers, except provisions that by nature cannot apply.",
+    "source": "Cal. Veh. Code § 21200(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21200.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-033",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "What does California law call a two-wheeled motorcycle traveling between rows of stopped or moving vehicles in the same lane?",
+    "image": null,
+    "options": [
+      "Lane sharing",
+      "Tailgating",
+      "Lane splitting"
+    ],
+    "answer": 2,
+    "explain": "California defines lane splitting as riding a two-wheeled motorcycle between rows of vehicles in the same lane, and lets CHP publish safety guidelines on it.",
+    "source": "Cal. Veh. Code § 21658.1(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21658.1.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-034",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "Who must wear a helmet on a motorcycle in California?",
+    "image": null,
+    "options": [
+      "Only riders under 18",
+      "Both the rider and any passenger",
+      "Only the rider, not the passenger"
+    ],
+    "answer": 1,
+    "explain": "California requires the motorcycle driver and every passenger to wear a properly fastened, approved safety helmet.",
+    "source": "Cal. Veh. Code § 27803(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27803.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-036",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 3,
+    "q": "On a highway with no special truck lanes posted, where must slower vehicles such as large trucks drive?",
+    "image": null,
+    "options": [
+      "In the right-hand lane or as close as practical to the right edge",
+      "In the far left lane",
+      "In any lane they choose"
+    ],
+    "answer": 0,
+    "explain": "Vehicles covered by the 55 mph limit must use designated lanes when signed, and otherwise keep to the right-hand lane (with some exceptions on wide divided highways).",
+    "source": "Cal. Veh. Code § 21655(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21655.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-037",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Can a friend ride in the open bed of your pickup truck on a highway?",
+    "image": null,
+    "options": [
+      "Yes, if they sit down",
+      "Yes, if you stay under 25 mph",
+      "No, unless the person is secured with an approved restraint system"
+    ],
+    "answer": 2,
+    "explain": "California forbids carrying people in the back of a pickup or flatbed on a highway unless they are secured by a restraint that meets federal standards (with narrow farm, parade and emergency exceptions).",
+    "source": "Cal. Veh. Code § 23116",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23116.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-038",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "Which screen may be on and visible to you while you drive?",
+    "image": null,
+    "options": [
+      "A GPS map display",
+      "A movie playing on a dash screen",
+      "A video streaming on a phone"
+    ],
+    "answer": 0,
+    "explain": "Video or TV screens may not operate where the driver can see them, but navigation, mapping and vehicle information displays are allowed.",
+    "source": "Cal. Veh. Code § 27602",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27602.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-039",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "When should you use your horn?",
+    "image": null,
+    "options": [
+      "To greet a friend on the sidewalk",
+      "To tell a slow driver to hurry up",
+      "When reasonably necessary to warn others for safety"
+    ],
+    "answer": 2,
+    "explain": "The horn is to be used as an audible warning when reasonably needed for safe operation, not for other purposes.",
+    "source": "Cal. Veh. Code § 27001",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27001.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-040",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "You parked on a busy street. When may you open your door on the traffic side?",
+    "image": null,
+    "options": [
+      "Any time, since moving drivers must avoid you",
+      "Only when it is reasonably safe and will not interfere with traffic",
+      "Only when your hazard lights are on"
+    ],
+    "answer": 1,
+    "explain": "You may not open a door on the traffic side unless it can be done safely without interfering with traffic, and you should not leave it open longer than needed.",
+    "source": "Cal. Veh. Code § 22517",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=22517.",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-041",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "According to NHTSA, sending or reading a text takes your eyes off the road for about 5 seconds. At 55 mph, that is like:",
+    "image": null,
+    "options": [
+      "Driving the length of a football field blindfolded",
+      "Driving about one car length",
+      "Driving one mile"
+    ],
+    "answer": 0,
+    "explain": "NHTSA compares a 5-second glance at a text at 55 mph to covering a football field's length with your eyes closed.",
+    "source": "NHTSA, Distracted Driving",
+    "sourceUrl": "https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-042",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "According to NHTSA, when are drowsy-driving crashes most common?",
+    "image": null,
+    "options": [
+      "Between 8 a.m. and noon",
+      "Right after eating breakfast",
+      "Between midnight and 6 a.m., and in the late afternoon"
+    ],
+    "answer": 2,
+    "explain": "NHTSA notes that drowsy crashes cluster from midnight to 6 a.m. and in the late afternoon, when the body's internal clock dips.",
+    "source": "NHTSA, Drowsy Driving",
+    "sourceUrl": "https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-043",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "According to NHTSA, where should children under 13 ride?",
+    "image": null,
+    "options": [
+      "In the back seat",
+      "In the front passenger seat",
+      "Anywhere, as long as air bags are on"
+    ],
+    "answer": 0,
+    "explain": "NHTSA advises seating children under 13 in the back seat to keep them away from deploying frontal air bags.",
+    "source": "NHTSA, Air Bags",
+    "sourceUrl": "https://www.nhtsa.gov/vehicle-safety/air-bags",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-044",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 1,
+    "q": "How should a shoulder belt be worn?",
+    "image": null,
+    "options": [
+      "Behind your back",
+      "Under your arm",
+      "Across the middle of the chest, away from the neck"
+    ],
+    "answer": 2,
+    "explain": "NHTSA says the shoulder belt goes across the middle of the chest and away from the neck, never behind the back or under an arm.",
+    "source": "NHTSA, Seat Belts",
+    "sourceUrl": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "verify": true
+  },
+  {
+    "id": "ca-safe_driving-045",
+    "type": "text",
+    "topic": "safe_driving",
+    "difficulty": 2,
+    "q": "May a friend ride in the trunk of your car for a short trip?",
+    "image": null,
+    "options": [
+      "Yes, if the trunk lid is open",
+      "No, riding in a trunk is illegal",
+      "Yes, if the trip is under one mile"
+    ],
+    "answer": 1,
+    "explain": "California forbids riding in a vehicle's trunk and forbids drivers from knowingly allowing it.",
+    "source": "Cal. Veh. Code § 21712(c)-(d)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21712.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-001",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A teen who has finished (or is enrolled in) driver education may apply for an instruction permit at what minimum age?",
+    "image": null,
+    "options": [
+      "15 years and 6 months",
+      "15 years",
+      "16 years"
+    ],
+    "answer": 0,
+    "explain": "California may issue an instruction permit at 15½ to an applicant who has completed driver education and is taking or enrolled in driver training.",
+    "source": "Cal. Veh. Code § 12509(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12509.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-002",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "A minor must hold an instruction permit for at least ___ months before applying for a provisional license.",
+    "image": null,
+    "options": [
+      "3",
+      "6",
+      "12"
+    ],
+    "answer": 1,
+    "explain": "The provisional licensing program requires holding a permit for no less than six months before applying.",
+    "source": "Cal. Veh. Code § 12814.6(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-003",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "Before getting a provisional license, a minor must complete ___ hours of supervised driving practice.",
+    "image": null,
+    "options": [
+      "25",
+      "50",
+      "100"
+    ],
+    "answer": 1,
+    "explain": "Teens need 50 hours of supervised practice, certified by a parent, guardian, spouse or instructor, on top of required driver training.",
+    "source": "Cal. Veh. Code § 12814.6(a)(4)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-004",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "At least ___ of a teen's required supervised practice hours must be driven at night (during darkness).",
+    "image": null,
+    "options": [
+      "5",
+      "10",
+      "20"
+    ],
+    "answer": 1,
+    "explain": "At least 10 of the 50 practice hours must take place during darkness.",
+    "source": "Cal. Veh. Code § 12814.6(a)(4)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-005",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A minor with an instruction permit may practice with a California-licensed driver who is at least ___ years old (unless that driver is a parent, guardian, spouse or licensed instructor).",
+    "image": null,
+    "options": [
+      "18",
+      "21",
+      "25"
+    ],
+    "answer": 2,
+    "explain": "The supervising driver for a minor permit holder must be 25 or older, unless it is the teen's parent, spouse, guardian or a licensed or certified instructor.",
+    "source": "Cal. Veh. Code § 12814.6(a)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-006",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "A minor fails the DMV written test. How long must they wait before retaking it?",
+    "image": null,
+    "options": [
+      "At least one day",
+      "At least one month",
+      "At least one week"
+    ],
+    "answer": 2,
+    "explain": "Under the provisional program, a minor must wait no less than one week after failing the written test and two weeks after failing the driving test.",
+    "source": "Cal. Veh. Code § 12814.6(a)(5)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-007",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "A minor fails the DMV driving test. How long must they wait before retaking it?",
+    "image": null,
+    "options": [
+      "At least two weeks",
+      "At least two days",
+      "At least six months"
+    ],
+    "answer": 0,
+    "explain": "The law sets a minimum two-week wait after a failed driving test for provisional applicants.",
+    "source": "Cal. Veh. Code § 12814.6(a)(5)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-008",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "During the first year of a provisional license, when may the teen NOT drive unless accompanied by a parent, guardian, licensed driver 25 or older, or instructor (with limited exceptions)?",
+    "image": null,
+    "options": [
+      "Between 9 p.m. and 6 a.m.",
+      "Between midnight and 4 a.m.",
+      "Between 11 p.m. and 5 a.m."
+    ],
+    "answer": 2,
+    "explain": "For the first 12 months, a provisional licensee may not drive from 11 p.m. to 5 a.m. without a qualifying adult unless an exception such as school, work or medical need applies.",
+    "source": "Cal. Veh. Code § 12814.6(b)(1)(A)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-009",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "During the first year, a provisional licensee may not carry passengers under ___ years old unless accompanied by a qualifying adult.",
+    "image": null,
+    "options": [
+      "18",
+      "20",
+      "21"
+    ],
+    "answer": 1,
+    "explain": "For the first 12 months, provisional drivers may not transport passengers younger than 20 without a parent, guardian, licensed driver 25 or older, or instructor.",
+    "source": "Cal. Veh. Code § 12814.6(b)(1)(B)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-010",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "The night-driving and passenger restrictions on a provisional license apply for the first ___ months.",
+    "image": null,
+    "options": [
+      "6",
+      "12",
+      "24"
+    ],
+    "answer": 1,
+    "explain": "The restrictions last for the first 12 months after the provisional license is issued.",
+    "source": "Cal. Veh. Code § 12814.6(b)(1)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-011",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "A provisional licensee in the first year must drive alone at 6 a.m. to a job because no other transportation works. What is needed?",
+    "image": null,
+    "options": [
+      "Nothing; jobs are always exempt",
+      "A signed note from the employer confirming the job and its expected end date",
+      "A note from any adult friend"
+    ],
+    "answer": 1,
+    "explain": "The employment exception requires the teen to carry a signed employer statement verifying the job and the probable date it will end.",
+    "source": "Cal. Veh. Code § 12814.6(b)(2)(C)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-012",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "May a police officer stop a car only to check whether a teen driver is obeying provisional license restrictions?",
+    "image": null,
+    "options": [
+      "No, that alone is not a valid reason for a stop",
+      "Yes, at any time",
+      "Yes, but only after 11 p.m."
+    ],
+    "answer": 0,
+    "explain": "The law says officers may not stop a vehicle for the sole purpose of checking provisional license restrictions.",
+    "source": "Cal. Veh. Code § 12814.6(c)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-013",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "A provisional driver gets 2 violation points within 12 months. What happens?",
+    "image": null,
+    "options": [
+      "A warning letter only",
+      "Immediate one-year suspension",
+      "A 30-day restriction requiring a licensed adult 25 or older (or parent/guardian) in the car"
+    ],
+    "answer": 2,
+    "explain": "Two or more points in 12 months triggers a 30-day restriction during which the teen must be accompanied by a parent, spouse, guardian or licensed driver 25 or older.",
+    "source": "Cal. Veh. Code § 12814.6(g)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-014",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "A provisional driver gets 3 violation points within 12 months. What is the penalty?",
+    "image": null,
+    "options": [
+      "A 6-month suspension and one year of probation",
+      "A 30-day restriction",
+      "A fine only"
+    ],
+    "answer": 0,
+    "explain": "Three or more points in 12 months leads to a six-month suspension plus a one-year probation term.",
+    "source": "Cal. Veh. Code § 12814.6(g)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12814.6.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-015",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "What words appear on a California driver license issued to someone under 18?",
+    "image": null,
+    "options": [
+      "\"Learner\"",
+      "\"Restricted to daytime\"",
+      "\"Provisional until age 18\""
+    ],
+    "answer": 2,
+    "explain": "A license for a person under 18 must display the words \"provisional until age 18.\"",
+    "source": "Cal. Veh. Code § 12811(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12811.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-016",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "A 17-year-old driver wants to take a call using a hands-free headset. Is that legal?",
+    "image": null,
+    "options": [
+      "Yes, hands-free use is legal for everyone",
+      "No, drivers under 18 may not use a phone even hands-free",
+      "Yes, but only on surface streets"
+    ],
+    "answer": 1,
+    "explain": "Drivers under 18 may not use a wireless phone or electronic communications device while driving, even with hands-free equipment.",
+    "source": "Cal. Veh. Code § 23124(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23124.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-017",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "After moving, you must notify the DMV of your new address within ___ days.",
+    "image": null,
+    "options": [
+      "5",
+      "10",
+      "30"
+    ],
+    "answer": 1,
+    "explain": "A licensed driver who moves or gets a new mailing address must tell the DMV the old and new addresses within 10 days.",
+    "source": "Cal. Veh. Code § 14600(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=14600.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-018",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What must you have with you whenever you drive?",
+    "image": null,
+    "options": [
+      "Your valid driver license",
+      "Your birth certificate",
+      "Your vehicle's title"
+    ],
+    "answer": 0,
+    "explain": "Licensees must keep their valid driver license in their immediate possession whenever they drive on a highway and show it to a peace officer on request.",
+    "source": "Cal. Veh. Code § 12951",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12951.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-019",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "If you are in a crash with injury, death, or property damage over $1,000, you must report it to the DMV (form SR-1) within ___ days.",
+    "image": null,
+    "options": [
+      "5",
+      "10",
+      "30"
+    ],
+    "answer": 1,
+    "explain": "The driver must report a qualifying collision to the DMV within 10 days, personally or through an insurance agent, broker or legal representative.",
+    "source": "Cal. Veh. Code § 16000(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16000.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-020",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A DMV crash report (SR-1) is required when property damage to any one person is more than $___.",
+    "image": null,
+    "options": [
+      "500",
+      "1000",
+      "2500"
+    ],
+    "answer": 1,
+    "explain": "The DMV report is required when damage to any one person's property exceeds $1,000, or anyone is injured or killed.",
+    "source": "Cal. Veh. Code § 16000(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16000.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-021",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "You are in a crash where a passenger in the other car is slightly hurt but damage is only $400. Must you file an SR-1 with the DMV?",
+    "image": null,
+    "options": [
+      "No, damage is under $1,000",
+      "Only if police were called",
+      "Yes, any injury makes the report required"
+    ],
+    "answer": 2,
+    "explain": "An SR-1 is required for any bodily injury or death, no matter how small the property damage is.",
+    "source": "Cal. Veh. Code § 16000(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16000.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-022",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "What can happen if you fail to file a required SR-1 crash report?",
+    "image": null,
+    "options": [
+      "The DMV will suspend your driving privilege",
+      "Nothing, the report is optional",
+      "Your vehicle registration is transferred"
+    ],
+    "answer": 0,
+    "explain": "The DMV must suspend the driving privilege of anyone who fails to make a required accident report until the report or proof of insurance is received.",
+    "source": "Cal. Veh. Code § 16004(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16004.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-023",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "What proof of insurance must be in your vehicle?",
+    "image": null,
+    "options": [
+      "Your insurance policy's full contract",
+      "Nothing; the DMV keeps it on file",
+      "Evidence of the financial responsibility (such as an insurance card) in effect for the vehicle"
+    ],
+    "answer": 2,
+    "explain": "Drivers and owners must be able to show financial responsibility at all times and keep evidence of it in the vehicle.",
+    "source": "Cal. Veh. Code § 16020(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16020.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-024",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "An officer asks for proof of insurance after a traffic stop. Can you show it on your phone?",
+    "image": null,
+    "options": [
+      "No, only a paper card is accepted",
+      "Yes, electronic proof on a mobile device is allowed",
+      "Only if the officer agrees in writing"
+    ],
+    "answer": 1,
+    "explain": "California lets drivers show evidence of financial responsibility on a mobile electronic device, and the officer may view only that information.",
+    "source": "Cal. Veh. Code § 16028(a), (g)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16028.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-025",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "For policies issued or renewed since January 1, 2025, minimum liability insurance in California must cover at least $___,000 for injury or death of one person.",
+    "image": null,
+    "options": [
+      "15",
+      "30",
+      "50"
+    ],
+    "answer": 1,
+    "explain": "The minimum bodily injury limit is now $30,000 per person for policies issued or renewed on or after January 1, 2025.",
+    "source": "Cal. Veh. Code § 16056(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16056.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-026",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "For policies issued or renewed since January 1, 2025, minimum liability insurance must cover at least $___,000 for injury or death of two or more people in one crash.",
+    "image": null,
+    "options": [
+      "30",
+      "60",
+      "100"
+    ],
+    "answer": 1,
+    "explain": "The minimum is $60,000 for injury or death of all persons in one accident under the 2025 limits.",
+    "source": "Cal. Veh. Code § 16056(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16056.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-027",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "For policies issued or renewed since January 1, 2025, minimum liability insurance must cover at least $___,000 for property damage.",
+    "image": null,
+    "options": [
+      "5",
+      "15",
+      "25"
+    ],
+    "answer": 1,
+    "explain": "Property damage coverage must be at least $15,000 per accident under the limits that took effect January 1, 2025.",
+    "source": "Cal. Veh. Code § 16056(a)(2)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16056.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-028",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "You are in a reportable crash and had no insurance. What will the DMV do?",
+    "image": null,
+    "options": [
+      "Suspend your driving privilege",
+      "Issue a warning only",
+      "Require a new vision test"
+    ],
+    "answer": 0,
+    "explain": "When a driver in a reportable accident lacked financial responsibility, the DMV must suspend the driving privilege after giving notice.",
+    "source": "Cal. Veh. Code § 16070(a)-(b)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16070.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-029",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A basic Class C license lets you drive which vehicle?",
+    "image": null,
+    "options": [
+      "Any vehicle with three or more axles",
+      "A two-wheel motorcycle",
+      "A two-axle vehicle with a gross vehicle weight rating of 26,000 pounds or less"
+    ],
+    "answer": 2,
+    "explain": "Class C covers two-axle vehicles rated at 26,000 pounds or less (with some towing limits), and does not include two-wheel motorcycles.",
+    "source": "Cal. Veh. Code § 12804.9(b)(3)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=12804.9.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-030",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 1,
+    "q": "Which license class do you need to ride a two-wheel motorcycle?",
+    "image": null,
+    "options": [
+      "Class M1",
+      "Class C",
+      "Class B"
+    ],
+    "answer": 0,
+    "explain": "A two-wheel motorcycle requires a Class M1 license or an M1 endorsement on another license.",
+    "source": "Cal. Veh. Code § 12804.9(b)(4)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=12804.9.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-031",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 3,
+    "q": "A person under 21 wants a motorcycle license. What must they complete?",
+    "image": null,
+    "options": [
+      "A 50-hour supervised practice log",
+      "Nothing beyond the Class C test",
+      "A novice motorcycle safety training program"
+    ],
+    "answer": 2,
+    "explain": "Applicants under 21 cannot get a Class M1 or M2 license or endorsement without proof of completing a novice motorcycle safety training program.",
+    "source": "Cal. Veh. Code § 12804.9(i)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/selectFromMultiples.xhtml?lawCode=VEH&sectionNum=12804.9.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-032",
+    "type": "number_fill",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "A driver is presumed to be a negligent operator with ___ or more points in 12 months.",
+    "image": null,
+    "options": [
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": 1,
+    "explain": "The negligent operator thresholds are 4 points in 12 months, 6 in 24 months, or 8 in 36 months.",
+    "source": "Cal. Veh. Code § 12810.5(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12810.5.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-033",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "How many points does a DUI or hit-and-run conviction add to a California driving record?",
+    "image": null,
+    "options": [
+      "1 point",
+      "2 points",
+      "4 points"
+    ],
+    "answer": 1,
+    "explain": "Convictions for hit-and-run, DUI and reckless driving each count as two points; most other moving violations count as one.",
+    "source": "Cal. Veh. Code § 12810(a)-(c), (f)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12810.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-034",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "You are found responsible for a traffic collision. How many points are added to your record?",
+    "image": null,
+    "options": [
+      "1 point",
+      "0 points",
+      "3 points"
+    ],
+    "answer": 0,
+    "explain": "A collision in which the DMV deems the driver responsible counts as one point.",
+    "source": "Cal. Veh. Code § 12810(g)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12810.",
+    "verify": true
+  },
+  {
+    "id": "ca-licenses-035",
+    "type": "text",
+    "topic": "licenses",
+    "difficulty": 2,
+    "q": "When does an original California driver license expire?",
+    "image": null,
+    "options": [
+      "On your third birthday after you applied",
+      "Ten years after the date you applied",
+      "On your fifth birthday after the date you applied"
+    ],
+    "answer": 2,
+    "explain": "An original license expires on the applicant's fifth birthday following the application date.",
+    "source": "Cal. Veh. Code § 12816(a)",
+    "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12816.",
+    "verify": true
+  }
+]

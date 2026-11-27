@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>DMV Practice Test – UI mockup</title>
+<style>
+:root{--bg:#eef2f9;--card:#fff;--text:#0f172a;--muted:#64748b;--pri:#2563eb;--ok:#16a34a;--okbg:#dcfce7;--bad:#dc2626;--badbg:#fee2e2;--line:#e2e8f0;--ad:#fef3c7;--adt:#92400e;--note:#475569;color-scheme:light dark;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b1220;--card:#162033;--text:#e8eefc;--muted:#94a3b8;--pri:#60a5fa;--okbg:#14532d;--badbg:#7f1d1d;--line:#27344d;--ad:#422006;--adt:#fcd34d;--note:#a8b5cc}}
+:root[data-theme="dark"]{--bg:#0b1220;--card:#162033;--text:#e8eefc;--muted:#94a3b8;--pri:#60a5fa;--okbg:#14532d;--badbg:#7f1d1d;--line:#27344d;--ad:#422006;--adt:#fcd34d;--note:#a8b5cc}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{padding:20px 16px 4px;text-align:center}
+h1{font-size:20px;margin:0 0 4px}
+header p{margin:0;color:var(--muted)}
+.row{display:flex;flex-wrap:wrap;gap:24px;justify-content:center;padding:20px 12px 32px}
+figure{margin:0;width:280px}
+figcaption{margin-top:10px;color:var(--note);font-size:12.5px}
+figcaption b{color:var(--text)}
+.ph{width:280px;height:540px;background:var(--card);border:6px solid var(--text);border-radius:30px;overflow:hidden;display:flex;flex-direction:column}
+.bar{padding:14px 14px 10px;font-weight:700;font-size:16px;border-bottom:1px solid var(--line)}
+.bar small{display:block;font-weight:400;color:var(--muted);font-size:12px}
+.body{flex:1;overflow:hidden;padding:12px 14px;display:flex;flex-direction:column;gap:8px}
+.in{border:1px solid var(--line);border-radius:10px;padding:9px 11px;color:var(--muted)}
+.li{display:flex;justify-content:space-between;padding:9px 4px;border-bottom:1px solid var(--line)}
+.li span:last-child{color:var(--muted)}
+.lbl{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-top:4px}
+.card{border:1px solid var(--line);border-radius:12px;padding:11px 12px}
+.card b{display:block}
+.card span{color:var(--muted);font-size:12.5px}
+.prog{height:8px;background:var(--line);border-radius:6px;overflow:hidden}
+.prog i{display:block;height:100%;background:var(--pri)}
+.ad{background:var(--ad);color:var(--adt);text-align:center;font-size:11px;padding:10px;border-top:1px dashed var(--adt)}
+.q{font-weight:600;font-size:15px}
+.opt{display:block;width:100%;text-align:left;font:inherit;color:inherit;background:none;border:1px solid var(--line);border-radius:10px;padding:9px 11px;cursor:pointer}
+.opt.ok{background:var(--okbg);border-color:var(--ok)}
+.opt.bad{background:var(--badbg);border-color:var(--bad)}
+.exp{border-left:3px solid var(--pri);padding:4px 10px;font-size:12.5px;color:var(--note)}
+.btn{display:block;width:100%;text-align:center;font:inherit;font-weight:600;border:0;border-radius:10px;padding:11px;background:var(--pri);color:#fff}
+.btn.alt{background:none;color:var(--pri);border:1px solid var(--pri)}
+.big{text-align:center;font-size:40px;font-weight:800;margin:6px 0 0}
+.pass{text-align:center;color:var(--ok);font-weight:700}
+.stats{display:flex;gap:8px}.stats .card{flex:1;text-align:center}
+.chip{display:inline-block;font-size:11px;padding:1px 8px;border-radius:9px;background:var(--badbg);color:var(--bad)}
+.oct{width:110px;height:110px;margin:10px auto;background:#c62828;color:#fff;font-weight:800;font-size:24px;display:flex;align-items:center;justify-content:center;clip-path:polygon(30% 0,70% 0,100% 30%,100% 70%,70% 100%,30% 100%,0 70%,0 30%)}
+.mid{justify-content:center;text-align:center}
+h2{text-align:center;font-size:15px;margin:8px 0 0;color:var(--muted)}
+.sw{width:26px;height:26px;border-radius:6px;border:1px solid var(--line);flex:none}
+.svgq{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);display:block}
+.blank{display:inline-block;min-width:46px;border-bottom:2px solid var(--pri);text-align:center;color:var(--pri)}
+.pills{display:flex;gap:8px}.pills .opt{text-align:center;flex:1}
+.sw-o{display:flex!important;align-items:center;gap:10px}
+.tag{font-size:11px;color:var(--muted)}
+</style></head>
+<body>
+<header><h1>🚗 DMV Practice Test – giao diện mẫu</h1><p>16 màn hình · giao diện tiếng Anh cho người dùng Mỹ · bấm thử đáp án ở màn 3</p></header>
+<div class="row">
+
+<figure><div class="ph">
+<div class="bar">Choose your state<small>You can change this later</small></div>
+<div class="body">
+<div class="in">🔍 Search state…</div>
+<div class="lbl">Popular</div>
+<div class="li"><span>California</span><span>›</span></div>
+<div class="li"><span>Texas</span><span>›</span></div>
+<div class="li"><span>Florida</span><span>›</span></div>
+<div class="li"><span>New York</span><span>›</span></div>
+<div class="lbl">All states</div>
+<div class="li"><span>Alabama</span><span>›</span></div>
+<div class="li"><span>Alaska</span><span>›</span></div>
+</div></div>
+<figcaption><b>Màn 1 · Chọn bang.</b> Lưu bang đã chọn vào bộ nhớ máy, lần sau vào thẳng màn 2.</figcaption></figure>
+
+<figure><div class="ph">
+<div class="bar">California<small>DMV written test prep</small></div>
+<div class="body">
+<div class="card"><b>Your progress</b><div class="prog" style="margin:8px 0 4px"><i style="width:42%"></i></div><span>126 of 300 questions seen</span></div>
+<div class="card"><b>📝 Mock exam</b><span>36 questions · timed</span></div>
+<div class="card"><b>📚 Practice by topic</b><span>Signs, right of way, speed, parking</span></div>
+<div class="card"><b>🚧 Road signs</b><span>Flashcards with images</span></div>
+<div class="card"><b>❗ Review mistakes</b><span>14 questions to revisit</span></div>
+</div>
+<div class="ad">Banner ad slot (AdMob adaptive banner)</div></div>
+<figcaption><b>Màn 2 · Trang chủ của bang.</b> Đọc tiến độ từ bộ nhớ máy. Banner đặt ở đáy.</figcaption></figure>
+
+<figure><div class="ph">
+<div class="bar">Question 7 of 36<div class="prog" style="margin-top:8px"><i style="width:19%"></i></div></div>
+<div class="body" id="quiz">
+<div class="q">What does a solid yellow line on your side of the center line mean?</div>
+<button class="opt">A. You may pass when it is safe</button>
+<button class="opt" data-ok="1">B. Passing is not allowed</button>
+<button class="opt">C. Only motorcycles may pass</button>
+<div class="exp" id="exp" hidden>Mẫu: giải thích ngắn kèm số trang sổ tay. Thay bằng nội dung thật.</div>
+</div>
+<div class="ad">Banner ad slot</div></div>
+<figcaption><b>Màn 3 · Làm bài.</b> Bấm một đáp án để xem đúng/sai và giải thích. Có thể khóa giải thích sau quảng cáo có thưởng.</figcaption></figure>
+
+<figure><div class="ph">
+<div class="bar">Mock exam result</div>
+<div class="body">
+<div class="big">31/36</div><div class="pass">Passed ✔</div>
+<div class="stats"><div class="card"><b>86%</b><span>score</span></div><div class="card"><b>5</b><span>mistakes</span></div></div>
+<button class="btn">Review mistakes</button>
+<button class="btn alt">Try again</button>
+<div class="card" style="margin-top:auto"><b>⭐ Remove ads</b><span>One-time purchase, no subscription</span></div>
+</div></div>
+<figcaption><b>Màn 4 · Kết quả.</b> Hiện quảng cáo xen kẽ (interstitial) khi thoát màn này, không hiện giữa lúc làm bài. Gợi ý gói PRO.</figcaption></figure>
+</div>
+<h2>Các màn chi tiết khác</h2>
+<div class="row">
+
+<figure><div class="ph"><div class="body mid">
+<div style="font-size:44px">🚗</div><b style="font-size:18px">California DMV Practice Test</b>
+<span style="color:var(--muted);font-size:12px">Independent study app. Not affiliated with any government agency.</span>
+<div class="card" style="text-align:left"><b>Your privacy choices</b><span>We and our partners use data to show ads. You can accept or manage your choices.</span></div>
+<button class="btn">Consent</button><button class="btn alt">Manage options</button>
+</div></div>
+<figcaption><b>Màn 5 · Khởi động và đồng ý quảng cáo (UMP).</b> Hiện ở lần mở đầu, bắt buộc với người dùng EU/UK. Có dòng “không liên kết với cơ quan nhà nước”.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Practice by topic<small>Pick a topic to focus on</small></div>
+<div class="body">
+<div class="li"><span>🚧 Road signs</span><span>40 ›</span></div>
+<div class="li"><span>🔀 Right of way</span><span>32 ›</span></div>
+<div class="li"><span>⏱ Speed and distance</span><span>28 ›</span></div>
+<div class="li"><span>🅿 Parking</span><span>20 ›</span></div>
+<div class="li"><span>🍺 Alcohol and drugs</span><span>24 ›</span></div>
+<div class="li"><span>🛡 Safe driving</span><span>36 ›</span></div>
+<div class="li"><span>📄 Licenses and rules</span><span>30 ›</span></div>
+</div><div class="ad">Banner ad slot</div></div>
+<figcaption><b>Màn 6 · Luyện theo chủ đề.</b> Chủ đề lấy từ trường <code>topic</code> trong JSON. Số câu là số mẫu.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Road signs<small>Card 12 of 40</small></div>
+<div class="body mid">
+<div class="oct">STOP</div>
+<div class="card"><b>Tap to flip</b><span>Meaning, color, shape and what to do</span></div>
+<div class="stats"><button class="btn alt">Still learning</button><button class="btn">Got it</button></div>
+</div></div>
+<figcaption><b>Màn 7 · Thẻ ghi nhớ biển báo.</b> Ảnh biển báo nên tự vẽ (SVG) hoặc lấy nguồn công cộng đã kiểm tra giấy phép.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Mock exam<small>Just like the real test</small></div>
+<div class="body">
+<div class="card"><b>36 questions</b><span>Example format. Set per state in the data.</span></div>
+<div class="card"><b>Pass mark</b><span>Set per state in the data</span></div>
+<div class="card"><b>No hints during the test</b><span>Explanations show at the end</span></div>
+<div class="card"><b>⏱ Timer on</b><span>You can pause and resume</span></div>
+<button class="btn" style="margin-top:auto">Start exam</button>
+</div></div>
+<figcaption><b>Màn 8 · Giới thiệu bài thi thử.</b> Số câu và điểm đạt đọc từ cấu hình của từng bang, không gắn cứng trong code.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Review mistakes<small>14 questions to revisit</small></div>
+<div class="body">
+<div class="card"><b>Solid yellow line meaning</b><span class="chip">Missed 2×</span></div>
+<div class="card"><b>Four-way stop priority</b><span class="chip">Missed 1×</span></div>
+<div class="card"><b>Legal alcohol limit</b><span class="chip">Missed 1×</span></div>
+<div class="card"><b>Headlights in rain</b><span class="chip">Missed 1×</span></div>
+<button class="btn" style="margin-top:auto">Practice these 14</button>
+</div></div>
+<figcaption><b>Màn 9 · Ôn câu sai.</b> Đọc từ ProgressStore. Câu trả lời đúng 2 lần liên tiếp thì rời khỏi danh sách.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Go PRO</div>
+<div class="body">
+<div class="card"><b>🚫 No ads</b><span>Practice without interruptions</span></div>
+<div class="card"><b>💡 All explanations unlocked</b><span>No need to watch an ad</span></div>
+<div class="card"><b>📴 Works offline</b><span>Study anywhere</span></div>
+<div class="big" style="font-size:28px">$X.XX</div><div class="pass" style="color:var(--muted);font-weight:400">one-time (price is an example)</div>
+<button class="btn">Buy PRO</button>
+<button class="btn alt">▶ Watch an ad to unlock this explanation</button>
+<div style="text-align:center;color:var(--pri);font-size:12px">Restore purchase</div>
+</div></div>
+<figcaption><b>Màn 10 · Gói PRO và quảng cáo có thưởng.</b> Có nút Restore purchase (Google Play yêu cầu). Giá sẽ quyết định sau.</figcaption></figure>
+
+</div>
+<h2>6 dạng câu hỏi (bấm thử đáp án)</h2>
+<div class="row">
+
+<figure><div class="ph"><div class="bar">Question 1 of 36<span class="tag"> · text</span></div><div class="body qs">
+<div class="q">What should you do when a traffic signal turns yellow as you approach?</div>
+<button class="opt">a. Speed up to beat the red light</button>
+<button class="opt" data-ok="1">b. Stop if you can do so safely</button>
+<button class="opt">c. Always brake as hard as possible</button>
+<div class="exp" hidden>Yellow warns that red is coming. Stop if it is safe to do so.</div>
+</div><div class="ad">Banner ad slot</div></div>
+<figcaption><b>Dạng 1 · Kiến thức (text).</b> <code>type:"text"</code>, 3 lựa chọn a/b/c.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Question 2 of 36<span class="tag"> · number_fill</span></div><div class="body qs">
+<div class="q">You must signal for at least the last <span class="blank">&nbsp;&nbsp;&nbsp;</span> feet before turning.</div>
+<div class="pills"><button class="opt">50</button><button class="opt">75</button><button class="opt" data-ok="1">100</button></div>
+<div class="exp" hidden>Mẫu: số liệu phải đối chiếu luật của từng bang.</div>
+</div><div class="ad">Banner ad slot</div></div>
+<figcaption><b>Dạng 2 · Điền số.</b> <code>type:"number_fill"</code>, chỗ trống <code>___</code> trong câu, các lựa chọn là số xếp ngang.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Question 3 of 36<span class="tag"> · scenario</span></div><div class="body qs">
+<svg class="svgq" viewBox="0 0 240 110" role="img" aria-label="Pedestrian in crosswalk ahead of a car"><rect width="240" height="110" fill="#4b5563"/><g fill="#fff"><rect x="150" y="0" width="10" height="110" opacity=".9"/><rect x="166" y="0" width="10" height="110" opacity=".9"/><rect x="182" y="0" width="10" height="110" opacity=".9"/></g><rect x="40" y="40" width="60" height="30" rx="8" fill="#2563eb"/><rect x="80" y="45" width="14" height="20" rx="3" fill="#bfdbfe"/><circle cx="171" cy="34" r="7" fill="#fbbf24"/><rect x="167" y="41" width="8" height="22" rx="3" fill="#f97316"/></svg>
+<div class="q">A pedestrian has stepped into the crosswalk ahead. What should you do?</div>
+<button class="opt" data-ok="1">a. Stop and let the pedestrian cross</button>
+<button class="opt">b. Honk and keep going</button>
+<button class="opt">c. Speed up to pass first</button>
+<div class="exp" hidden>Drivers must yield to pedestrians in a crosswalk.</div>
+</div></div>
+<figcaption><b>Dạng 3 · Tình huống.</b> <code>type:"scenario"</code> kèm <code>image</code> (SVG tự vẽ) đặt trên câu hỏi.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Question 4 of 36<span class="tag"> · sign</span></div><div class="body qs">
+<div class="oct">STOP</div>
+<div class="q">What does this sign mean?</div>
+<button class="opt">a. Slow down and yield</button>
+<button class="opt" data-ok="1">b. Come to a complete stop</button>
+<button class="opt">c. Do not enter</button>
+<div class="exp" hidden>The octagon shape is used only for stop signs.</div>
+</div></div>
+<figcaption><b>Dạng 4 · Biển báo.</b> <code>type:"sign"</code>, ảnh biển báo tự vẽ bằng SVG hoặc lấy từ nguồn công cộng đã kiểm tra giấy phép.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Question 5 of 36<span class="tag"> · marking</span></div><div class="body qs">
+<svg class="svgq" viewBox="0 0 240 110" role="img" aria-label="Road with two solid yellow center lines"><rect width="240" height="110" fill="#4b5563"/><rect y="49" width="240" height="4" fill="#facc15"/><rect y="57" width="240" height="4" fill="#facc15"/><rect y="6" width="240" height="3" fill="#fff"/><rect y="101" width="240" height="3" fill="#fff"/></svg>
+<div class="q">What do two solid yellow lines in the center of the road mean?</div>
+<button class="opt">a. Passing is allowed with care</button>
+<button class="opt" data-ok="1">b. Passing is not allowed in either direction</button>
+<button class="opt">c. The road is one-way</button>
+<div class="exp" hidden>Two solid yellow lines separate traffic going in opposite directions.</div>
+</div></div>
+<figcaption><b>Dạng 5 · Vạch kẻ đường.</b> <code>type:"marking"</code>, ảnh vạch vàng/trắng vẽ bằng SVG.</figcaption></figure>
+
+<figure><div class="ph"><div class="bar">Question 6 of 36<span class="tag"> · image_options</span></div><div class="body qs">
+<div class="q">Which curb color means no stopping, standing or parking?</div>
+<button class="opt sw-o"><span class="sw" style="background:#facc15"></span>a. Yellow</button>
+<button class="opt sw-o" data-ok="1"><span class="sw" style="background:#c62828"></span>b. Red</button>
+<button class="opt sw-o"><span class="sw" style="background:#f1f5f9"></span>c. White</button>
+<div class="exp" hidden>Mẫu: màu lề đường có thể khác nhau giữa các bang, cần kiểm tra.</div>
+</div></div>
+<figcaption><b>Dạng 6 · Lựa chọn bằng hình/màu.</b> <code>type:"image_options"</code>, mỗi lựa chọn có ô màu hoặc ảnh nhỏ.</figcaption></figure>
+
+</div>
+<script>
+document.querySelectorAll('.qs').forEach(function(q){q.querySelectorAll('.opt').forEach(function(b){b.onclick=function(){if(q.dataset.done)return;q.dataset.done=1;b.classList.add(b.dataset.ok?'ok':'bad');q.querySelector('[data-ok]').classList.add('ok');var e=q.querySelector('.exp');if(e)e.hidden=false;};});});
+</script>
+<script>
+document.querySelectorAll('#quiz .opt').forEach(function(b){b.onclick=function(){
+var q=document.getElementById('quiz');if(q.dataset.done)return;q.dataset.done=1;
+b.classList.add(b.dataset.ok?'ok':'bad');q.querySelector('[data-ok]').classList.add('ok');
+document.getElementById('exp').hidden=false;};});
+</script>
+</body></html>

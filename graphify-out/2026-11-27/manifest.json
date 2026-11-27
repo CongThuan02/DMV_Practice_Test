@@ -1,8 +1,8 @@
 {
   "lib/app/app.dart": {
-    "mtime": 1795764306.6899955,
-    "ast_hash": "79c6ed544f7aa35c13ac9bc922c527ef",
-    "semantic_hash": "79c6ed544f7aa35c13ac9bc922c527ef"
+    "mtime": 1795765089.5337026,
+    "ast_hash": "a7bd07063111bbf85d77199ffa957c7c",
+    "semantic_hash": ""
   },
   "lib/core/network/api_exception.dart": {
     "mtime": 1795764306.7085583,
@@ -20,14 +20,14 @@
     "semantic_hash": "253288d37841e56e8f9d40ae77ec7ce0"
   },
   "lib/core/router/app_router.dart": {
-    "mtime": 1795764306.7055259,
-    "ast_hash": "93b29becb1f13373191144241a3123ed",
-    "semantic_hash": "93b29becb1f13373191144241a3123ed"
+    "mtime": 1795765483.095307,
+    "ast_hash": "13d433dbf0eb9c609f0aa9b27e94ec3a",
+    "semantic_hash": ""
   },
   "lib/core/router/app_routes.dart": {
-    "mtime": 1795764306.7005935,
-    "ast_hash": "59857ba3464ac6726b2c2fffea87c085",
-    "semantic_hash": "59857ba3464ac6726b2c2fffea87c085"
+    "mtime": 1795765089.5283134,
+    "ast_hash": "6fcecb0d43267f98aafc5a62927ed790",
+    "semantic_hash": ""
   },
   "lib/core/theme/app_theme.dart": {
     "mtime": 1795764306.6982417,
@@ -35,13 +35,163 @@
     "semantic_hash": "1086f61ff58a9bb0cf1aec0aafed7684"
   },
   "lib/features/home/presentation/views/home_page.dart": {
-    "mtime": 1795764306.721211,
-    "ast_hash": "a71c2b4cad0253fd450cce04a34576a5",
-    "semantic_hash": "a71c2b4cad0253fd450cce04a34576a5"
+    "mtime": 1795765234.7829518,
+    "ast_hash": "085f7a912e4ce3e3c21b6928e93b0097",
+    "semantic_hash": ""
   },
   "lib/main.dart": {
-    "mtime": 1795764306.68287,
-    "ast_hash": "10c9998a7aed457e830f4ce86bd6cdc2",
-    "semantic_hash": "10c9998a7aed457e830f4ce86bd6cdc2"
+    "mtime": 1795765089.5399182,
+    "ast_hash": "13a6dce52ba36ca143a2a69c321b7c65",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1795764409.716189,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": ""
+  },
+  "lib/core/localization/localized_text.dart": {
+    "mtime": 1795764977.4404268,
+    "ast_hash": "c03982e06deb75d5b8b37003ba7a6075",
+    "semantic_hash": ""
+  },
+  "lib/core/storage/shared_preferences_provider.dart": {
+    "mtime": 1795764977.4499285,
+    "ast_hash": "1527266556b468f61a446f52da23c2f7",
+    "semantic_hash": ""
+  },
+  "lib/core/widgets/confirm_dialog.dart": {
+    "mtime": 1795764977.4756515,
+    "ast_hash": "f939fb3032b3aa51a88bd4c953a49ea8",
+    "semantic_hash": ""
+  },
+  "lib/core/widgets/error_retry_view.dart": {
+    "mtime": 1795764977.464348,
+    "ast_hash": "1768bcca5f42d1497e2bc4c233fc5ca7",
+    "semantic_hash": ""
+  },
+  "lib/features/history/data/models/quiz_attempt_dto.dart": {
+    "mtime": 1795765010.7384737,
+    "ast_hash": "c1adfc4ec31621d1822f20ee0883720f",
+    "semantic_hash": ""
+  },
+  "lib/features/history/data/repositories/history_repository.dart": {
+    "mtime": 1795765010.7428281,
+    "ast_hash": "96e3799f696ea1bf53554ed6920b418c",
+    "semantic_hash": ""
+  },
+  "lib/features/history/domain/quiz_attempt.dart": {
+    "mtime": 1795765010.7318041,
+    "ast_hash": "1d5e3a130037e927f4c7603be7966a59",
+    "semantic_hash": ""
+  },
+  "lib/features/history/presentation/view_models/history_view_model.dart": {
+    "mtime": 1795765010.7456884,
+    "ast_hash": "b41eac38b73476b3cc1f0b36507e8b23",
+    "semantic_hash": ""
+  },
+  "lib/features/history/presentation/views/history_page.dart": {
+    "mtime": 1795765089.5188346,
+    "ast_hash": "299632e08fab318e9dfc7240ec1fc831",
+    "semantic_hash": ""
+  },
+  "lib/features/home/presentation/widgets/category_tile.dart": {
+    "mtime": 1795765089.5023472,
+    "ast_hash": "678703fc95f9ec08bb2b88f6832dd517",
+    "semantic_hash": ""
+  },
+  "lib/features/home/presentation/widgets/full_test_card.dart": {
+    "mtime": 1795765234.7861977,
+    "ast_hash": "fe80ccb5163fbfe6abbd2c1f1f375195",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/data/models/question_bank_dto.dart": {
+    "mtime": 1795764977.4958658,
+    "ast_hash": "fca93ea6c4c142120a6b44736c34ba14",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/data/repositories/quiz_repository.dart": {
+    "mtime": 1795765234.7945783,
+    "ast_hash": "623ba5c6ac81bb223daa2dbdeacf9337",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/data/services/question_bank_local_source.dart": {
+    "mtime": 1795764977.5062158,
+    "ast_hash": "4b258db78a0b070e641ebda28866b003",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/domain/category.dart": {
+    "mtime": 1795764977.4917462,
+    "ast_hash": "47f19481b9fd78d3ed4ae8729e457113",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/domain/question.dart": {
+    "mtime": 1795764977.4939277,
+    "ast_hash": "5d7d0c47f3dff32a5b02f03f0b5e1677",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/domain/quiz_rules.dart": {
+    "mtime": 1795764977.482306,
+    "ast_hash": "eea686d1418b755bf78a2db413e1bba7",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/presentation/view_models/quiz_state.dart": {
+    "mtime": 1795765010.7119472,
+    "ast_hash": "6a509cbab9d3c8a237c1c1e9fda9ea7b",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/presentation/view_models/quiz_view_model.dart": {
+    "mtime": 1795765010.726259,
+    "ast_hash": "c209b4d662810268f3ca91a2f7dc575e",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/presentation/views/quiz_page.dart": {
+    "mtime": 1795765089.5038927,
+    "ast_hash": "39ec56b6db04a70ac6f1f306bc88db82",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/presentation/widgets/answer_colors.dart": {
+    "mtime": 1795765089.5062754,
+    "ast_hash": "e78a4d8574731cfaef27e9d68a495c76",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/presentation/widgets/question_view.dart": {
+    "mtime": 1795765234.8116605,
+    "ast_hash": "83a0b31ea910c4d1955c56371b7d5079",
+    "semantic_hash": ""
+  },
+  "lib/features/quiz/presentation/widgets/quiz_result_view.dart": {
+    "mtime": 1795765234.8147972,
+    "ast_hash": "9e9a48e63a5222ebc41b5dc0317a597a",
+    "semantic_hash": ""
+  },
+  "lib/features/settings/data/repositories/settings_repository.dart": {
+    "mtime": 1795765010.7487419,
+    "ast_hash": "615d369e03b932d2017bbcbadaaac37b",
+    "semantic_hash": ""
+  },
+  "lib/features/settings/presentation/view_models/theme_mode_view_model.dart": {
+    "mtime": 1795765010.7586136,
+    "ast_hash": "14f6f135dc8d8351bf21b2c8a62f0317",
+    "semantic_hash": ""
+  },
+  "lib/features/settings/presentation/views/settings_page.dart": {
+    "mtime": 1795765089.524939,
+    "ast_hash": "400fb96c13867aeff964198ce00ffccb",
+    "semantic_hash": ""
+  },
+  "test/features/history/history_repository_test.dart": {
+    "mtime": 1795765208.2636483,
+    "ast_hash": "b62e9317a110b7ab0c4633ffd38006e9",
+    "semantic_hash": ""
+  },
+  "test/features/quiz/question_bank_asset_test.dart": {
+    "mtime": 1795765234.828147,
+    "ast_hash": "9d8f39ef7df041854b937a0baabb0ee0",
+    "semantic_hash": ""
+  },
+  "test/features/quiz/quiz_view_model_test.dart": {
+    "mtime": 1795765208.2286541,
+    "ast_hash": "7e6ada5b2e156805a3e6a71d9446266c",
+    "semantic_hash": ""
   }
 }

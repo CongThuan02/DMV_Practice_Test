@@ -1,0 +1,8 @@
+{
+  "state": "CA",
+  "stateName": "California",
+  "version": 1,
+  "exam": { "questions": 36, "passMark": 30 },
+  "examNote": "80% pass mark is confirmed (DMV help pages, sa.dmv.ca.gov ruleid 2913/2914). DMV does not publish the question count; 36 for adults (46/38 for minors) is UNVERIFIED and must be confirmed before release.",
+  "topics": ["signs", "right_of_way", "lanes", "speed", "parking", "alcohol", "safe_driving", "licenses"]
+}
