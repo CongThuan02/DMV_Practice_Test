@@ -1,0 +1,14 @@
+android/
+ios/
+web/
+linux/
+macos/
+windows/
+build/
+*.png
+*.g.dart
+*.freezed.dart
+README.md
+analysis_options.yaml
+pubspec.yaml
+assets/translations/
